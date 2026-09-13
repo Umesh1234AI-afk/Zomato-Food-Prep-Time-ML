@@ -1,0 +1,51 @@
+name: CT Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  model-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Test Model Prediction
+        run: |
+          python - <<'PY'
+          import joblib
+          import pandas as pd
+
+          model = joblib.load("models/food_prep_model.pkl")
+
+          sample = pd.DataFrame({
+              "number_of_items": [3],
+              "cuisine_type": ["Indian"],
+              "order_hour": [19],
+              "day_of_week": ["Sat"],
+              "restaurant_load": ["High"],
+              "historical_avg_prep_time": [20]
+          })
+
+          prediction = model.predict(sample)
+
+          assert len(prediction) == 1
+          assert prediction[0] > 0
+
+          print("Prediction:", prediction[0])
+          print("CT Pipeline Passed Successfully")
+          PY
