@@ -25,7 +25,7 @@ jobs:
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v2
 
-      - name: Build and Push Docker Image
+            - name: Build and Push Docker Image
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
           ECR_REPOSITORY: zomato-food-prep-ml
@@ -34,5 +34,12 @@ jobs:
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
+      - name: Deploy latest image to ECS
+        run: |
+          aws ecs update-service \
+            --cluster zomato-food-prep-cluster \
+            --service zomato-food-prep-service \
+            --force-new-deployment
+
       - name: CD completed
-        run: echo "Docker image pushed to Amazon ECR successfully"
+        run: echo "Docker image pushed and ECS deployment triggered successfully"
