@@ -1,0 +1,5001 @@
+restaurant_id,number_of_items,cuisine_type,order_hour,day_of_week,restaurant_load,historical_avg_prep_time,food_preparation_time
+1052,1,Italian,13,Sun,Medium,27,42.1
+1093,5,Chinese,20,Sun,Low,18,31.0
+1015,5,Fast Food,10,Sat,Medium,17,26.4
+1072,1,Chinese,20,Mon,Medium,16,27.5
+1061,6,Chinese,18,Tue,Medium,18,28.2
+1021,3,Indian,17,Wed,High,18,35.8
+1083,5,Chinese,13,Fri,High,20,46.1
+1087,3,Chinese,12,Thu,Low,13,20.1
+1075,7,Fast Food,11,Wed,High,16,31.1
+1075,6,Fast Food,15,Tue,Medium,30,43.3
+1088,1,South Indian,9,Sun,Medium,16,28.0
+1100,6,Indian,22,Sun,Low,13,29.8
+1024,5,Chinese,19,Sun,Medium,21,42.4
+1003,2,Indian,21,Mon,Low,26,34.7
+1022,7,Italian,18,Sun,Medium,29,48.4
+1053,1,Chinese,14,Thu,Low,12,22.0
+1002,4,Indian,11,Fri,Low,18,32.7
+1088,7,South Indian,9,Sat,Low,14,27.4
+1030,8,South Indian,22,Sat,Low,29,44.9
+1038,3,Chinese,14,Wed,Low,25,33.5
+1002,6,Italian,20,Fri,Medium,17,36.5
+1064,1,South Indian,8,Tue,Low,30,27.0
+1060,7,South Indian,11,Fri,Medium,25,41.9
+1021,6,Italian,16,Mon,Low,28,36.0
+1033,1,Indian,21,Wed,High,25,41.2
+1076,5,South Indian,11,Wed,High,27,43.8
+1058,7,Fast Food,19,Mon,Low,24,32.7
+1022,5,South Indian,20,Fri,Medium,27,41.7
+1089,7,Indian,10,Sun,Low,23,37.2
+1049,5,Indian,17,Mon,High,25,48.3
+1091,8,Chinese,17,Sun,Medium,14,39.7
+1059,6,Fast Food,9,Thu,Low,17,20.4
+1042,4,Indian,23,Mon,Medium,25,46.5
+1092,7,Italian,21,Sun,Low,30,48.8
+1060,8,Fast Food,22,Fri,Medium,10,22.1
+1080,7,Fast Food,10,Sun,Medium,20,36.1
+1015,5,Italian,8,Mon,Medium,20,35.8
+1062,1,South Indian,17,Tue,Medium,11,14.8
+1062,7,Italian,15,Sat,Low,28,47.9
+1047,8,Italian,8,Mon,Low,14,33.0
+1062,5,South Indian,10,Sat,Low,12,23.0
+1051,2,South Indian,21,Mon,High,17,33.1
+1055,5,South Indian,10,Fri,Low,13,19.2
+1064,6,South Indian,20,Thu,Medium,22,37.7
+1003,4,South Indian,22,Thu,Medium,23,30.8
+1051,2,Italian,9,Sat,Low,10,19.2
+1007,6,Chinese,21,Fri,Medium,14,33.8
+1021,6,Chinese,12,Sun,Medium,30,47.1
+1073,6,Indian,17,Fri,Medium,16,31.1
+1039,1,Chinese,10,Fri,Medium,15,19.2
+1018,6,Chinese,10,Tue,Medium,24,38.7
+1004,1,Italian,15,Wed,Medium,24,30.4
+1089,6,South Indian,11,Mon,Medium,17,30.8
+1060,3,South Indian,11,Fri,Medium,11,18.1
+1014,8,Italian,10,Fri,Low,23,36.4
+1009,2,Chinese,18,Fri,Medium,25,32.6
+1090,3,Italian,8,Thu,Low,19,27.3
+1053,6,Indian,15,Fri,Low,24,35.3
+1002,2,South Indian,22,Mon,Medium,13,12.4
+1084,2,Fast Food,8,Sun,High,21,27.5
+1092,7,Indian,14,Sun,High,19,53.8
+1060,4,Indian,12,Fri,Low,11,23.2
+1071,3,Italian,11,Mon,Medium,13,25.3
+1044,4,Chinese,11,Tue,Medium,29,41.7
+1008,2,South Indian,15,Sun,Low,15,23.7
+1047,1,Fast Food,18,Wed,High,23,27.8
+1035,2,Indian,18,Thu,Medium,12,22.0
+1078,4,Fast Food,20,Mon,High,24,37.9
+1081,3,Chinese,21,Sun,Low,10,22.9
+1036,6,Chinese,13,Sun,Low,28,52.5
+1050,7,Fast Food,23,Sat,High,10,27.1
+1004,7,South Indian,21,Tue,Medium,22,39.1
+1002,7,Chinese,19,Wed,High,17,43.0
+1006,6,Fast Food,8,Wed,Low,27,31.6
+1054,7,Indian,21,Wed,Medium,12,36.4
+1004,3,Fast Food,17,Mon,Medium,27,33.8
+1054,6,Fast Food,15,Tue,Low,29,33.7
+1093,7,Italian,20,Fri,Medium,18,46.9
+1063,6,Chinese,21,Sat,Medium,15,41.5
+1018,4,South Indian,9,Tue,Low,29,32.9
+1090,8,South Indian,13,Tue,Low,11,29.2
+1044,8,Italian,16,Sun,Medium,13,37.0
+1034,3,South Indian,8,Tue,Medium,27,32.9
+1074,5,Fast Food,13,Mon,High,16,27.8
+1062,1,Italian,23,Sat,Medium,20,35.6
+1100,7,Indian,15,Mon,Low,14,25.3
+1014,1,Chinese,17,Sat,High,17,33.4
+1095,6,Chinese,20,Sat,High,20,49.9
+1048,1,Chinese,9,Sun,Low,29,31.4
+1015,3,Fast Food,12,Mon,High,29,44.3
+1072,3,Indian,13,Sat,Low,24,39.6
+1078,2,Italian,12,Tue,Low,12,17.0
+1087,8,Italian,10,Mon,Low,16,26.8
+1062,7,Chinese,11,Sat,Low,17,26.3
+1040,2,Indian,14,Wed,High,20,38.9
+1085,1,Indian,11,Mon,Medium,19,30.7
+1080,5,Indian,16,Sun,High,29,46.4
+1082,2,South Indian,18,Thu,Medium,18,25.0
+1053,2,South Indian,19,Mon,Medium,24,35.8
+1024,3,Chinese,21,Mon,Medium,29,47.1
+1026,5,Indian,20,Mon,High,14,42.0
+1089,6,Indian,20,Sat,Medium,24,49.2
+1060,1,Italian,17,Mon,High,13,24.5
+1041,2,Italian,9,Thu,High,14,25.4
+1029,5,Chinese,23,Fri,Low,24,29.6
+1015,8,Indian,12,Mon,Medium,26,44.5
+1045,7,Chinese,15,Wed,High,17,35.3
+1065,5,Italian,21,Thu,High,28,51.7
+1089,8,Italian,12,Fri,Low,18,33.3
+1071,1,South Indian,17,Sat,Medium,19,26.0
+1009,5,Chinese,19,Mon,Medium,14,32.3
+1088,8,Chinese,15,Fri,Low,19,32.0
+1001,5,Indian,15,Wed,Medium,10,27.5
+1008,5,Indian,16,Thu,Low,13,24.7
+1088,7,South Indian,17,Thu,Medium,30,44.1
+1063,8,Fast Food,13,Sat,Medium,14,31.9
+1011,8,Fast Food,23,Sat,Medium,16,32.2
+1081,2,Fast Food,19,Sat,Medium,14,28.0
+1008,1,Chinese,11,Fri,Medium,29,36.6
+1035,7,Chinese,19,Mon,Low,17,36.9
+1035,5,Italian,18,Tue,Low,26,38.2
+1033,5,Chinese,10,Thu,Low,10,22.6
+1005,2,Chinese,22,Tue,Low,27,33.2
+1041,1,Chinese,19,Sun,Medium,21,35.2
+1028,3,South Indian,23,Thu,High,12,24.2
+1007,7,Chinese,21,Sat,Low,29,52.2
+1073,2,Indian,12,Mon,Low,23,21.3
+1072,1,Indian,13,Mon,Medium,25,41.6
+1012,7,Italian,10,Thu,Medium,27,46.7
+1034,5,South Indian,9,Fri,High,19,40.9
+1033,1,Indian,23,Sun,Medium,24,31.4
+1048,1,South Indian,14,Sat,Medium,19,35.3
+1023,6,South Indian,18,Mon,Low,10,21.8
+1062,1,Italian,12,Sun,Medium,28,36.0
+1088,3,South Indian,16,Sun,Low,11,18.0
+1037,1,Chinese,22,Mon,Low,22,23.2
+1099,3,South Indian,10,Wed,Low,25,28.3
+1044,5,Italian,21,Sun,High,17,40.0
+1086,3,Italian,22,Mon,Medium,12,25.9
+1091,7,Italian,15,Wed,Low,30,40.8
+1035,5,Indian,13,Mon,Medium,28,44.9
+1065,5,Chinese,11,Mon,Medium,23,39.6
+1099,3,Indian,19,Sun,Medium,20,35.2
+1047,8,Fast Food,19,Fri,Low,21,34.5
+1078,2,Chinese,22,Fri,Medium,20,24.6
+1003,4,South Indian,16,Sat,High,20,43.1
+1001,8,Italian,12,Mon,Low,30,48.8
+1005,1,Fast Food,23,Sat,Low,27,24.3
+1090,6,Chinese,22,Sat,Low,19,29.8
+1014,4,Indian,17,Sat,Low,25,39.5
+1027,1,Italian,23,Sat,Medium,17,28.1
+1009,8,Indian,13,Thu,High,15,44.3
+1079,8,Chinese,21,Sun,High,28,58.1
+1015,1,Chinese,22,Sun,Low,22,26.1
+1090,5,Fast Food,22,Thu,Medium,24,34.7
+1042,1,South Indian,20,Mon,Medium,22,36.5
+1077,6,Indian,16,Thu,Medium,10,32.3
+1051,8,Fast Food,14,Mon,Medium,30,46.2
+1063,1,Italian,19,Fri,Low,11,19.0
+1096,3,South Indian,12,Sun,Medium,22,37.4
+1052,4,Fast Food,9,Tue,Medium,11,14.6
+1096,3,Indian,11,Wed,High,20,34.4
+1004,6,Chinese,9,Sun,High,22,47.2
+1094,1,Italian,10,Thu,Low,19,20.4
+1023,7,Indian,17,Thu,Low,24,34.2
+1015,6,South Indian,19,Fri,High,10,31.3
+1043,5,South Indian,10,Thu,Medium,23,38.0
+1029,3,Chinese,11,Mon,High,19,34.1
+1036,3,Chinese,13,Mon,Low,27,32.7
+1013,2,Italian,19,Tue,Medium,20,31.8
+1032,1,Italian,10,Tue,Medium,16,28.3
+1071,5,Chinese,17,Sun,High,24,44.8
+1059,7,Chinese,21,Tue,Low,12,28.9
+1086,3,South Indian,8,Mon,Low,11,15.4
+1028,3,Chinese,8,Sat,Medium,17,30.0
+1066,5,Fast Food,23,Sat,High,17,31.8
+1042,6,Indian,16,Tue,High,20,45.8
+1045,6,Chinese,16,Tue,High,25,43.4
+1062,1,Italian,12,Mon,High,11,25.8
+1057,8,Fast Food,16,Fri,Low,14,28.9
+1006,2,Italian,18,Sun,Low,16,24.7
+1028,3,Fast Food,14,Thu,Low,29,31.3
+1028,8,Chinese,16,Sun,Medium,22,44.0
+1044,8,Indian,19,Wed,High,11,39.7
+1084,2,Italian,14,Sat,High,12,36.3
+1030,8,Fast Food,16,Sat,Low,18,31.0
+1062,8,South Indian,22,Mon,Medium,19,36.0
+1075,6,Chinese,9,Sun,High,22,41.8
+1092,6,Indian,18,Mon,Medium,30,41.2
+1089,4,Chinese,18,Wed,Low,22,26.8
+1062,7,South Indian,15,Sun,Medium,14,34.6
+1097,1,Indian,14,Wed,Medium,16,32.3
+1001,8,South Indian,23,Tue,Medium,26,42.5
+1027,4,Chinese,13,Sun,Medium,24,40.4
+1062,7,Fast Food,12,Wed,Low,14,22.2
+1077,4,Chinese,11,Thu,High,16,34.3
+1003,4,Chinese,14,Thu,Medium,11,29.5
+1070,1,Chinese,10,Sat,Medium,27,36.4
+1072,1,Italian,15,Thu,High,19,37.0
+1027,5,South Indian,9,Sun,Low,10,24.8
+1009,2,South Indian,8,Thu,Low,23,21.9
+1062,2,South Indian,18,Thu,High,28,35.2
+1037,5,Italian,9,Tue,Low,25,31.6
+1097,5,Fast Food,16,Sat,High,28,47.5
+1051,6,Chinese,12,Mon,Low,15,20.7
+1044,7,Fast Food,18,Sat,Low,21,33.0
+1024,4,Italian,15,Sat,Medium,12,26.7
+1079,8,South Indian,10,Sat,Low,16,28.7
+1059,5,Chinese,14,Wed,High,12,35.7
+1032,3,Indian,22,Mon,Medium,26,36.9
+1096,2,Indian,9,Wed,High,24,41.0
+1088,5,Fast Food,15,Tue,High,28,36.1
+1052,3,South Indian,21,Tue,Low,28,34.7
+1062,3,Indian,14,Fri,High,20,38.8
+1058,3,Fast Food,19,Fri,Medium,30,41.4
+1052,6,Italian,12,Tue,Medium,29,44.1
+1012,6,Fast Food,19,Tue,High,11,34.3
+1039,8,Fast Food,18,Wed,Medium,16,28.2
+1002,8,Fast Food,11,Tue,Medium,28,42.1
+1003,3,Chinese,8,Sun,Medium,16,32.9
+1056,7,Fast Food,12,Mon,Low,19,21.3
+1081,6,Fast Food,19,Wed,Low,21,31.9
+1059,4,Chinese,16,Tue,Medium,27,38.1
+1002,3,Chinese,17,Wed,Low,15,18.0
+1002,4,Italian,11,Wed,Low,29,36.7
+1092,4,South Indian,20,Thu,Low,30,42.1
+1054,3,Indian,16,Fri,Medium,17,26.2
+1087,2,Indian,19,Wed,Medium,14,28.8
+1096,7,Fast Food,9,Sat,High,12,28.5
+1097,3,Italian,11,Sun,Medium,11,23.8
+1001,8,Fast Food,16,Sun,Medium,15,34.2
+1019,3,Indian,11,Wed,Medium,16,30.3
+1002,6,Chinese,12,Sat,Medium,17,38.3
+1053,3,South Indian,18,Sun,Medium,13,24.1
+1044,2,Italian,15,Thu,High,21,33.6
+1090,6,Chinese,23,Tue,High,21,43.0
+1032,8,South Indian,8,Wed,High,26,51.9
+1070,1,Italian,8,Thu,High,28,40.1
+1032,1,Italian,16,Mon,Medium,18,29.3
+1068,4,Indian,16,Thu,Medium,21,36.3
+1055,7,Chinese,11,Fri,Medium,30,44.9
+1075,4,Italian,20,Fri,Medium,26,41.9
+1056,2,Italian,23,Tue,High,19,32.5
+1017,5,South Indian,9,Sat,Medium,28,38.3
+1038,8,Indian,23,Tue,High,20,43.7
+1024,7,Fast Food,20,Sun,Medium,29,52.0
+1069,8,Indian,16,Sat,High,22,54.4
+1098,1,Fast Food,21,Sat,Medium,13,22.7
+1070,4,Chinese,11,Sat,Medium,24,39.6
+1086,8,Chinese,13,Sat,Medium,21,46.5
+1011,1,Italian,19,Fri,High,19,33.9
+1016,2,Chinese,8,Sun,High,16,33.3
+1097,2,Italian,19,Fri,Low,11,19.3
+1073,5,Indian,16,Wed,Medium,30,50.1
+1059,8,Chinese,12,Sun,Medium,16,38.6
+1070,5,Indian,22,Fri,High,17,38.3
+1080,6,Indian,10,Tue,Medium,30,43.6
+1093,7,Chinese,11,Fri,Low,28,33.6
+1003,8,Indian,8,Sun,Medium,15,39.7
+1020,2,Chinese,21,Sun,Medium,30,44.1
+1059,4,Chinese,16,Tue,Low,17,27.2
+1036,1,Chinese,21,Mon,Medium,29,37.1
+1019,3,Fast Food,15,Sun,High,13,23.8
+1090,5,Indian,11,Fri,High,29,52.4
+1067,3,South Indian,9,Tue,Low,18,23.7
+1019,8,Chinese,21,Sat,High,14,42.4
+1020,4,Indian,16,Sun,Medium,15,31.3
+1096,5,Italian,11,Thu,Low,28,43.7
+1071,3,Chinese,16,Sat,Low,21,29.8
+1052,7,Chinese,17,Wed,Low,14,26.2
+1033,4,South Indian,10,Sun,High,14,34.9
+1040,1,Fast Food,14,Tue,Low,27,29.9
+1039,7,Fast Food,14,Sat,Low,15,34.9
+1082,4,Chinese,17,Fri,High,18,36.5
+1001,6,Indian,20,Fri,Medium,20,44.5
+1011,5,Italian,11,Sun,High,23,49.5
+1092,2,Italian,9,Mon,Medium,11,18.7
+1057,1,Indian,18,Thu,Low,23,25.0
+1089,8,Chinese,16,Sun,High,28,50.4
+1050,7,Italian,11,Tue,Low,19,32.0
+1023,7,Fast Food,15,Sat,Medium,14,24.7
+1031,3,Indian,21,Thu,Medium,13,30.5
+1094,5,South Indian,9,Mon,Low,16,22.2
+1042,8,Chinese,15,Sun,High,22,51.3
+1099,2,Indian,23,Wed,Medium,19,30.9
+1007,4,Italian,18,Thu,Low,19,26.0
+1016,2,Chinese,23,Mon,High,13,28.5
+1090,5,Fast Food,17,Sun,Medium,25,36.4
+1060,5,Chinese,12,Sun,Medium,24,34.7
+1002,6,Chinese,14,Tue,Medium,30,46.8
+1001,6,Fast Food,14,Sun,High,20,40.6
+1048,2,Fast Food,19,Wed,Low,28,31.6
+1012,4,Chinese,16,Sun,Low,30,38.9
+1069,2,Fast Food,10,Fri,Medium,12,13.0
+1037,5,Indian,17,Mon,Low,24,36.7
+1032,5,Fast Food,11,Fri,Medium,25,35.4
+1009,3,Fast Food,17,Sun,Medium,23,28.5
+1099,6,Chinese,11,Wed,Low,14,22.3
+1019,8,Indian,22,Mon,Low,26,46.2
+1048,8,South Indian,23,Mon,Medium,27,52.6
+1080,8,South Indian,20,Sun,High,28,55.6
+1003,3,Italian,17,Wed,Medium,10,23.1
+1020,1,Fast Food,12,Tue,Medium,18,18.4
+1024,8,Fast Food,21,Mon,Low,30,46.4
+1054,5,Indian,13,Wed,Medium,23,40.1
+1033,3,South Indian,23,Thu,Low,29,29.6
+1024,2,Italian,22,Fri,Medium,30,35.2
+1075,6,Indian,10,Mon,Medium,29,44.1
+1072,6,Fast Food,20,Thu,High,30,49.1
+1036,4,South Indian,11,Mon,Medium,20,33.0
+1038,2,Italian,10,Tue,High,11,22.1
+1084,4,Chinese,9,Sun,Medium,29,41.3
+1099,3,South Indian,17,Wed,High,14,33.6
+1089,7,Italian,19,Mon,Medium,24,46.8
+1099,8,Indian,16,Wed,Medium,21,42.3
+1025,1,Chinese,23,Sat,High,23,39.0
+1093,2,Italian,8,Mon,Low,20,23.0
+1018,2,Italian,23,Tue,Low,30,34.5
+1082,2,Fast Food,9,Tue,Low,18,15.6
+1066,4,South Indian,15,Sun,High,29,47.0
+1054,3,Fast Food,22,Sun,Low,17,22.9
+1035,2,Chinese,14,Thu,High,21,40.6
+1080,7,Italian,19,Tue,Medium,12,27.8
+1061,2,Fast Food,8,Wed,Low,30,31.6
+1041,6,South Indian,12,Sat,Medium,24,39.8
+1100,8,Chinese,17,Tue,Low,17,32.6
+1033,1,Indian,13,Mon,Medium,16,27.6
+1068,8,Fast Food,12,Tue,Medium,26,39.2
+1033,6,Chinese,11,Sat,Medium,21,42.7
+1014,6,Indian,21,Wed,Low,29,47.8
+1021,1,Fast Food,20,Mon,Medium,27,36.6
+1048,7,Chinese,8,Thu,High,27,48.4
+1020,3,Chinese,23,Thu,Medium,24,32.9
+1008,6,Fast Food,14,Thu,High,12,31.8
+1007,3,Chinese,16,Sun,Low,28,32.6
+1067,6,Italian,13,Mon,High,24,41.7
+1017,5,Fast Food,23,Thu,Medium,25,30.7
+1033,1,Chinese,23,Sun,Low,26,33.9
+1048,6,Indian,23,Tue,High,10,36.1
+1076,5,Indian,10,Mon,High,20,34.0
+1059,8,Italian,22,Mon,Medium,15,38.3
+1086,4,Fast Food,17,Mon,Low,18,18.4
+1022,5,Chinese,21,Fri,Low,29,38.7
+1030,2,Chinese,11,Sun,Medium,25,38.8
+1038,6,Indian,17,Wed,High,15,35.3
+1051,5,Italian,12,Fri,Low,21,38.8
+1054,3,Indian,22,Fri,High,28,42.4
+1008,4,Indian,19,Fri,Low,22,35.4
+1027,7,Italian,19,Wed,High,22,46.7
+1027,6,Fast Food,8,Fri,High,13,28.2
+1098,2,Chinese,12,Thu,Medium,18,28.0
+1021,7,Fast Food,8,Mon,Medium,23,29.4
+1030,5,South Indian,16,Mon,High,23,42.0
+1097,7,South Indian,23,Sun,Medium,26,43.4
+1028,7,South Indian,14,Tue,Medium,14,32.0
+1064,4,Italian,10,Sat,Medium,28,39.0
+1097,8,Indian,16,Thu,Low,11,30.3
+1069,7,Fast Food,9,Wed,High,22,39.5
+1061,7,Chinese,19,Sat,Low,20,38.9
+1048,6,South Indian,14,Mon,High,11,37.1
+1019,8,Fast Food,16,Fri,Low,10,21.0
+1004,4,South Indian,13,Sun,Medium,30,50.8
+1035,2,South Indian,17,Sun,Low,12,22.5
+1064,5,Chinese,12,Tue,Medium,21,34.7
+1049,4,Italian,19,Tue,Medium,16,39.0
+1017,4,Indian,14,Mon,Medium,10,32.5
+1044,1,Italian,21,Thu,Medium,18,32.2
+1092,4,Fast Food,22,Sun,High,27,36.1
+1030,8,Italian,22,Sat,Medium,29,51.7
+1093,1,Fast Food,13,Tue,Medium,15,21.5
+1046,5,Fast Food,12,Mon,High,18,31.6
+1006,7,Indian,21,Thu,Low,17,36.3
+1099,6,Chinese,9,Mon,Medium,27,43.7
+1037,6,Indian,15,Mon,Medium,24,43.1
+1024,5,Italian,22,Thu,Medium,10,19.0
+1093,5,Fast Food,20,Thu,Medium,23,40.1
+1046,8,South Indian,14,Thu,Medium,27,45.0
+1053,3,South Indian,13,Mon,Low,28,36.2
+1095,7,Fast Food,12,Tue,Medium,28,36.9
+1099,5,Indian,12,Wed,High,19,36.8
+1060,4,Chinese,16,Wed,Medium,29,43.5
+1097,8,Indian,8,Mon,Medium,30,50.8
+1063,6,Fast Food,23,Mon,Low,15,22.8
+1085,2,Fast Food,16,Tue,High,26,35.5
+1032,8,Chinese,13,Thu,Low,23,36.7
+1087,6,Italian,11,Mon,Medium,22,36.1
+1033,1,Italian,17,Sun,High,17,34.0
+1067,8,Chinese,21,Fri,Medium,19,44.4
+1018,6,Italian,14,Thu,Medium,18,33.5
+1025,3,South Indian,16,Sun,Medium,14,28.5
+1095,8,Italian,12,Mon,Low,13,30.2
+1054,8,Italian,21,Fri,High,15,41.5
+1058,7,Italian,12,Sun,Low,15,32.8
+1067,5,South Indian,15,Sat,Medium,22,36.3
+1046,7,Italian,14,Tue,Low,13,33.1
+1024,8,South Indian,20,Fri,High,17,39.0
+1032,5,Chinese,20,Mon,Low,14,26.9
+1047,6,Indian,15,Wed,Medium,11,31.3
+1086,2,Chinese,18,Sun,Medium,18,30.2
+1023,2,Indian,19,Mon,Medium,20,37.0
+1066,8,Chinese,17,Wed,Medium,29,46.7
+1027,3,Indian,9,Tue,Medium,29,42.1
+1002,1,Indian,16,Tue,Medium,20,27.3
+1090,6,Fast Food,10,Thu,Medium,16,23.0
+1017,5,Indian,13,Sun,Medium,23,45.2
+1033,8,Indian,23,Thu,Medium,15,39.8
+1009,6,Fast Food,13,Wed,Low,13,27.2
+1043,8,Italian,9,Wed,High,15,36.4
+1048,3,Italian,19,Tue,Medium,12,26.1
+1039,4,Fast Food,20,Fri,Low,15,19.4
+1093,4,South Indian,14,Wed,Medium,12,27.7
+1042,3,Indian,16,Wed,High,10,29.4
+1026,5,Indian,19,Sun,Low,30,55.1
+1099,7,Fast Food,17,Fri,Medium,27,34.3
+1050,3,Fast Food,18,Thu,Medium,13,20.0
+1025,8,South Indian,8,Thu,Low,15,28.4
+1024,5,Italian,15,Wed,High,26,43.9
+1013,2,Chinese,9,Sun,Medium,27,34.8
+1060,3,Italian,21,Thu,Low,15,31.7
+1007,5,Indian,8,Thu,High,11,26.1
+1057,3,Fast Food,15,Sat,Medium,21,26.9
+1036,3,South Indian,9,Sun,High,21,38.5
+1045,7,Italian,13,Thu,Medium,13,37.0
+1020,7,South Indian,22,Tue,Medium,25,44.3
+1065,8,Italian,13,Mon,High,29,55.8
+1008,5,Indian,12,Wed,Low,19,31.9
+1016,5,Chinese,23,Wed,High,19,36.8
+1014,1,South Indian,15,Tue,Medium,16,20.9
+1076,3,South Indian,10,Mon,Low,23,26.0
+1087,4,Chinese,23,Mon,Medium,16,27.7
+1015,3,South Indian,20,Tue,Low,21,30.0
+1092,3,South Indian,17,Fri,Medium,20,27.3
+1098,5,Italian,22,Fri,Medium,26,38.4
+1066,3,Italian,11,Mon,High,20,36.5
+1032,6,Chinese,14,Fri,Low,30,41.8
+1087,3,Indian,22,Fri,Medium,12,22.8
+1063,6,South Indian,23,Fri,Low,28,35.5
+1086,7,Indian,14,Mon,Medium,13,36.2
+1051,4,Chinese,23,Fri,Medium,17,27.9
+1025,8,Chinese,20,Wed,Medium,23,49.0
+1058,5,Italian,19,Sat,High,29,58.0
+1063,3,South Indian,21,Mon,High,23,42.3
+1062,6,Fast Food,15,Tue,Low,25,31.3
+1022,6,Chinese,9,Fri,Medium,24,38.2
+1058,7,South Indian,18,Thu,Medium,21,36.0
+1058,6,Indian,19,Mon,Medium,25,41.6
+1086,8,Italian,9,Sun,Low,29,49.6
+1049,2,Indian,23,Tue,Medium,28,38.4
+1052,1,Chinese,11,Sat,Medium,14,26.4
+1042,8,Chinese,23,Wed,Medium,21,37.7
+1070,4,Indian,20,Sun,High,14,44.0
+1015,8,Chinese,17,Tue,Medium,19,36.8
+1054,7,South Indian,20,Fri,Low,26,40.9
+1060,7,Chinese,16,Thu,Low,24,41.2
+1097,8,Italian,17,Fri,High,17,42.5
+1008,3,South Indian,19,Tue,High,17,40.4
+1053,2,Fast Food,16,Mon,Medium,17,20.1
+1060,3,Chinese,20,Sun,Medium,19,38.8
+1005,3,Chinese,20,Thu,High,29,51.5
+1068,8,Italian,11,Sun,Medium,22,43.6
+1006,5,Italian,16,Sun,High,25,48.0
+1096,5,Indian,22,Thu,High,18,38.5
+1094,5,Indian,21,Tue,Medium,25,47.5
+1047,2,Indian,10,Sat,Medium,19,28.4
+1099,3,Italian,19,Sat,Low,12,28.2
+1055,1,Indian,12,Fri,Low,23,29.6
+1040,4,Indian,17,Tue,High,22,38.2
+1052,5,Fast Food,16,Thu,High,13,23.4
+1016,5,Indian,23,Tue,Medium,13,23.0
+1013,7,Chinese,13,Thu,Medium,15,42.8
+1030,3,Italian,10,Sun,Low,28,35.2
+1019,3,South Indian,17,Fri,Low,20,28.7
+1017,2,Fast Food,16,Mon,Medium,17,19.0
+1063,2,Italian,13,Sun,Medium,23,42.9
+1019,5,Italian,11,Mon,Medium,17,32.7
+1092,3,Chinese,23,Tue,Low,23,34.7
+1058,1,Indian,21,Thu,High,16,38.1
+1055,4,Chinese,11,Mon,Medium,30,41.8
+1090,8,Indian,23,Sun,High,27,56.3
+1090,3,Indian,15,Thu,Medium,21,34.4
+1062,7,Italian,14,Fri,Low,23,49.6
+1023,8,Indian,8,Sun,High,24,52.6
+1009,3,Fast Food,23,Tue,Medium,27,27.5
+1012,6,Fast Food,13,Thu,Medium,21,36.5
+1001,2,Fast Food,15,Tue,Medium,19,19.7
+1058,7,Italian,10,Thu,Low,21,35.2
+1001,4,Chinese,21,Sun,Medium,17,39.7
+1034,5,South Indian,16,Sat,High,15,36.5
+1096,7,Indian,17,Sat,Low,28,43.8
+1048,3,South Indian,9,Thu,Low,10,13.8
+1089,5,Chinese,21,Fri,High,22,41.8
+1001,3,Chinese,13,Tue,Low,25,39.2
+1016,5,Italian,19,Wed,Medium,27,48.5
+1061,4,Fast Food,8,Thu,Medium,21,23.9
+1064,2,Fast Food,19,Thu,Medium,14,29.2
+1063,4,Chinese,18,Sat,Medium,30,43.5
+1069,6,Italian,22,Mon,Low,22,34.7
+1022,1,Italian,9,Sun,Low,17,21.8
+1093,2,Indian,23,Sat,Medium,15,28.9
+1067,4,Fast Food,23,Tue,Medium,12,18.5
+1076,6,Chinese,20,Sat,Medium,29,47.6
+1026,1,South Indian,12,Wed,Medium,13,21.3
+1016,6,Fast Food,8,Fri,Low,21,24.3
+1051,3,Indian,15,Sun,Low,22,35.2
+1086,8,Italian,8,Wed,High,11,34.7
+1057,3,Chinese,20,Fri,Medium,28,42.6
+1029,5,Fast Food,16,Wed,Medium,13,22.4
+1078,2,South Indian,17,Sun,Low,22,28.0
+1092,3,Indian,18,Sat,Low,28,40.6
+1069,7,Indian,10,Wed,Medium,17,33.5
+1047,6,Fast Food,23,Sat,High,17,37.9
+1094,2,South Indian,19,Sun,High,25,41.5
+1062,8,Indian,9,Sat,High,20,45.7
+1069,7,Chinese,22,Tue,High,27,50.3
+1076,3,Indian,8,Sat,High,13,35.5
+1016,5,South Indian,16,Mon,Medium,10,22.9
+1090,4,Italian,23,Wed,Low,10,22.7
+1090,5,Italian,22,Sun,High,23,42.5
+1048,7,Fast Food,11,Thu,Low,13,17.1
+1085,1,South Indian,19,Thu,Low,20,28.3
+1039,3,Indian,8,Thu,Low,27,34.8
+1100,7,Indian,8,Sun,Medium,25,49.0
+1033,1,Italian,14,Mon,Medium,26,34.7
+1094,1,Italian,23,Sat,Low,11,15.5
+1023,6,Chinese,9,Wed,Medium,13,33.0
+1010,2,Italian,14,Fri,High,12,30.0
+1069,6,Chinese,19,Fri,Medium,24,48.1
+1100,3,Indian,22,Sun,High,11,32.7
+1034,1,Chinese,14,Tue,Low,28,33.9
+1052,8,Chinese,22,Mon,Low,18,36.6
+1095,7,Fast Food,17,Wed,Medium,19,31.6
+1010,4,Italian,21,Sat,Medium,30,50.2
+1019,1,Chinese,16,Thu,Medium,28,33.6
+1058,7,Indian,20,Mon,High,14,43.9
+1096,8,South Indian,23,Mon,High,23,42.0
+1001,4,Chinese,14,Wed,High,19,42.9
+1069,6,Italian,23,Sun,Medium,25,45.1
+1004,6,Fast Food,20,Sat,Low,15,27.1
+1016,2,Indian,21,Sun,Medium,17,30.8
+1024,7,Fast Food,8,Sun,Low,11,20.8
+1080,1,South Indian,19,Tue,Low,27,33.6
+1002,5,Chinese,20,Sun,Low,30,47.5
+1092,6,Chinese,23,Sat,Medium,30,48.2
+1032,6,Italian,15,Tue,Low,30,43.8
+1091,2,Chinese,15,Tue,Low,29,29.1
+1084,4,Indian,11,Thu,Medium,17,30.0
+1024,2,South Indian,20,Thu,Medium,14,26.5
+1012,8,Fast Food,15,Wed,Medium,26,40.8
+1050,1,South Indian,11,Sat,Medium,25,35.5
+1035,7,Chinese,22,Sun,Low,14,29.0
+1033,3,Fast Food,15,Tue,Low,26,26.6
+1033,3,Italian,12,Wed,Low,13,17.2
+1061,7,South Indian,11,Tue,High,10,31.8
+1051,4,Fast Food,13,Mon,Medium,15,23.6
+1043,8,Fast Food,9,Fri,Low,10,21.1
+1012,6,Fast Food,19,Fri,Medium,13,31.3
+1067,4,Indian,9,Tue,High,11,30.6
+1065,6,South Indian,9,Wed,Medium,22,39.6
+1033,6,Fast Food,16,Thu,High,23,36.4
+1040,3,South Indian,22,Sat,Low,26,29.8
+1074,4,Fast Food,21,Tue,Low,20,26.7
+1043,8,Italian,17,Tue,High,12,34.6
+1044,2,Italian,10,Sat,Medium,16,26.1
+1029,6,Italian,22,Sun,Medium,19,31.1
+1013,5,Chinese,17,Thu,Medium,20,33.5
+1012,5,Fast Food,11,Tue,Medium,19,27.1
+1095,2,Chinese,17,Mon,Medium,17,27.1
+1046,5,South Indian,19,Thu,Low,14,28.7
+1002,1,Chinese,15,Mon,Medium,11,16.3
+1035,6,South Indian,11,Fri,High,24,45.5
+1087,2,South Indian,18,Sat,Medium,25,37.3
+1081,4,South Indian,17,Thu,Medium,13,21.7
+1090,6,Chinese,17,Sun,Medium,25,43.4
+1008,2,Fast Food,20,Thu,High,21,38.1
+1093,3,Chinese,14,Wed,Medium,23,38.4
+1026,8,Fast Food,12,Wed,Medium,21,31.9
+1074,4,Fast Food,16,Sat,High,30,40.8
+1090,8,South Indian,11,Sun,High,25,46.0
+1034,3,Chinese,10,Thu,Medium,25,28.3
+1007,6,Fast Food,20,Fri,Medium,21,34.3
+1068,4,Italian,9,Sun,Medium,11,25.7
+1058,8,Fast Food,8,Tue,Medium,23,33.5
+1075,5,Italian,18,Sat,High,20,39.9
+1029,8,Chinese,13,Sun,High,18,46.5
+1036,2,Chinese,17,Sat,Low,16,17.9
+1089,6,Chinese,9,Sun,Medium,21,38.3
+1021,1,Fast Food,15,Wed,Medium,26,28.8
+1036,8,Indian,13,Fri,High,18,46.9
+1010,4,Fast Food,19,Sat,Medium,15,32.6
+1073,4,Fast Food,19,Fri,Medium,21,32.7
+1024,7,South Indian,12,Sat,Low,29,46.3
+1064,8,South Indian,20,Wed,Medium,19,41.5
+1099,6,Fast Food,9,Tue,Low,18,25.8
+1049,6,Italian,14,Wed,High,21,42.6
+1099,3,South Indian,9,Sat,High,10,28.9
+1036,7,Fast Food,20,Fri,Medium,11,27.6
+1082,8,Indian,21,Mon,Medium,28,56.7
+1096,5,Italian,12,Wed,High,10,28.2
+1024,3,Chinese,9,Fri,Low,25,35.6
+1023,7,Fast Food,18,Sun,Low,25,37.2
+1062,8,Fast Food,17,Sun,High,27,45.7
+1096,8,Italian,18,Wed,High,27,54.8
+1037,3,South Indian,18,Sat,High,22,35.2
+1012,5,South Indian,9,Sun,Low,21,28.7
+1055,7,South Indian,22,Fri,Low,18,33.5
+1013,8,Chinese,14,Tue,Low,14,34.4
+1023,8,Italian,16,Fri,Low,18,33.6
+1089,7,Italian,12,Sun,High,22,46.1
+1099,1,South Indian,14,Sun,Low,25,36.3
+1030,3,South Indian,11,Thu,Medium,19,26.6
+1017,3,Indian,9,Mon,Low,25,33.0
+1062,4,Indian,10,Sat,Medium,23,35.8
+1084,5,Fast Food,9,Fri,High,11,23.8
+1089,2,Fast Food,12,Sun,Low,28,30.1
+1086,1,Italian,13,Sat,Medium,20,36.4
+1013,7,Italian,22,Wed,Medium,28,46.6
+1059,7,Chinese,22,Wed,Low,20,31.6
+1019,7,Chinese,14,Fri,Medium,23,45.5
+1049,1,Indian,10,Thu,Medium,24,34.7
+1100,8,Fast Food,11,Sun,Medium,16,27.9
+1012,7,Indian,15,Fri,High,24,47.1
+1061,7,Indian,11,Tue,Medium,17,36.2
+1019,5,Fast Food,14,Thu,Low,13,19.2
+1076,6,Chinese,19,Sun,Medium,27,52.6
+1009,6,Fast Food,13,Sun,Low,23,38.6
+1071,4,South Indian,14,Sat,Medium,30,51.2
+1028,4,South Indian,8,Fri,Medium,27,43.7
+1078,7,South Indian,10,Sun,Low,13,28.6
+1095,5,Italian,13,Sat,High,11,37.2
+1052,7,Chinese,23,Sun,High,30,57.4
+1083,4,Chinese,10,Mon,High,15,29.4
+1016,1,Italian,23,Thu,Medium,20,28.2
+1069,1,Indian,22,Fri,Medium,10,20.9
+1099,8,South Indian,21,Mon,High,24,53.9
+1012,2,South Indian,22,Fri,Medium,21,31.8
+1025,6,Indian,23,Tue,High,27,48.0
+1052,5,Fast Food,23,Wed,Low,14,20.1
+1085,3,Fast Food,21,Sat,Low,20,28.7
+1100,6,Chinese,14,Fri,High,30,55.6
+1053,3,Italian,16,Thu,High,28,44.2
+1023,2,Chinese,10,Fri,High,10,24.2
+1016,2,Fast Food,21,Fri,High,26,38.5
+1057,7,Indian,8,Fri,Low,17,27.3
+1039,4,Chinese,17,Sun,Low,25,35.7
+1053,2,South Indian,22,Fri,High,20,32.7
+1042,2,South Indian,20,Sun,Low,28,38.5
+1058,3,Indian,13,Thu,Medium,20,37.7
+1039,4,Fast Food,19,Thu,Medium,24,34.8
+1014,2,South Indian,8,Fri,Low,17,18.8
+1095,6,South Indian,8,Sun,Low,23,40.0
+1005,8,Italian,21,Wed,Medium,10,41.2
+1035,2,Chinese,15,Fri,High,19,34.2
+1087,8,Fast Food,16,Sat,Medium,16,30.7
+1093,4,Chinese,9,Sat,Medium,27,41.9
+1075,7,Fast Food,16,Thu,Medium,21,33.1
+1018,5,South Indian,12,Sat,Low,11,24.0
+1076,4,Italian,20,Sat,Low,27,43.8
+1009,3,Chinese,15,Tue,Medium,30,41.2
+1074,5,South Indian,14,Fri,Low,16,34.4
+1058,6,Fast Food,14,Fri,Low,29,34.3
+1017,1,Chinese,23,Fri,Medium,21,25.3
+1007,8,Chinese,11,Fri,Medium,29,50.3
+1046,8,South Indian,9,Mon,Low,23,36.3
+1013,8,Chinese,12,Fri,Medium,19,39.2
+1040,4,Italian,23,Sun,Medium,18,32.6
+1042,8,Italian,21,Thu,Low,24,49.1
+1009,7,South Indian,18,Sun,High,29,56.1
+1050,8,Fast Food,18,Thu,Low,19,29.3
+1027,3,South Indian,10,Mon,High,28,46.4
+1066,6,Italian,22,Fri,Low,28,40.7
+1005,8,Indian,21,Wed,High,21,51.6
+1029,8,Indian,16,Sun,Low,21,44.8
+1037,5,Chinese,13,Fri,High,18,36.8
+1038,6,Chinese,8,Thu,Medium,29,44.3
+1083,8,Indian,10,Sun,Medium,13,37.5
+1008,4,Italian,19,Tue,Medium,10,26.5
+1065,2,Chinese,11,Sat,Low,25,29.4
+1086,7,South Indian,23,Tue,High,10,30.4
+1017,4,South Indian,16,Wed,Low,22,23.7
+1071,1,Italian,18,Fri,High,12,28.5
+1089,4,Chinese,13,Mon,Low,21,38.0
+1045,5,South Indian,11,Fri,Medium,18,30.2
+1004,5,Chinese,8,Wed,Medium,13,25.1
+1036,8,Chinese,15,Wed,Medium,11,25.0
+1070,4,South Indian,21,Sat,Low,18,30.2
+1031,5,Indian,18,Wed,High,29,53.4
+1019,2,South Indian,9,Tue,High,22,33.6
+1061,6,Italian,18,Sat,High,23,45.3
+1054,4,Fast Food,22,Fri,Medium,12,18.3
+1039,7,South Indian,18,Sun,Medium,27,44.0
+1091,2,Chinese,15,Fri,Medium,18,20.9
+1074,8,Chinese,13,Mon,Low,24,42.5
+1090,6,South Indian,15,Wed,High,19,34.7
+1019,7,Fast Food,13,Wed,Medium,26,43.9
+1039,8,South Indian,12,Thu,Medium,22,42.2
+1067,7,Fast Food,12,Sat,Medium,10,22.5
+1045,8,Fast Food,21,Thu,Medium,20,39.0
+1013,7,Italian,21,Sat,High,14,44.6
+1092,6,Chinese,17,Tue,Medium,18,30.6
+1058,2,Chinese,17,Sat,Medium,16,19.8
+1020,7,Fast Food,18,Fri,High,16,29.5
+1092,7,Chinese,15,Mon,Medium,11,25.3
+1072,3,Indian,14,Sun,Low,28,43.8
+1061,4,Fast Food,15,Sat,Low,29,34.9
+1039,6,Chinese,19,Sat,Low,27,49.5
+1001,8,Indian,15,Sat,Medium,19,39.3
+1003,6,Italian,14,Mon,High,14,37.3
+1077,5,Chinese,9,Wed,Medium,25,36.1
+1092,8,Indian,18,Mon,Medium,14,33.8
+1062,6,South Indian,22,Wed,High,24,43.5
+1063,2,South Indian,23,Sun,High,25,40.9
+1025,8,Indian,16,Fri,Medium,13,27.8
+1056,8,Fast Food,20,Mon,Low,23,41.0
+1033,6,Fast Food,14,Wed,Low,26,38.2
+1038,8,Chinese,19,Fri,Low,26,48.0
+1006,3,South Indian,18,Fri,Low,30,27.2
+1058,4,Fast Food,22,Wed,Low,25,29.7
+1044,8,Fast Food,13,Wed,Medium,18,33.4
+1045,4,South Indian,23,Tue,Low,11,15.8
+1032,6,Italian,16,Fri,Low,20,36.1
+1045,7,Fast Food,20,Wed,Low,24,38.6
+1061,1,Indian,8,Fri,Medium,12,17.8
+1047,1,Chinese,18,Mon,Medium,25,33.2
+1021,7,Fast Food,23,Sun,Medium,30,45.7
+1080,7,Fast Food,9,Thu,Low,28,34.4
+1085,7,Italian,20,Thu,Medium,15,39.0
+1075,2,Indian,23,Sat,Low,23,30.5
+1036,1,Chinese,8,Wed,Low,14,17.0
+1099,7,Fast Food,17,Wed,High,14,31.7
+1019,2,Chinese,19,Fri,High,15,34.1
+1020,5,South Indian,10,Sat,Medium,27,47.8
+1057,8,Fast Food,18,Wed,High,27,48.2
+1018,2,Fast Food,12,Fri,Medium,28,33.6
+1047,1,South Indian,8,Wed,Low,11,10.2
+1049,6,Italian,11,Fri,High,26,42.2
+1014,5,Fast Food,21,Wed,Low,10,18.4
+1015,1,Chinese,20,Tue,Medium,18,27.3
+1031,8,Indian,15,Sun,Low,22,43.2
+1001,2,Chinese,13,Fri,Medium,13,25.0
+1054,3,Italian,20,Sun,Medium,14,36.4
+1003,4,Indian,8,Tue,Medium,27,35.0
+1016,8,Chinese,19,Tue,Low,19,37.6
+1087,1,Chinese,8,Tue,Medium,13,19.9
+1057,7,South Indian,10,Tue,Medium,22,34.7
+1075,2,Italian,21,Mon,High,22,43.3
+1012,7,South Indian,17,Sun,High,26,52.2
+1074,7,Indian,22,Sat,Medium,17,37.3
+1096,7,South Indian,15,Sun,Low,13,35.5
+1016,7,Italian,18,Thu,High,12,31.2
+1072,7,Fast Food,18,Mon,Low,20,23.6
+1076,5,Fast Food,21,Wed,Low,21,28.6
+1024,1,Indian,15,Wed,Medium,18,26.4
+1028,8,Fast Food,20,Sat,High,24,45.6
+1008,1,South Indian,10,Thu,Low,22,24.7
+1092,8,Indian,14,Thu,Low,14,42.8
+1036,4,Italian,19,Thu,Medium,14,27.0
+1090,2,Indian,10,Tue,Low,28,34.2
+1008,3,Indian,11,Mon,Medium,20,34.3
+1058,5,Chinese,16,Wed,Medium,18,33.3
+1060,2,Chinese,23,Mon,Medium,12,26.1
+1050,5,Indian,20,Mon,Low,27,41.6
+1028,8,Fast Food,11,Mon,Low,22,37.4
+1092,1,Chinese,10,Thu,High,21,31.6
+1041,7,Italian,12,Sat,High,18,42.1
+1100,4,South Indian,14,Sat,Low,19,38.8
+1064,4,Chinese,12,Thu,Low,22,28.1
+1027,6,Indian,11,Wed,Low,29,45.0
+1063,3,Fast Food,15,Wed,Medium,29,31.9
+1017,4,South Indian,11,Wed,Medium,22,28.4
+1073,7,Chinese,9,Sat,Medium,18,33.8
+1033,1,Fast Food,17,Sat,Medium,19,24.9
+1084,3,Fast Food,20,Mon,Medium,28,34.2
+1077,8,Fast Food,21,Thu,High,15,37.8
+1092,2,Indian,23,Tue,Low,16,19.7
+1029,8,Italian,13,Mon,Low,24,41.8
+1013,7,Fast Food,9,Fri,Low,28,33.3
+1046,7,South Indian,10,Sat,High,23,47.2
+1035,4,Chinese,8,Mon,High,25,32.3
+1006,3,South Indian,12,Thu,Medium,23,33.9
+1082,1,Indian,16,Fri,Low,29,28.9
+1069,8,Indian,9,Sun,Low,11,26.9
+1047,6,South Indian,19,Mon,Low,18,28.5
+1025,8,Italian,14,Thu,Medium,12,37.2
+1066,5,Indian,12,Thu,Low,15,30.4
+1010,5,Indian,9,Sat,Low,14,27.6
+1056,1,South Indian,15,Tue,Medium,23,29.1
+1030,1,Indian,18,Mon,Low,24,29.4
+1005,5,Italian,22,Thu,Medium,27,43.2
+1033,6,Italian,20,Wed,Low,26,39.8
+1065,3,Italian,20,Thu,High,18,43.2
+1018,5,Chinese,23,Tue,Medium,28,40.0
+1096,1,Italian,13,Thu,High,18,35.6
+1049,4,Italian,11,Sat,Medium,25,39.8
+1011,2,Chinese,20,Sun,High,15,34.3
+1085,6,Fast Food,11,Mon,High,17,34.6
+1026,7,Indian,9,Sat,Medium,12,35.5
+1063,6,Italian,10,Mon,High,14,28.2
+1089,4,Indian,22,Fri,Medium,16,30.5
+1086,4,South Indian,14,Mon,Medium,10,31.5
+1059,7,Indian,10,Fri,Low,30,45.2
+1027,8,Chinese,20,Sat,Medium,13,37.9
+1049,1,Indian,12,Wed,Medium,25,31.6
+1077,5,Indian,17,Tue,High,23,41.3
+1033,8,Indian,13,Wed,Low,10,28.0
+1098,3,Fast Food,13,Fri,Medium,13,21.8
+1099,6,Fast Food,21,Thu,Low,19,29.2
+1001,7,South Indian,11,Thu,Medium,20,37.4
+1021,6,Chinese,13,Wed,Low,16,30.2
+1055,8,Indian,10,Thu,High,13,44.4
+1006,4,Indian,14,Fri,Low,10,21.4
+1092,5,Indian,14,Sat,Low,10,29.4
+1081,6,Indian,11,Tue,High,26,45.6
+1069,3,Fast Food,9,Sun,Medium,19,24.8
+1095,4,South Indian,18,Mon,Low,14,19.4
+1005,3,Italian,14,Fri,Medium,16,32.0
+1003,5,Chinese,10,Sun,Low,17,31.4
+1053,6,Indian,22,Fri,High,11,31.4
+1023,2,South Indian,8,Mon,Medium,18,20.1
+1053,8,Italian,9,Mon,Low,13,32.5
+1037,6,South Indian,17,Tue,Medium,21,31.9
+1074,8,Fast Food,23,Tue,Low,20,28.7
+1074,5,Italian,16,Tue,High,14,33.2
+1083,6,South Indian,19,Thu,High,21,44.5
+1017,8,Fast Food,22,Fri,High,30,44.2
+1085,7,South Indian,15,Sat,Medium,13,34.2
+1078,8,South Indian,22,Mon,Medium,22,30.9
+1073,6,Italian,22,Fri,Low,10,24.7
+1001,1,Fast Food,21,Sun,Medium,27,39.3
+1051,6,Indian,13,Fri,Medium,13,37.5
+1045,6,Chinese,21,Tue,Medium,13,31.9
+1077,8,Italian,13,Tue,High,17,46.8
+1004,3,Fast Food,21,Fri,Low,29,32.4
+1062,2,South Indian,8,Tue,Low,15,17.8
+1065,3,Fast Food,9,Thu,Low,13,15.3
+1032,8,Chinese,11,Mon,Low,13,24.1
+1034,3,Chinese,10,Sun,Low,20,28.0
+1092,4,Indian,21,Fri,Medium,18,34.8
+1095,1,Indian,8,Mon,Medium,23,34.3
+1072,3,Chinese,23,Thu,Low,13,15.6
+1039,7,Italian,15,Sun,High,22,49.5
+1026,5,Italian,14,Tue,Low,15,29.8
+1034,7,South Indian,11,Wed,Medium,22,37.2
+1054,5,Indian,23,Thu,Medium,12,29.0
+1003,6,South Indian,19,Wed,Medium,16,33.6
+1050,4,Indian,19,Mon,High,10,33.5
+1012,1,Chinese,16,Fri,Low,20,25.1
+1065,7,Italian,18,Sun,Medium,11,29.3
+1054,1,Italian,21,Tue,High,14,31.6
+1005,7,Chinese,11,Sun,Medium,23,45.2
+1094,6,South Indian,8,Thu,Low,22,33.2
+1094,5,South Indian,22,Tue,Medium,25,40.8
+1057,2,Fast Food,17,Wed,Medium,24,26.2
+1017,4,Indian,22,Wed,High,12,32.2
+1047,7,South Indian,8,Sat,Low,15,32.9
+1023,7,Chinese,8,Sun,Low,18,28.5
+1079,6,South Indian,8,Fri,Medium,12,24.6
+1085,4,Italian,11,Wed,Low,22,31.3
+1014,5,Indian,8,Fri,Low,22,35.8
+1066,5,Fast Food,9,Sat,Low,16,23.7
+1075,7,Indian,11,Thu,Low,14,32.8
+1051,2,Italian,14,Sat,Low,17,28.0
+1038,2,Italian,9,Fri,High,17,26.9
+1064,1,Italian,15,Wed,Low,16,21.2
+1098,4,Italian,20,Mon,Low,28,40.9
+1038,4,Chinese,14,Fri,Low,16,25.7
+1050,5,Fast Food,16,Tue,High,13,31.1
+1098,1,Italian,21,Mon,High,19,38.0
+1082,6,Italian,13,Sun,High,22,52.8
+1030,4,South Indian,11,Fri,Low,13,24.0
+1079,1,Fast Food,13,Tue,High,28,37.6
+1091,1,Indian,22,Sun,Medium,19,34.0
+1051,7,Fast Food,11,Sat,Low,16,27.9
+1063,5,Fast Food,14,Mon,Medium,14,25.2
+1098,1,Fast Food,16,Fri,High,12,17.8
+1052,8,Italian,10,Thu,High,11,36.0
+1038,2,Italian,10,Sat,High,20,39.9
+1097,8,Chinese,9,Tue,High,19,38.3
+1088,2,Indian,8,Thu,Low,22,22.4
+1079,3,South Indian,21,Wed,Medium,16,27.0
+1030,5,Fast Food,8,Sat,Low,19,25.8
+1051,7,Indian,20,Sat,High,13,46.7
+1081,6,Indian,10,Fri,Low,29,40.4
+1005,8,Chinese,21,Fri,High,25,54.7
+1029,8,South Indian,14,Tue,Medium,29,56.2
+1004,3,Fast Food,22,Sat,Medium,15,17.3
+1010,2,South Indian,18,Fri,Low,18,20.2
+1056,7,Chinese,16,Wed,Medium,22,45.9
+1017,3,Italian,21,Sun,High,16,37.3
+1074,5,Indian,9,Sun,Low,27,38.5
+1017,7,Fast Food,14,Sun,Medium,23,44.2
+1084,5,Italian,8,Fri,Low,14,22.4
+1088,1,Chinese,9,Sat,Medium,22,34.0
+1069,4,South Indian,23,Sun,Low,17,33.6
+1034,1,Indian,13,Mon,Low,24,33.0
+1006,5,Fast Food,18,Thu,High,28,49.2
+1053,8,Italian,23,Sat,Medium,18,39.0
+1066,7,Italian,12,Wed,Low,15,28.1
+1077,2,Indian,15,Sat,Medium,23,32.7
+1043,6,South Indian,19,Wed,Low,19,32.4
+1075,2,Chinese,18,Sat,Low,18,23.9
+1023,7,South Indian,9,Sun,Medium,26,45.8
+1055,1,South Indian,8,Thu,Low,22,19.1
+1080,6,South Indian,23,Thu,Medium,26,38.2
+1095,7,Indian,14,Wed,Medium,28,50.1
+1075,5,Indian,13,Sat,High,22,52.7
+1016,8,Chinese,15,Thu,High,18,41.7
+1008,2,South Indian,18,Tue,Low,10,13.0
+1004,5,Indian,22,Sat,Medium,10,28.2
+1004,6,Chinese,22,Thu,Medium,14,23.6
+1056,6,Chinese,20,Mon,Low,17,37.6
+1025,2,South Indian,21,Mon,High,27,40.8
+1067,5,Fast Food,15,Tue,High,13,28.7
+1096,3,South Indian,9,Thu,Medium,10,17.7
+1067,5,Fast Food,21,Mon,Medium,24,35.2
+1027,6,Chinese,15,Sun,Low,29,45.9
+1093,5,Indian,13,Sat,Medium,13,32.4
+1032,8,Italian,16,Fri,High,18,39.1
+1050,7,Chinese,19,Thu,Medium,29,51.1
+1061,1,Indian,23,Tue,Low,19,23.4
+1051,8,Chinese,14,Thu,Medium,24,49.9
+1019,3,South Indian,9,Wed,Medium,12,22.5
+1021,4,Fast Food,23,Wed,Medium,11,17.0
+1005,7,Chinese,15,Mon,Medium,14,30.9
+1082,1,Indian,16,Wed,Medium,10,17.4
+1092,4,South Indian,14,Tue,Medium,20,39.5
+1042,2,Italian,11,Mon,High,21,31.7
+1061,4,South Indian,16,Tue,Low,12,18.3
+1022,7,Fast Food,11,Sat,High,25,46.9
+1021,5,South Indian,19,Tue,Medium,23,43.3
+1070,7,Italian,11,Wed,Medium,21,36.6
+1001,8,Indian,16,Sat,High,29,54.5
+1005,4,Chinese,21,Wed,Medium,25,37.5
+1012,6,Fast Food,15,Tue,High,30,43.8
+1090,1,Italian,11,Wed,Low,17,20.6
+1046,1,Fast Food,21,Wed,Low,26,26.4
+1034,4,South Indian,15,Wed,Medium,26,38.3
+1049,1,Fast Food,22,Thu,High,16,21.6
+1078,6,Italian,15,Sat,High,24,49.6
+1090,7,Chinese,14,Sat,Medium,18,43.0
+1045,1,Chinese,17,Sun,Medium,13,16.7
+1027,4,Fast Food,20,Sat,Medium,17,27.8
+1073,3,Indian,13,Sun,High,19,46.9
+1026,3,Fast Food,15,Tue,Medium,24,25.6
+1047,2,South Indian,14,Sun,Medium,27,44.2
+1086,8,Chinese,12,Sun,Medium,23,44.8
+1056,1,Chinese,19,Fri,Medium,14,21.8
+1094,8,Chinese,20,Tue,Medium,18,43.6
+1063,7,Indian,20,Sat,High,22,52.2
+1048,4,Indian,11,Mon,Medium,28,41.7
+1061,1,Italian,21,Wed,High,20,36.2
+1081,5,Fast Food,23,Wed,Low,21,16.9
+1026,6,Fast Food,19,Fri,Medium,12,28.8
+1036,1,South Indian,9,Mon,Medium,11,18.1
+1001,1,Chinese,18,Thu,Medium,24,28.3
+1008,8,Indian,15,Sun,High,14,44.3
+1099,8,South Indian,16,Tue,Low,16,26.8
+1052,3,South Indian,11,Thu,Low,13,14.8
+1079,6,Indian,11,Mon,Medium,14,31.5
+1047,4,Fast Food,12,Fri,Low,25,25.1
+1056,1,Chinese,9,Mon,High,24,34.4
+1086,3,Fast Food,14,Fri,Low,25,27.6
+1014,8,South Indian,22,Thu,Medium,13,26.5
+1090,2,Chinese,12,Thu,Low,15,19.2
+1028,6,Italian,13,Mon,Medium,27,48.5
+1087,3,South Indian,23,Mon,Medium,12,20.5
+1078,3,Fast Food,11,Sun,Low,14,16.5
+1088,7,Fast Food,15,Wed,Medium,11,20.5
+1002,3,Fast Food,15,Fri,Medium,25,26.2
+1026,7,Indian,19,Wed,High,15,40.2
+1014,1,South Indian,12,Tue,Low,24,23.0
+1059,1,Chinese,23,Tue,Medium,27,35.9
+1056,8,Fast Food,19,Mon,High,15,39.1
+1007,2,Fast Food,13,Thu,High,22,35.7
+1003,5,Indian,23,Tue,High,22,38.2
+1023,5,Chinese,10,Tue,High,10,28.6
+1018,5,South Indian,8,Wed,Medium,25,38.0
+1038,8,Italian,16,Wed,Medium,13,37.2
+1099,7,Indian,16,Sun,Low,26,43.5
+1015,8,South Indian,10,Sun,Medium,27,46.2
+1064,6,Italian,11,Tue,High,25,43.5
+1089,6,Fast Food,20,Mon,Medium,10,25.0
+1028,2,Fast Food,14,Wed,Medium,15,22.0
+1074,6,Chinese,9,Tue,Medium,20,38.2
+1039,5,Italian,19,Thu,Low,15,32.7
+1057,5,Fast Food,10,Wed,High,26,36.0
+1017,8,Fast Food,23,Tue,Medium,13,26.3
+1086,3,Chinese,13,Sun,Low,23,43.7
+1090,6,South Indian,18,Fri,High,23,37.4
+1044,8,Fast Food,15,Wed,Medium,29,41.8
+1025,1,Indian,22,Fri,High,17,32.1
+1017,1,Indian,8,Wed,Medium,11,18.1
+1013,3,South Indian,11,Wed,Medium,14,21.4
+1084,3,Italian,22,Sun,High,13,30.0
+1025,3,Chinese,8,Sat,Medium,19,28.2
+1068,8,Indian,9,Sat,Medium,29,51.9
+1010,1,Indian,23,Fri,Low,30,36.9
+1067,5,South Indian,15,Mon,High,12,25.2
+1018,3,Italian,13,Tue,Low,25,37.2
+1100,2,Italian,16,Mon,High,19,35.8
+1086,7,South Indian,9,Mon,Medium,24,39.5
+1034,8,Indian,23,Sat,Medium,13,35.1
+1008,3,Chinese,10,Tue,High,10,26.4
+1040,7,Indian,16,Sat,Low,24,38.9
+1083,4,Italian,16,Sat,Medium,19,35.5
+1042,3,Indian,20,Sun,High,29,52.9
+1041,1,Chinese,13,Sat,High,27,46.0
+1006,6,Fast Food,21,Thu,Medium,25,44.8
+1052,3,Indian,22,Mon,Medium,30,44.9
+1026,8,South Indian,10,Sun,High,18,47.8
+1064,6,Fast Food,12,Sun,High,28,43.3
+1098,4,South Indian,22,Mon,High,26,38.1
+1059,2,South Indian,9,Sun,Medium,19,30.0
+1056,6,South Indian,14,Mon,High,28,52.8
+1059,7,Indian,17,Thu,Medium,17,29.7
+1070,5,Italian,18,Wed,Low,28,39.0
+1033,3,Fast Food,15,Sun,Medium,14,27.5
+1053,4,Chinese,13,Fri,Low,11,28.9
+1022,4,Italian,15,Fri,Low,24,30.1
+1021,6,Indian,9,Thu,Low,26,40.9
+1070,2,South Indian,10,Mon,Low,19,18.9
+1070,1,Chinese,23,Fri,Medium,30,35.5
+1004,3,Fast Food,14,Thu,Low,30,32.9
+1094,4,Italian,17,Sat,Low,11,18.7
+1075,2,Italian,19,Tue,Low,18,30.2
+1062,5,Chinese,8,Fri,Low,11,20.9
+1062,4,Indian,14,Tue,Low,27,42.5
+1094,2,Fast Food,13,Mon,Medium,21,30.5
+1095,8,Chinese,15,Fri,High,24,48.0
+1024,1,South Indian,14,Thu,High,30,41.7
+1055,1,Fast Food,11,Wed,High,29,35.4
+1009,4,Italian,10,Fri,Low,15,22.5
+1003,7,Chinese,10,Fri,Low,27,39.0
+1031,4,Italian,22,Fri,Low,22,27.4
+1040,6,Italian,11,Fri,High,13,29.3
+1036,3,Italian,23,Thu,Low,21,25.7
+1024,2,Indian,22,Thu,Medium,18,29.2
+1095,4,Italian,16,Wed,Low,11,19.0
+1006,3,South Indian,16,Thu,Low,25,34.7
+1066,6,South Indian,20,Thu,High,10,33.6
+1084,8,Fast Food,9,Mon,High,13,32.0
+1092,8,Italian,12,Sun,High,24,51.4
+1075,3,Italian,23,Mon,Medium,29,36.2
+1004,4,Chinese,8,Sun,High,10,29.1
+1079,1,Indian,11,Tue,Medium,29,33.6
+1006,2,Fast Food,9,Wed,High,24,31.4
+1094,2,Italian,15,Sun,Low,12,14.3
+1051,8,Chinese,11,Mon,Medium,22,40.2
+1062,8,Indian,23,Wed,Medium,27,47.8
+1057,1,Fast Food,12,Wed,Medium,22,23.5
+1066,7,Fast Food,18,Fri,High,19,31.3
+1079,4,Italian,11,Sat,High,29,50.6
+1075,8,Fast Food,12,Sat,Medium,16,34.4
+1008,8,Chinese,12,Sat,Medium,17,35.5
+1026,8,Fast Food,12,Wed,Medium,10,26.4
+1051,2,South Indian,18,Fri,High,27,39.2
+1045,4,Chinese,10,Tue,Medium,21,32.0
+1044,6,Indian,14,Tue,Low,27,46.5
+1005,4,Indian,10,Sat,Medium,21,42.1
+1070,3,Italian,9,Tue,Low,29,35.0
+1026,1,Italian,10,Fri,High,18,28.3
+1068,7,South Indian,18,Sat,Medium,11,35.8
+1019,8,Indian,10,Sun,Medium,23,45.9
+1084,8,Indian,15,Sun,High,13,42.5
+1097,4,Indian,11,Fri,Low,24,32.7
+1020,7,Indian,10,Tue,Low,26,35.8
+1012,8,Fast Food,17,Sat,Medium,28,43.5
+1047,7,Chinese,23,Sun,Low,15,33.9
+1001,6,Chinese,12,Fri,Medium,18,30.4
+1090,5,South Indian,11,Thu,High,26,47.0
+1014,1,Fast Food,16,Sun,High,24,35.1
+1064,7,Indian,15,Thu,High,14,34.6
+1038,2,Indian,18,Fri,High,27,38.0
+1037,3,Italian,23,Fri,Medium,13,19.7
+1011,2,Italian,14,Mon,Low,30,38.4
+1100,8,South Indian,22,Sun,Low,11,24.1
+1077,6,Indian,15,Mon,High,28,53.5
+1003,6,South Indian,20,Wed,Medium,14,29.2
+1033,2,Fast Food,12,Sun,Low,13,11.9
+1006,1,Chinese,11,Sat,Medium,14,27.4
+1050,2,Indian,14,Wed,Medium,28,41.8
+1010,4,Fast Food,8,Wed,Medium,22,29.5
+1005,8,Indian,13,Tue,High,25,56.8
+1023,8,Italian,22,Thu,Medium,21,36.0
+1010,2,South Indian,15,Tue,High,18,32.0
+1044,3,Italian,14,Sat,Medium,25,45.2
+1002,3,Chinese,9,Fri,Medium,23,34.4
+1013,8,Italian,21,Mon,High,10,37.4
+1040,5,Indian,20,Sat,High,29,57.9
+1002,3,Italian,21,Fri,Low,30,40.9
+1084,2,Indian,14,Sat,Low,13,26.9
+1065,3,Chinese,20,Fri,Medium,18,30.1
+1063,8,Italian,13,Sun,Medium,28,54.8
+1073,1,South Indian,20,Mon,Medium,23,35.7
+1017,7,South Indian,12,Fri,High,21,35.8
+1009,3,South Indian,11,Wed,Low,13,16.3
+1075,4,Italian,8,Sat,Medium,16,33.1
+1015,1,Italian,20,Mon,Low,26,30.5
+1024,5,Italian,9,Fri,High,10,30.2
+1038,4,Indian,22,Wed,High,23,42.6
+1035,2,Chinese,14,Wed,Medium,24,36.1
+1094,7,South Indian,17,Sun,Low,21,36.5
+1095,2,Indian,10,Thu,High,21,40.5
+1049,7,South Indian,12,Wed,Medium,15,28.6
+1069,7,Indian,15,Tue,Medium,22,36.4
+1062,2,Italian,20,Mon,High,25,42.3
+1060,4,South Indian,20,Mon,High,23,40.2
+1050,4,Italian,15,Mon,Medium,16,29.4
+1078,7,South Indian,13,Fri,Medium,25,44.2
+1075,4,Fast Food,12,Sat,Low,18,25.0
+1009,7,Indian,20,Fri,Medium,23,47.5
+1034,8,Fast Food,9,Tue,Medium,16,27.3
+1076,7,Indian,16,Sat,Medium,21,39.8
+1099,8,Chinese,8,Sun,Low,12,25.2
+1035,1,South Indian,18,Wed,Low,23,27.0
+1001,6,Chinese,9,Fri,Low,28,40.4
+1040,1,Chinese,20,Sat,Medium,20,32.6
+1064,2,Indian,8,Wed,Medium,14,25.4
+1022,6,Fast Food,19,Sat,Medium,22,36.5
+1060,3,Italian,11,Wed,Medium,19,26.8
+1064,2,Indian,11,Sat,Medium,16,25.7
+1093,5,Italian,12,Fri,High,26,45.8
+1072,1,Chinese,12,Fri,Medium,25,29.0
+1011,4,Italian,15,Tue,High,17,29.8
+1014,1,Fast Food,18,Sun,Medium,26,30.1
+1060,4,Indian,22,Sun,Medium,22,39.9
+1030,6,Fast Food,18,Thu,Low,20,25.4
+1035,5,Fast Food,10,Mon,Medium,29,40.4
+1085,6,Indian,13,Fri,High,27,56.2
+1037,5,Fast Food,19,Fri,High,14,35.4
+1005,1,South Indian,20,Wed,High,15,32.2
+1083,4,South Indian,19,Thu,Low,29,40.9
+1078,6,South Indian,10,Sun,Medium,23,36.1
+1026,5,Italian,20,Fri,Medium,21,39.0
+1062,7,Fast Food,9,Sat,Medium,13,26.1
+1004,2,Indian,15,Sun,Low,16,21.9
+1089,2,Indian,8,Thu,High,20,32.9
+1042,6,Italian,16,Mon,High,29,45.4
+1089,4,Indian,18,Sat,Medium,11,29.9
+1018,7,South Indian,14,Wed,Low,13,26.4
+1040,6,Fast Food,19,Tue,Low,16,29.2
+1072,1,Indian,17,Sat,Medium,10,24.8
+1039,5,Indian,20,Sun,Medium,24,44.7
+1014,8,Chinese,22,Mon,High,29,50.7
+1032,1,Chinese,19,Sat,Medium,17,32.3
+1051,2,Chinese,18,Thu,Medium,14,20.3
+1038,5,Fast Food,11,Thu,Medium,23,28.6
+1097,6,South Indian,10,Mon,Low,27,38.1
+1023,1,South Indian,13,Sun,High,12,27.6
+1063,3,South Indian,16,Thu,Medium,11,25.8
+1015,8,Fast Food,22,Sat,High,25,48.1
+1097,4,Fast Food,16,Tue,Medium,23,31.2
+1025,7,Chinese,11,Sat,Medium,25,44.3
+1017,7,Indian,17,Tue,Low,20,40.2
+1097,4,Italian,12,Thu,Medium,26,36.0
+1066,3,Italian,18,Sat,High,12,32.7
+1078,2,Indian,20,Thu,High,14,29.6
+1053,5,Chinese,16,Sun,High,12,39.9
+1051,4,Indian,23,Tue,Low,24,35.7
+1039,3,Indian,9,Sun,High,14,30.6
+1051,6,Italian,9,Thu,High,12,34.4
+1070,8,Chinese,12,Fri,Low,15,32.6
+1006,7,Fast Food,8,Wed,High,23,36.9
+1067,8,Italian,15,Sat,Low,11,28.0
+1007,3,Fast Food,12,Fri,Medium,27,28.4
+1051,8,Chinese,19,Sun,Medium,15,42.8
+1072,2,Indian,17,Thu,High,14,29.1
+1042,2,South Indian,9,Thu,Low,23,25.7
+1064,1,South Indian,19,Wed,Medium,26,33.4
+1015,4,Chinese,16,Thu,Medium,20,30.6
+1029,1,South Indian,9,Wed,Medium,10,12.7
+1033,8,Fast Food,14,Sat,Medium,19,41.9
+1094,7,South Indian,15,Tue,Low,18,26.4
+1027,3,Chinese,21,Wed,Medium,29,41.0
+1036,5,Chinese,13,Wed,High,21,46.4
+1029,8,Fast Food,21,Fri,High,10,32.1
+1038,5,South Indian,18,Thu,High,27,49.3
+1057,2,South Indian,14,Sat,Medium,21,36.2
+1097,5,Indian,18,Tue,Medium,11,20.6
+1027,5,Italian,8,Mon,Medium,10,20.0
+1055,7,Chinese,11,Sun,Low,10,23.8
+1033,5,Indian,20,Wed,High,10,37.2
+1068,8,Chinese,14,Mon,Low,21,42.3
+1086,3,Indian,23,Thu,High,16,30.9
+1066,5,Italian,8,Sun,Low,13,29.7
+1010,6,Indian,20,Wed,High,30,57.8
+1005,5,Chinese,8,Mon,Low,29,37.0
+1074,5,South Indian,18,Fri,Low,13,24.5
+1097,1,Chinese,13,Mon,Medium,24,32.4
+1038,3,Fast Food,11,Sun,Low,10,15.1
+1013,8,Fast Food,10,Fri,Medium,15,30.4
+1031,2,Fast Food,19,Sun,Medium,23,35.5
+1047,1,Fast Food,22,Tue,Low,23,19.3
+1100,8,Italian,12,Thu,High,19,46.0
+1088,4,South Indian,16,Sat,Medium,16,34.7
+1052,3,South Indian,17,Mon,Medium,21,28.9
+1056,6,Chinese,17,Wed,Medium,28,43.0
+1015,3,Indian,19,Sun,Medium,18,40.2
+1029,4,Chinese,21,Sun,Medium,12,30.4
+1008,4,Chinese,21,Thu,Low,13,24.3
+1005,4,Chinese,19,Mon,Medium,22,34.7
+1029,7,Chinese,18,Wed,Medium,19,30.4
+1047,2,South Indian,17,Wed,Medium,23,26.2
+1068,5,Indian,10,Sun,Medium,15,35.6
+1076,3,Chinese,12,Sat,Medium,17,26.3
+1045,8,South Indian,17,Sun,Low,28,45.9
+1002,7,Chinese,12,Sat,Medium,19,43.1
+1027,8,Fast Food,16,Sun,Medium,14,30.9
+1095,5,Chinese,18,Sun,Low,14,23.4
+1036,5,Chinese,19,Wed,Low,14,27.6
+1036,6,Italian,17,Sat,Low,18,33.9
+1026,4,Fast Food,18,Wed,High,18,30.4
+1043,2,Indian,11,Mon,Medium,24,34.0
+1027,6,Chinese,8,Sun,Low,18,33.7
+1069,1,Indian,17,Tue,Low,23,29.8
+1020,7,Fast Food,12,Sat,Medium,15,28.2
+1011,7,Chinese,8,Fri,Medium,29,49.8
+1074,2,Italian,13,Fri,High,17,36.6
+1038,5,South Indian,19,Fri,High,11,26.3
+1006,8,Italian,23,Tue,Medium,14,32.8
+1072,7,Italian,17,Wed,Low,26,39.1
+1023,2,South Indian,17,Wed,High,19,33.8
+1047,7,South Indian,22,Thu,High,23,41.9
+1090,7,South Indian,14,Fri,Medium,27,48.0
+1046,4,Chinese,8,Fri,Medium,10,16.9
+1012,1,Indian,17,Wed,Medium,11,16.3
+1090,4,Indian,11,Fri,Medium,13,28.6
+1013,1,South Indian,16,Wed,Medium,22,23.1
+1062,7,Italian,20,Sun,High,25,58.5
+1082,6,Fast Food,8,Sun,Medium,14,30.2
+1089,8,South Indian,16,Wed,High,19,45.1
+1097,5,Italian,15,Sat,Low,26,43.6
+1060,7,Italian,12,Wed,Low,20,35.9
+1043,1,Chinese,13,Mon,Medium,14,26.1
+1076,1,Chinese,14,Mon,Low,24,32.7
+1100,1,Indian,11,Mon,Medium,13,21.0
+1068,7,Indian,21,Mon,Low,16,34.5
+1005,2,Fast Food,21,Tue,High,19,33.9
+1037,6,Fast Food,13,Thu,High,13,34.1
+1072,2,Fast Food,14,Thu,Medium,29,39.2
+1092,5,Fast Food,18,Wed,Low,14,17.4
+1031,7,Italian,22,Sun,Medium,14,34.2
+1009,1,Italian,13,Fri,High,20,37.4
+1051,6,Indian,18,Mon,Medium,28,44.4
+1029,6,Chinese,20,Thu,Low,14,38.3
+1078,3,Chinese,22,Thu,Low,30,41.2
+1040,5,South Indian,19,Mon,Medium,17,34.0
+1041,8,Italian,13,Sun,Low,16,39.0
+1086,8,Fast Food,9,Tue,High,17,36.7
+1011,6,Fast Food,12,Tue,High,22,35.5
+1023,7,South Indian,10,Thu,Low,14,24.3
+1001,1,Chinese,14,Tue,Medium,27,37.9
+1046,1,Fast Food,11,Sat,Low,18,16.7
+1021,6,Chinese,8,Mon,High,11,31.4
+1090,2,South Indian,19,Sun,Medium,25,40.7
+1036,5,Chinese,19,Thu,Medium,23,31.5
+1054,1,Chinese,13,Mon,Medium,26,31.0
+1087,6,Chinese,13,Tue,Medium,15,32.3
+1057,1,Fast Food,14,Mon,Medium,12,18.6
+1001,8,Indian,22,Tue,Medium,26,44.1
+1063,6,Italian,23,Sun,Medium,22,47.7
+1054,5,Chinese,18,Tue,Medium,15,30.7
+1055,6,Chinese,15,Mon,Low,17,33.7
+1040,3,Chinese,22,Sun,Low,15,26.1
+1015,6,Indian,10,Tue,Medium,25,37.0
+1021,6,South Indian,21,Sat,Medium,15,33.3
+1047,7,Fast Food,13,Wed,Medium,26,41.1
+1073,8,Indian,17,Mon,High,30,51.8
+1053,5,Chinese,9,Wed,Low,12,24.2
+1009,7,Indian,20,Mon,Low,21,40.1
+1074,6,Indian,21,Tue,Low,15,33.4
+1052,5,Indian,16,Tue,Medium,30,49.1
+1057,3,South Indian,9,Sun,Medium,16,33.2
+1026,5,Italian,10,Thu,Medium,20,33.2
+1041,1,Fast Food,19,Sat,Low,18,18.7
+1035,7,South Indian,22,Thu,Medium,25,37.0
+1063,5,South Indian,22,Wed,High,14,34.4
+1025,8,Italian,20,Tue,High,24,54.2
+1090,3,South Indian,17,Thu,High,30,40.7
+1075,4,Indian,19,Tue,High,13,38.3
+1038,6,Indian,19,Mon,High,14,37.6
+1002,5,Chinese,9,Thu,Low,16,19.7
+1007,6,South Indian,16,Wed,Low,12,15.8
+1082,2,Chinese,8,Sun,Low,13,15.3
+1091,1,Fast Food,12,Thu,Medium,24,28.3
+1034,7,Indian,23,Tue,High,11,34.0
+1091,1,Fast Food,8,Fri,Low,14,10.7
+1017,2,Italian,12,Fri,Medium,16,25.2
+1043,2,Indian,15,Sun,Medium,26,35.6
+1059,7,Fast Food,15,Sun,High,17,35.2
+1051,5,Italian,18,Sat,Medium,18,33.8
+1054,2,Fast Food,15,Sun,High,19,26.8
+1024,4,Italian,9,Tue,Medium,20,30.7
+1025,6,Italian,15,Mon,Medium,10,25.4
+1071,6,Indian,19,Thu,Medium,24,45.1
+1052,3,Chinese,12,Sun,Medium,17,30.7
+1070,8,Italian,22,Fri,Low,28,41.9
+1088,2,Italian,8,Mon,Medium,21,34.2
+1033,2,Indian,14,Tue,High,15,31.5
+1049,4,Chinese,20,Mon,Medium,19,33.6
+1029,1,South Indian,13,Tue,Medium,14,25.0
+1063,1,South Indian,12,Sat,Medium,16,25.7
+1022,6,Chinese,8,Thu,Medium,16,27.2
+1026,6,Fast Food,21,Mon,Low,18,28.5
+1028,5,Indian,21,Thu,Medium,24,46.4
+1085,7,Chinese,23,Mon,Low,15,22.8
+1049,8,South Indian,8,Tue,Low,25,38.1
+1071,4,Italian,13,Tue,High,16,33.7
+1081,7,South Indian,17,Mon,Low,24,33.2
+1084,7,Italian,19,Sat,High,11,41.9
+1049,3,Indian,14,Tue,Medium,17,32.7
+1020,7,Italian,17,Wed,High,21,40.2
+1086,3,Chinese,17,Wed,Low,20,29.1
+1092,7,Italian,8,Thu,Medium,15,31.6
+1063,4,Fast Food,23,Sun,Medium,29,39.8
+1061,3,Chinese,16,Wed,High,22,40.9
+1049,1,Indian,22,Wed,Medium,25,30.8
+1071,3,Chinese,11,Sat,Low,17,27.2
+1001,3,Fast Food,12,Sat,High,26,39.6
+1096,4,Indian,9,Sun,Medium,22,34.0
+1013,4,South Indian,21,Fri,Low,13,27.8
+1094,3,Fast Food,19,Sun,Medium,29,41.7
+1087,8,Indian,17,Fri,Medium,19,37.8
+1051,2,Italian,20,Sat,Low,29,36.7
+1056,8,Chinese,15,Fri,Medium,25,39.6
+1083,4,Indian,21,Sat,Low,26,42.9
+1062,8,Chinese,9,Fri,Medium,17,31.4
+1032,8,Italian,10,Tue,High,20,46.3
+1030,5,Indian,22,Sat,Medium,14,30.9
+1029,5,South Indian,19,Sun,Medium,30,45.3
+1049,1,Fast Food,22,Thu,Low,25,19.8
+1045,7,Indian,16,Thu,Low,17,28.4
+1093,3,Italian,9,Sat,Low,30,35.7
+1030,2,Indian,21,Wed,Medium,25,33.0
+1016,1,Chinese,13,Thu,Medium,13,24.1
+1040,3,Indian,19,Sun,High,15,36.5
+1019,8,South Indian,11,Wed,Low,30,49.0
+1018,4,Indian,14,Thu,Medium,17,38.2
+1001,5,Fast Food,21,Mon,Medium,18,35.9
+1078,6,Indian,21,Mon,Medium,22,45.9
+1047,2,Chinese,13,Sat,High,26,44.8
+1066,8,Indian,17,Sun,Low,18,38.4
+1092,6,South Indian,21,Sun,Low,22,38.9
+1094,5,Italian,16,Thu,Medium,18,33.0
+1038,8,Indian,21,Tue,Medium,15,43.1
+1051,7,Indian,16,Wed,Low,19,35.4
+1063,7,Fast Food,17,Thu,Low,14,21.6
+1004,6,South Indian,11,Sat,Medium,16,33.0
+1001,4,Italian,23,Wed,Medium,20,32.9
+1008,8,Chinese,8,Fri,Low,18,35.7
+1029,3,Indian,9,Sat,Medium,19,31.9
+1055,8,Italian,23,Thu,Medium,20,38.6
+1003,4,Chinese,15,Tue,Medium,12,21.7
+1032,8,South Indian,21,Fri,High,17,44.8
+1010,6,South Indian,17,Sat,Low,26,40.7
+1074,4,Italian,15,Thu,High,16,34.1
+1083,5,Chinese,21,Mon,Medium,21,38.8
+1034,2,South Indian,22,Sun,High,25,42.8
+1097,4,Italian,9,Thu,Medium,24,33.8
+1087,8,South Indian,23,Mon,Medium,30,42.9
+1055,5,South Indian,11,Mon,High,22,40.0
+1092,2,South Indian,8,Sat,High,27,41.5
+1032,7,Fast Food,14,Thu,Low,27,39.1
+1050,3,Chinese,11,Sun,Low,14,18.4
+1007,6,Italian,18,Thu,Medium,23,39.4
+1093,8,Italian,21,Mon,High,20,54.8
+1008,8,Chinese,15,Wed,Medium,12,26.4
+1065,7,Chinese,16,Fri,Medium,26,42.1
+1057,3,Chinese,19,Tue,Medium,21,35.6
+1067,7,Chinese,16,Thu,High,12,32.3
+1088,1,Indian,10,Fri,Medium,11,19.3
+1087,7,Italian,12,Fri,Medium,13,29.3
+1059,5,Indian,13,Wed,High,27,52.5
+1072,2,South Indian,13,Fri,Medium,29,39.8
+1054,8,South Indian,17,Thu,Medium,30,45.8
+1067,7,Italian,15,Sat,Medium,23,43.4
+1051,8,South Indian,13,Sat,Medium,17,43.8
+1097,4,Chinese,13,Fri,Low,11,18.5
+1092,3,Indian,11,Thu,Low,28,37.5
+1008,7,Chinese,14,Thu,Medium,19,38.4
+1034,2,South Indian,21,Mon,Medium,14,27.5
+1035,5,Indian,21,Wed,Medium,20,38.0
+1096,1,Chinese,15,Sun,Low,18,24.9
+1088,8,Italian,10,Tue,Medium,25,44.3
+1078,3,Chinese,14,Sun,Medium,14,28.6
+1032,6,South Indian,10,Mon,Medium,24,36.5
+1046,2,Indian,15,Tue,Low,23,32.2
+1016,6,Italian,8,Sun,Medium,18,37.0
+1068,2,Indian,8,Thu,High,29,42.2
+1037,2,Italian,21,Sat,Low,14,30.0
+1054,5,Indian,13,Mon,Medium,24,46.6
+1085,5,South Indian,17,Sun,Medium,18,30.5
+1014,5,Italian,16,Fri,Medium,13,26.4
+1095,7,Fast Food,19,Fri,Medium,30,41.3
+1055,4,Indian,21,Tue,Medium,30,50.8
+1048,2,Indian,11,Thu,Medium,13,22.6
+1082,3,Chinese,13,Sat,Medium,29,48.4
+1007,6,Italian,23,Tue,Low,30,36.0
+1074,5,Fast Food,19,Sun,Low,16,27.2
+1007,7,South Indian,12,Sun,Medium,24,43.1
+1033,5,Chinese,19,Sat,Low,26,36.6
+1023,6,Fast Food,22,Sun,High,27,46.8
+1085,6,Italian,8,Wed,High,16,35.8
+1019,8,Fast Food,13,Sat,High,28,49.1
+1019,2,Indian,16,Fri,High,19,32.1
+1036,5,Indian,22,Sun,Medium,22,41.4
+1029,6,Chinese,22,Sun,High,11,31.1
+1060,4,Italian,19,Mon,Low,29,42.1
+1082,4,Italian,10,Mon,Low,20,26.9
+1002,5,Fast Food,18,Mon,High,14,21.0
+1001,7,Chinese,22,Sat,Low,15,32.5
+1047,6,Italian,10,Fri,High,12,35.2
+1069,8,Indian,21,Sat,Medium,10,41.8
+1020,2,Fast Food,9,Thu,High,12,19.6
+1011,2,South Indian,20,Fri,Low,12,21.1
+1002,7,Indian,11,Fri,Medium,13,26.8
+1067,8,Chinese,17,Sat,Low,16,34.1
+1087,2,Italian,10,Sat,High,24,39.6
+1012,8,Indian,19,Mon,Low,20,41.2
+1020,1,South Indian,9,Fri,Medium,27,28.4
+1005,5,South Indian,8,Mon,Low,21,32.4
+1037,2,Chinese,10,Thu,Low,13,11.6
+1038,4,Indian,23,Wed,Medium,20,34.0
+1094,6,Fast Food,17,Mon,Low,15,18.0
+1009,8,Indian,23,Sat,Medium,28,57.8
+1098,8,South Indian,13,Sun,Low,27,50.5
+1053,3,Chinese,16,Tue,Medium,24,33.3
+1044,7,Chinese,18,Wed,Medium,12,25.5
+1099,3,Fast Food,12,Thu,Low,26,29.1
+1086,2,Chinese,22,Sun,Medium,10,10.8
+1024,3,Chinese,10,Sat,High,11,29.6
+1081,3,Chinese,23,Wed,Low,28,34.9
+1074,1,Chinese,21,Sat,Low,18,29.2
+1030,8,Chinese,12,Mon,Medium,17,37.9
+1059,4,South Indian,12,Sun,Medium,21,32.5
+1087,7,Indian,12,Sat,Medium,24,47.2
+1096,4,Italian,19,Sun,Medium,16,34.2
+1081,1,Chinese,19,Thu,High,30,43.3
+1081,1,Italian,23,Tue,Low,25,24.7
+1014,3,Italian,14,Mon,Medium,16,30.6
+1009,5,South Indian,12,Mon,Medium,29,44.3
+1040,8,Chinese,14,Sun,Medium,30,61.5
+1066,6,Italian,16,Thu,High,21,41.0
+1025,8,Chinese,12,Thu,Medium,26,42.5
+1073,6,Fast Food,9,Wed,High,20,38.8
+1022,3,Fast Food,12,Tue,Medium,13,18.7
+1004,6,Fast Food,15,Sat,Low,28,36.9
+1026,1,Italian,19,Wed,Low,11,15.5
+1058,4,Fast Food,11,Sat,Medium,11,24.5
+1029,6,South Indian,9,Sat,Medium,26,43.1
+1098,8,South Indian,17,Sat,Low,18,34.4
+1087,7,Italian,10,Wed,Medium,10,29.2
+1037,3,Chinese,16,Mon,Medium,19,28.5
+1075,5,Indian,16,Thu,Low,24,39.4
+1070,3,Chinese,15,Mon,Low,30,38.4
+1018,2,Chinese,15,Tue,High,24,34.9
+1085,3,Chinese,15,Wed,Medium,30,39.7
+1042,1,Chinese,15,Tue,Medium,11,15.0
+1100,4,Indian,23,Thu,Medium,23,41.9
+1041,4,Fast Food,15,Thu,Medium,13,17.0
+1038,7,Chinese,8,Fri,Low,27,39.2
+1034,6,South Indian,13,Tue,Medium,18,37.9
+1017,1,Italian,19,Mon,Medium,11,24.3
+1037,2,Italian,16,Sun,Medium,11,24.6
+1025,1,South Indian,15,Tue,Low,27,30.2
+1076,3,Chinese,10,Wed,Low,26,33.5
+1087,1,Indian,18,Thu,High,18,29.5
+1086,1,Fast Food,8,Thu,Medium,17,16.2
+1085,7,Italian,9,Tue,Medium,11,28.7
+1027,2,Fast Food,18,Tue,Medium,11,11.9
+1057,3,Indian,22,Sat,High,14,31.4
+1031,5,Italian,9,Tue,Medium,21,33.7
+1006,7,Fast Food,14,Sat,Medium,25,50.9
+1091,5,Indian,19,Wed,High,23,52.6
+1040,7,Fast Food,13,Wed,Medium,29,44.9
+1098,4,Chinese,18,Mon,Low,11,12.0
+1012,8,Indian,9,Tue,Low,17,31.6
+1053,7,Fast Food,15,Mon,High,13,32.2
+1071,6,Chinese,22,Sun,High,29,47.1
+1010,1,Chinese,16,Fri,Medium,18,25.6
+1045,4,Indian,22,Wed,Medium,29,43.8
+1017,2,South Indian,14,Thu,Medium,28,39.7
+1026,5,Italian,11,Sat,Medium,11,27.9
+1085,8,Indian,20,Fri,Medium,25,47.7
+1092,8,Chinese,20,Thu,Low,20,41.5
+1062,7,Chinese,8,Fri,High,17,39.5
+1046,1,Indian,11,Mon,High,21,32.4
+1064,2,South Indian,11,Mon,Medium,12,16.2
+1002,6,Italian,15,Sat,Medium,22,37.2
+1054,2,Fast Food,11,Wed,Low,11,10.7
+1065,1,Indian,11,Sun,Medium,22,32.2
+1051,6,Italian,20,Sat,Medium,17,40.2
+1053,2,Italian,9,Sun,Medium,24,30.9
+1036,6,Chinese,19,Thu,Medium,30,46.5
+1026,7,Fast Food,17,Fri,Medium,18,26.0
+1029,7,Indian,14,Sat,High,20,53.9
+1021,1,Chinese,22,Sun,Low,30,35.3
+1011,1,Chinese,11,Tue,Medium,12,17.0
+1040,6,South Indian,18,Tue,High,16,38.1
+1011,3,Italian,13,Wed,Medium,23,41.3
+1036,4,Indian,10,Sun,Medium,24,43.5
+1059,8,Indian,14,Sat,Medium,18,45.7
+1039,2,Indian,13,Thu,High,29,44.4
+1099,2,Chinese,10,Tue,Low,20,28.7
+1054,3,South Indian,11,Wed,Medium,16,26.0
+1098,3,Fast Food,17,Sat,Low,21,26.0
+1055,3,Chinese,21,Wed,Low,28,40.4
+1024,5,Fast Food,12,Thu,Medium,27,43.3
+1022,5,South Indian,16,Tue,Low,22,29.7
+1069,6,Italian,21,Tue,High,20,50.1
+1056,5,Indian,13,Tue,High,10,32.4
+1033,7,Fast Food,20,Sun,Medium,15,37.0
+1036,7,Chinese,11,Mon,Medium,30,52.0
+1020,1,Fast Food,18,Sun,Medium,11,14.7
+1083,8,Italian,18,Tue,High,22,40.6
+1099,6,Indian,14,Fri,Medium,22,45.5
+1081,8,Fast Food,9,Mon,Low,28,36.7
+1062,2,Italian,11,Sat,High,18,37.1
+1098,4,Chinese,12,Sun,Medium,28,40.8
+1073,1,South Indian,11,Mon,Medium,10,22.0
+1026,2,Chinese,11,Mon,High,17,29.9
+1066,2,Indian,18,Sun,High,23,43.0
+1073,6,Chinese,20,Sun,Medium,25,44.8
+1073,3,Chinese,23,Mon,Medium,13,18.9
+1040,3,Chinese,16,Wed,High,27,37.5
+1017,8,Chinese,21,Fri,Low,23,38.5
+1001,1,Indian,18,Thu,Medium,18,27.8
+1089,3,Italian,20,Tue,Low,24,33.6
+1061,2,Fast Food,9,Sun,High,12,18.8
+1043,3,South Indian,13,Mon,Medium,13,24.3
+1042,5,Fast Food,21,Thu,Low,27,38.1
+1025,3,Fast Food,15,Sun,High,23,37.4
+1039,2,South Indian,15,Wed,Medium,24,33.6
+1035,8,Indian,18,Thu,High,17,41.6
+1003,6,South Indian,14,Mon,Low,19,39.8
+1044,1,Indian,17,Sat,Medium,21,35.0
+1051,4,Fast Food,18,Fri,Medium,30,32.7
+1094,3,Indian,11,Thu,Medium,18,31.8
+1098,7,Italian,14,Sun,Medium,17,42.7
+1012,7,South Indian,20,Mon,High,26,51.1
+1019,8,Italian,23,Sun,Medium,18,40.4
+1044,2,Fast Food,17,Mon,High,22,27.6
+1059,4,South Indian,13,Tue,Low,23,37.2
+1049,4,Fast Food,18,Sat,Low,14,17.5
+1061,5,Italian,23,Tue,Low,18,26.3
+1017,4,Fast Food,13,Sat,Medium,25,41.5
+1074,7,South Indian,9,Fri,Medium,28,50.1
+1057,6,South Indian,15,Tue,High,16,33.3
+1055,2,Fast Food,15,Fri,Medium,21,19.9
+1047,2,South Indian,21,Sun,Medium,11,29.0
+1012,3,South Indian,18,Wed,Medium,27,36.0
+1062,3,Fast Food,14,Wed,Low,27,33.9
+1080,3,Italian,18,Sat,Low,25,34.5
+1088,7,South Indian,16,Sat,Medium,20,40.4
+1083,7,South Indian,15,Tue,Medium,11,27.7
+1008,8,South Indian,21,Wed,High,23,48.8
+1095,7,South Indian,16,Thu,Medium,13,30.7
+1021,7,Fast Food,22,Thu,Medium,16,29.1
+1081,7,Italian,16,Sun,Medium,11,30.5
+1087,7,Italian,13,Thu,High,30,57.1
+1080,6,Indian,9,Sun,Low,23,36.4
+1070,7,South Indian,19,Wed,Medium,16,38.0
+1072,8,South Indian,14,Thu,Medium,18,41.8
+1025,4,Indian,10,Fri,High,17,35.1
+1082,4,Italian,20,Mon,Low,18,27.8
+1089,5,Chinese,14,Sat,Medium,16,30.9
+1012,6,Chinese,16,Tue,Medium,28,42.1
+1015,3,Italian,17,Sun,Medium,26,40.1
+1059,1,South Indian,21,Fri,Low,22,29.7
+1026,7,Chinese,17,Thu,Low,20,36.0
+1026,5,Fast Food,9,Mon,Medium,27,33.9
+1047,1,Fast Food,21,Tue,Medium,26,27.1
+1032,8,Indian,20,Fri,Low,25,44.9
+1010,4,Italian,13,Tue,Medium,19,42.7
+1016,5,Italian,20,Sun,Low,13,35.9
+1071,8,Chinese,13,Sun,High,13,45.7
+1017,5,South Indian,16,Sat,Medium,20,33.7
+1023,2,Italian,20,Wed,High,30,48.3
+1026,8,Chinese,16,Sun,Medium,17,43.5
+1085,4,Chinese,22,Thu,High,18,34.8
+1086,4,Italian,20,Fri,Medium,25,41.1
+1007,6,Chinese,12,Fri,Medium,19,37.8
+1014,5,Indian,21,Mon,Medium,18,32.2
+1079,7,Indian,12,Mon,Medium,12,27.6
+1007,4,Italian,16,Mon,Medium,11,20.8
+1009,5,South Indian,15,Tue,Low,18,29.0
+1048,6,Indian,14,Thu,Low,22,38.1
+1072,7,Indian,15,Tue,Medium,15,28.3
+1059,8,Italian,13,Thu,Medium,13,35.3
+1087,6,Fast Food,10,Fri,Low,23,27.4
+1093,2,Chinese,14,Sun,Medium,20,35.4
+1082,7,Indian,15,Sun,Medium,11,33.0
+1095,5,Fast Food,22,Tue,High,12,27.9
+1094,4,South Indian,15,Tue,Low,14,19.3
+1039,4,Fast Food,8,Tue,Medium,16,20.5
+1099,5,Italian,23,Wed,High,20,39.1
+1018,5,South Indian,14,Sat,Medium,21,41.7
+1059,5,South Indian,10,Thu,Low,20,26.2
+1017,3,Fast Food,9,Sun,High,28,35.3
+1014,7,Italian,21,Thu,Medium,22,43.1
+1031,4,Indian,9,Tue,Medium,13,28.6
+1024,7,Fast Food,21,Wed,High,23,44.4
+1099,6,Indian,22,Tue,High,21,46.5
+1060,4,Fast Food,21,Thu,Medium,11,23.7
+1045,3,Indian,15,Sat,Low,17,25.8
+1098,5,Fast Food,16,Sun,Medium,28,43.4
+1003,2,South Indian,10,Sat,Low,22,25.0
+1037,5,Chinese,21,Fri,Low,30,39.0
+1043,8,South Indian,10,Wed,Medium,30,48.4
+1040,5,Indian,13,Sat,High,10,35.6
+1090,3,Italian,18,Wed,High,14,29.2
+1055,7,South Indian,17,Tue,Medium,20,32.4
+1087,4,Chinese,8,Fri,Medium,20,31.2
+1039,5,Indian,13,Thu,Low,22,39.5
+1015,4,South Indian,19,Sat,Low,11,27.1
+1004,1,Fast Food,10,Sat,Low,28,24.4
+1093,6,Italian,18,Mon,High,25,41.7
+1086,7,Indian,23,Sun,Low,14,32.8
+1025,4,South Indian,11,Thu,High,23,37.1
+1013,2,Indian,16,Sat,Medium,28,38.9
+1082,6,Fast Food,10,Sat,Low,14,22.4
+1033,8,Chinese,8,Thu,Low,30,43.9
+1016,8,South Indian,10,Fri,Medium,18,36.5
+1042,2,Indian,14,Wed,High,21,42.1
+1066,5,Indian,20,Thu,Medium,25,48.0
+1055,6,Indian,14,Wed,Medium,28,49.0
+1099,4,Chinese,18,Fri,Medium,24,38.2
+1042,6,Indian,12,Fri,Medium,26,44.6
+1034,5,Italian,21,Tue,High,24,50.6
+1030,3,Italian,8,Mon,Medium,12,19.1
+1013,7,Indian,18,Fri,Medium,26,44.3
+1013,2,Italian,15,Fri,Medium,22,36.3
+1018,5,South Indian,17,Wed,Medium,18,25.9
+1032,3,Italian,15,Fri,Medium,22,37.8
+1096,6,Indian,17,Thu,Low,25,43.0
+1099,6,Fast Food,19,Tue,Medium,28,45.0
+1039,5,South Indian,17,Tue,High,23,36.0
+1046,4,Chinese,20,Thu,Medium,17,32.6
+1029,6,Indian,17,Sat,Low,28,46.2
+1062,4,Chinese,9,Fri,High,12,24.2
+1093,4,Fast Food,17,Sun,Low,30,37.2
+1062,7,Chinese,10,Mon,Low,27,39.9
+1057,4,Indian,11,Fri,Low,25,32.5
+1016,1,Indian,8,Tue,Medium,23,27.4
+1056,7,Fast Food,11,Mon,Medium,25,41.0
+1010,3,Indian,23,Sun,Medium,26,42.7
+1030,3,Fast Food,12,Sat,Medium,29,35.9
+1025,6,Fast Food,10,Wed,Medium,20,29.9
+1084,6,Indian,21,Wed,High,22,48.0
+1005,4,Italian,18,Sun,Low,20,25.8
+1065,7,Fast Food,22,Fri,High,13,33.5
+1094,7,Indian,17,Fri,Medium,23,42.3
+1049,1,Italian,23,Mon,Medium,14,23.7
+1003,4,Fast Food,9,Mon,Medium,13,17.8
+1045,1,Italian,20,Sat,Medium,10,25.1
+1014,8,South Indian,13,Fri,Low,23,42.4
+1030,4,South Indian,15,Tue,High,16,34.3
+1068,2,Italian,14,Wed,Low,19,34.0
+1018,2,Fast Food,18,Sat,Low,11,11.6
+1062,5,Indian,21,Mon,Medium,19,38.0
+1037,4,Chinese,8,Tue,Medium,12,22.5
+1025,7,Indian,11,Fri,Low,30,42.8
+1048,6,Chinese,10,Thu,High,17,44.7
+1065,3,Chinese,13,Mon,High,19,33.4
+1053,5,Fast Food,16,Sat,Medium,17,36.1
+1079,6,Italian,16,Thu,Medium,23,40.7
+1073,2,Indian,14,Tue,Medium,27,41.4
+1015,4,Italian,22,Sun,Medium,18,30.7
+1049,5,South Indian,19,Wed,Medium,18,34.9
+1088,4,Fast Food,16,Sun,High,13,25.5
+1068,2,Fast Food,15,Sun,High,12,26.7
+1012,5,South Indian,12,Sun,High,23,44.9
+1059,2,Indian,16,Tue,Low,23,33.6
+1037,1,South Indian,21,Wed,Low,30,34.9
+1061,2,Indian,14,Tue,Low,25,36.0
+1043,7,Chinese,12,Sun,Medium,14,33.3
+1070,7,Fast Food,23,Mon,Medium,29,39.5
+1039,4,Indian,22,Sun,Medium,24,37.1
+1056,3,Italian,15,Mon,Medium,30,42.6
+1063,2,Italian,22,Sat,High,18,35.6
+1046,6,Fast Food,14,Sun,Medium,16,33.7
+1088,7,South Indian,16,Thu,High,22,44.1
+1011,8,South Indian,17,Tue,Low,17,29.2
+1062,3,Indian,8,Sun,Low,21,31.4
+1077,1,South Indian,22,Tue,High,13,25.4
+1098,5,Fast Food,20,Sun,Medium,25,44.0
+1025,5,Indian,16,Thu,Medium,15,34.6
+1071,7,Chinese,22,Sun,Low,14,26.3
+1052,3,South Indian,14,Fri,Low,10,16.5
+1004,7,South Indian,8,Sat,Medium,23,38.1
+1059,5,Indian,8,Tue,High,18,36.1
+1072,8,Italian,12,Sat,High,27,53.4
+1020,2,South Indian,15,Tue,Medium,15,22.9
+1093,3,Fast Food,16,Tue,Medium,24,31.9
+1063,4,South Indian,19,Fri,High,25,44.0
+1054,2,Chinese,13,Sun,Medium,17,34.3
+1074,2,South Indian,19,Mon,Medium,28,43.4
+1098,2,Italian,20,Sat,High,14,34.2
+1057,4,South Indian,17,Thu,High,23,37.4
+1090,8,Indian,19,Sat,High,16,49.6
+1041,1,South Indian,15,Sun,Low,13,11.8
+1003,8,Italian,22,Fri,Medium,30,50.9
+1006,8,Indian,13,Wed,High,10,36.8
+1005,8,Fast Food,18,Wed,Low,13,24.8
+1005,6,Indian,13,Fri,High,23,48.5
+1054,7,Chinese,11,Sun,Low,25,39.1
+1047,5,Indian,18,Fri,High,16,33.1
+1087,7,Fast Food,12,Mon,Medium,19,32.2
+1049,3,South Indian,23,Sat,Low,19,28.0
+1009,8,Indian,21,Sun,Medium,13,40.0
+1099,1,Indian,9,Sat,Medium,21,37.2
+1020,3,Indian,10,Wed,Medium,15,26.5
+1061,7,Indian,10,Sun,Medium,22,43.6
+1035,5,Fast Food,21,Thu,High,30,48.2
+1050,4,Italian,19,Sat,Medium,10,28.2
+1082,7,Italian,18,Tue,Medium,17,31.6
+1062,2,Indian,12,Tue,Low,25,29.5
+1017,7,Fast Food,21,Mon,High,14,37.5
+1088,2,Fast Food,12,Sun,Low,16,12.0
+1003,4,Indian,13,Mon,Medium,12,25.7
+1032,7,Chinese,12,Sun,High,30,52.8
+1099,1,Indian,19,Wed,Low,11,14.4
+1013,1,Chinese,13,Thu,Medium,11,17.5
+1089,3,Indian,15,Thu,Low,29,38.8
+1073,4,Chinese,22,Fri,High,19,33.9
+1068,8,Chinese,9,Mon,Medium,29,44.9
+1014,1,Indian,11,Sun,High,18,34.2
+1098,7,Chinese,20,Sat,High,27,56.9
+1011,4,South Indian,23,Tue,Medium,15,28.7
+1056,5,Italian,13,Sat,Medium,29,45.7
+1067,2,Fast Food,19,Tue,Medium,15,19.8
+1092,7,Chinese,12,Wed,Medium,19,33.8
+1029,2,Chinese,8,Tue,Medium,18,26.8
+1009,2,Fast Food,16,Sat,High,18,37.3
+1067,8,Chinese,10,Sat,Medium,12,35.2
+1025,4,Fast Food,9,Thu,Medium,21,26.4
+1098,4,Indian,16,Sun,Medium,20,32.6
+1076,3,South Indian,14,Thu,Medium,23,32.4
+1042,2,South Indian,12,Mon,Low,28,33.3
+1009,3,Italian,19,Sat,Medium,19,35.0
+1079,8,Chinese,13,Sun,Medium,28,53.3
+1040,2,Italian,19,Wed,Medium,14,32.6
+1025,3,Indian,18,Tue,Medium,18,24.3
+1005,3,South Indian,23,Mon,Medium,10,19.2
+1011,5,Indian,11,Fri,High,24,41.3
+1059,3,Indian,8,Fri,High,13,34.3
+1098,4,Chinese,11,Sun,Medium,16,27.4
+1088,3,Indian,16,Tue,Low,15,24.4
+1079,2,South Indian,8,Tue,High,24,30.2
+1038,3,Italian,17,Sun,Medium,15,33.1
+1072,1,South Indian,10,Tue,Medium,16,23.6
+1005,6,Chinese,22,Thu,Low,29,38.1
+1048,2,South Indian,22,Tue,Low,12,15.8
+1090,1,Fast Food,12,Fri,Low,30,29.7
+1018,8,Italian,14,Tue,Low,22,42.9
+1070,2,Fast Food,16,Sat,High,11,20.4
+1037,4,Fast Food,13,Sun,Medium,12,25.9
+1060,6,Chinese,10,Wed,Medium,22,37.1
+1048,6,Indian,20,Fri,High,18,45.0
+1077,4,Fast Food,14,Wed,High,28,45.5
+1028,6,South Indian,22,Fri,High,27,42.7
+1069,4,Indian,21,Mon,High,14,35.3
+1077,1,South Indian,11,Sat,Medium,19,25.6
+1081,8,South Indian,10,Fri,High,23,46.8
+1040,5,Indian,21,Sat,Medium,30,48.4
+1045,2,Indian,14,Fri,Low,26,37.1
+1096,4,South Indian,18,Wed,Medium,12,24.5
+1062,2,Chinese,18,Wed,Medium,16,23.7
+1093,8,Italian,14,Sun,High,18,50.6
+1058,1,Italian,11,Fri,Medium,14,19.9
+1067,5,Chinese,19,Fri,Medium,13,31.2
+1056,8,Indian,14,Thu,Low,12,32.1
+1040,1,South Indian,18,Sat,Medium,22,29.3
+1098,6,Italian,21,Sat,Low,18,36.5
+1040,2,South Indian,9,Sat,Medium,16,25.1
+1091,7,Chinese,8,Sat,High,17,40.6
+1077,5,South Indian,19,Mon,Low,19,28.5
+1033,6,Chinese,22,Mon,Medium,10,20.3
+1006,8,Indian,23,Tue,Low,29,45.6
+1088,5,Chinese,9,Fri,Low,30,40.8
+1019,6,Chinese,11,Fri,Medium,30,49.5
+1080,1,Italian,15,Fri,Low,10,16.1
+1040,4,South Indian,10,Fri,Medium,28,40.9
+1092,2,Italian,22,Sat,Low,11,19.3
+1097,3,Fast Food,17,Sat,Low,21,24.8
+1059,3,Chinese,22,Mon,Medium,22,29.0
+1059,1,Fast Food,13,Wed,Medium,23,26.1
+1048,8,Italian,13,Thu,Low,14,35.0
+1041,2,South Indian,20,Sat,Medium,12,24.1
+1013,8,Italian,16,Sat,High,26,53.1
+1045,2,South Indian,16,Sun,Medium,10,12.1
+1089,1,South Indian,11,Sat,Low,23,28.2
+1053,2,Indian,16,Wed,Medium,15,21.5
+1042,4,Chinese,22,Wed,Medium,26,32.9
+1100,8,Italian,22,Mon,Low,13,30.6
+1063,1,South Indian,20,Sat,High,15,35.7
+1027,4,Italian,23,Sun,High,10,29.9
+1038,2,Italian,13,Thu,High,18,34.4
+1060,1,South Indian,23,Fri,High,13,25.0
+1007,2,Fast Food,23,Sat,Medium,18,21.3
+1005,8,Chinese,9,Mon,Medium,18,35.9
+1045,1,Chinese,17,Mon,Medium,22,31.8
+1058,2,Indian,21,Thu,High,26,46.7
+1031,8,Indian,18,Sun,Medium,30,53.3
+1023,4,Indian,13,Tue,Medium,12,29.4
+1042,7,Chinese,9,Mon,Medium,15,31.7
+1010,4,Fast Food,15,Wed,High,29,41.0
+1032,2,Chinese,11,Wed,Low,24,24.2
+1053,1,Chinese,12,Fri,Medium,23,32.4
+1030,3,Chinese,15,Mon,High,22,35.0
+1039,4,Chinese,21,Sun,Medium,18,36.6
+1031,4,Fast Food,18,Fri,High,24,37.6
+1082,8,Indian,15,Mon,Medium,23,43.0
+1100,6,Italian,19,Thu,Low,13,32.4
+1002,3,Indian,21,Sat,High,20,44.3
+1078,2,Indian,19,Sun,Low,11,24.9
+1077,7,Italian,23,Mon,Medium,25,43.2
+1093,1,Chinese,13,Sun,Medium,28,42.9
+1012,6,Fast Food,11,Tue,Low,25,32.5
+1039,2,Fast Food,22,Sun,Medium,16,24.8
+1066,5,Indian,8,Sun,Medium,20,41.0
+1096,7,Italian,19,Wed,Medium,21,41.2
+1013,4,South Indian,14,Thu,High,13,37.6
+1046,5,Chinese,15,Sat,Low,25,31.9
+1027,4,Indian,16,Sat,Low,25,35.3
+1017,4,Fast Food,9,Wed,Medium,16,21.8
+1095,5,Italian,8,Sun,Medium,22,35.5
+1098,7,Italian,11,Sat,High,14,40.4
+1060,8,Indian,20,Fri,Low,10,33.6
+1064,5,South Indian,12,Thu,High,14,28.9
+1088,2,Fast Food,17,Tue,Medium,23,27.0
+1035,6,Indian,19,Wed,Medium,20,44.3
+1070,6,South Indian,8,Mon,Low,11,15.0
+1083,5,Italian,12,Mon,Medium,27,41.5
+1030,2,Chinese,13,Mon,Low,24,33.7
+1071,8,Fast Food,10,Thu,Low,23,29.6
+1074,6,Fast Food,19,Tue,Medium,22,33.2
+1096,2,South Indian,22,Sat,High,11,23.5
+1098,8,Indian,14,Tue,Medium,28,52.8
+1063,2,Italian,21,Tue,Medium,17,28.3
+1028,4,South Indian,13,Wed,Medium,26,42.9
+1060,6,Chinese,11,Thu,Medium,24,40.1
+1079,8,Chinese,10,Mon,High,29,53.5
+1094,6,Chinese,12,Wed,Medium,30,48.6
+1037,4,South Indian,10,Sat,Low,23,34.1
+1093,5,Italian,17,Tue,Low,12,22.9
+1022,4,Fast Food,16,Sun,Medium,26,31.5
+1068,6,Indian,16,Mon,Medium,12,32.3
+1020,6,Fast Food,13,Thu,Low,22,36.6
+1096,7,Italian,20,Fri,High,27,53.6
+1100,8,Fast Food,18,Tue,Medium,10,21.0
+1068,5,South Indian,13,Tue,Medium,16,35.3
+1091,4,Chinese,19,Tue,Low,14,20.7
+1064,8,Italian,21,Tue,Medium,11,36.6
+1017,1,Italian,11,Mon,High,26,42.3
+1012,8,Fast Food,11,Thu,High,30,47.3
+1022,1,South Indian,9,Wed,Low,19,20.5
+1017,5,Fast Food,17,Mon,Low,13,17.3
+1010,4,Fast Food,11,Thu,Medium,18,27.3
+1065,4,Italian,15,Wed,Medium,30,42.5
+1022,2,Fast Food,20,Tue,Medium,20,26.6
+1090,6,Chinese,17,Thu,High,21,36.2
+1082,3,Fast Food,9,Tue,Medium,21,25.7
+1050,7,Chinese,16,Sun,Low,27,42.4
+1014,8,Italian,21,Thu,High,13,36.3
+1064,5,South Indian,8,Sat,Low,18,26.0
+1047,3,Chinese,20,Fri,High,17,34.6
+1029,8,South Indian,9,Tue,Medium,28,43.6
+1076,3,South Indian,22,Tue,High,22,35.3
+1036,5,Chinese,23,Tue,Low,11,19.7
+1099,4,Italian,9,Sat,Low,28,39.0
+1052,5,Indian,18,Mon,Medium,23,44.8
+1076,8,South Indian,20,Wed,Medium,14,35.1
+1007,3,South Indian,22,Tue,Medium,19,24.8
+1029,6,Italian,21,Tue,High,26,56.5
+1011,7,Italian,13,Mon,High,29,61.0
+1033,7,Fast Food,22,Mon,Medium,25,33.4
+1006,6,Italian,21,Fri,Low,26,46.4
+1079,6,South Indian,23,Thu,Medium,10,18.3
+1032,4,Chinese,14,Tue,Medium,30,54.8
+1051,8,Indian,20,Thu,Medium,24,54.7
+1075,1,Fast Food,22,Sun,High,26,36.4
+1058,5,Chinese,22,Mon,Low,20,31.6
+1087,7,Indian,10,Mon,Low,14,29.9
+1026,6,Indian,18,Fri,Low,13,23.8
+1098,5,Indian,16,Wed,High,30,53.6
+1046,7,Chinese,12,Sat,Medium,18,41.7
+1098,6,Fast Food,12,Sat,Medium,25,35.6
+1029,8,Fast Food,18,Sat,Low,21,33.3
+1004,7,Indian,19,Mon,Low,27,42.9
+1081,4,Chinese,11,Tue,Low,12,19.1
+1099,1,Indian,16,Fri,Medium,24,31.0
+1013,1,Italian,15,Wed,Low,27,33.6
+1039,6,Fast Food,19,Sun,Low,21,39.6
+1015,7,South Indian,11,Sat,High,22,42.4
+1029,4,Indian,11,Fri,Medium,10,25.5
+1029,2,Italian,23,Mon,Medium,13,24.2
+1075,5,Fast Food,9,Sat,Low,17,18.8
+1032,5,Chinese,16,Wed,Medium,28,43.9
+1002,3,Fast Food,10,Sun,Medium,30,33.0
+1047,4,Chinese,11,Thu,Low,30,35.7
+1078,7,Chinese,21,Sun,Low,14,31.9
+1084,8,Indian,14,Wed,High,20,45.7
+1022,8,Indian,17,Sun,High,26,57.7
+1075,3,Fast Food,15,Tue,Low,26,23.6
+1027,6,Italian,15,Sat,Medium,11,28.6
+1067,7,Fast Food,23,Sat,High,10,29.6
+1081,3,South Indian,11,Thu,Low,13,19.6
+1056,1,Chinese,22,Sun,Medium,18,23.9
+1092,5,Chinese,14,Thu,High,11,35.5
+1093,7,Indian,17,Sun,High,12,37.9
+1021,3,Italian,8,Sat,Medium,15,25.4
+1047,1,Indian,23,Tue,Low,22,28.9
+1080,4,South Indian,13,Sun,Low,24,44.4
+1059,3,Fast Food,13,Thu,High,20,35.0
+1084,6,Fast Food,13,Mon,High,19,37.0
+1006,6,Italian,23,Sat,Medium,12,28.6
+1019,6,Indian,19,Wed,High,29,58.2
+1057,7,Indian,9,Wed,Medium,18,36.6
+1069,8,South Indian,15,Tue,Medium,19,33.2
+1003,8,Fast Food,21,Mon,High,30,48.3
+1001,5,Indian,22,Thu,Medium,21,37.1
+1058,3,Italian,23,Sun,Medium,17,26.6
+1038,4,Fast Food,22,Sat,Low,30,34.0
+1015,3,South Indian,12,Wed,Medium,30,43.3
+1034,5,Italian,23,Wed,Medium,30,41.5
+1061,1,Chinese,12,Wed,Low,26,31.0
+1035,5,South Indian,9,Wed,High,14,27.9
+1064,6,Italian,23,Fri,Medium,17,35.4
+1025,7,Indian,11,Tue,High,27,52.3
+1024,1,Chinese,19,Thu,Low,20,28.3
+1012,7,South Indian,16,Sat,Medium,19,35.8
+1018,6,Indian,16,Sat,Low,24,41.7
+1015,2,Chinese,13,Sat,High,15,36.7
+1080,5,Fast Food,18,Thu,Low,28,37.7
+1027,5,Indian,22,Tue,Medium,26,39.2
+1072,4,Italian,16,Mon,High,19,40.1
+1060,3,South Indian,11,Sun,Medium,14,22.7
+1046,1,Chinese,22,Sun,High,25,38.1
+1089,8,Indian,18,Tue,High,21,44.5
+1017,7,Fast Food,8,Wed,Low,30,36.1
+1093,1,South Indian,9,Sun,Low,14,17.3
+1053,4,South Indian,20,Wed,Low,30,45.5
+1008,4,Indian,8,Tue,Low,10,20.6
+1079,7,Fast Food,15,Tue,High,11,31.3
+1027,8,Chinese,16,Thu,High,14,37.4
+1046,3,Indian,23,Thu,Low,28,39.2
+1050,7,Chinese,17,Fri,Medium,24,41.3
+1071,7,South Indian,19,Sat,Medium,10,31.2
+1003,6,Chinese,13,Fri,Low,20,39.0
+1093,8,Fast Food,9,Sat,Medium,27,47.9
+1064,3,Italian,13,Wed,Medium,12,29.3
+1044,5,Fast Food,16,Fri,Medium,18,28.5
+1053,6,Chinese,19,Fri,Medium,13,36.6
+1024,2,Indian,10,Mon,Medium,22,30.8
+1060,8,South Indian,16,Tue,Low,18,29.2
+1003,3,Italian,9,Thu,High,12,28.5
+1020,4,Indian,18,Fri,Medium,25,43.4
+1046,6,Indian,12,Thu,High,17,39.7
+1015,3,Fast Food,18,Sat,Medium,16,25.3
+1025,1,Chinese,9,Fri,High,26,37.0
+1094,7,Fast Food,14,Sat,High,25,50.5
+1078,2,Chinese,18,Fri,Medium,30,36.0
+1071,5,Fast Food,17,Sun,Medium,27,39.6
+1017,7,Indian,22,Wed,High,25,51.2
+1084,1,South Indian,16,Mon,Medium,24,24.3
+1100,1,Chinese,14,Sat,High,11,25.3
+1009,2,Italian,19,Tue,High,29,42.3
+1038,5,Italian,12,Tue,Medium,13,31.4
+1048,4,Indian,22,Wed,Low,14,20.4
+1060,6,Fast Food,11,Wed,Low,16,22.9
+1063,8,Fast Food,19,Sun,High,24,55.8
+1086,5,Indian,11,Tue,Medium,26,42.0
+1002,8,Italian,22,Sat,Low,19,38.9
+1088,3,Italian,17,Tue,Medium,29,36.9
+1072,1,Fast Food,15,Mon,Medium,18,19.8
+1011,3,Chinese,17,Fri,Low,25,27.4
+1064,4,South Indian,20,Mon,Low,12,17.5
+1077,3,Chinese,17,Sun,Medium,18,30.6
+1081,5,Italian,21,Sun,Low,17,36.0
+1072,3,Chinese,17,Tue,High,16,28.8
+1021,4,South Indian,17,Fri,Medium,26,34.0
+1018,4,Chinese,17,Tue,High,14,29.6
+1094,4,Chinese,8,Mon,High,16,30.0
+1064,5,Chinese,12,Mon,Medium,22,37.2
+1082,4,Chinese,21,Sat,Medium,27,47.5
+1095,1,Indian,9,Sat,Medium,23,38.7
+1038,7,Italian,23,Mon,Medium,27,43.5
+1032,4,South Indian,20,Fri,Medium,12,27.4
+1011,3,Italian,18,Sun,High,26,44.9
+1045,6,Indian,16,Sat,Medium,28,46.7
+1089,3,Indian,14,Sat,High,16,34.4
+1033,6,Indian,23,Thu,Low,30,44.1
+1041,3,Indian,17,Thu,Low,13,27.4
+1008,5,Chinese,15,Sat,High,24,48.0
+1011,3,Italian,13,Tue,Medium,17,38.3
+1086,5,Fast Food,16,Fri,Medium,25,35.7
+1051,5,South Indian,13,Wed,Medium,10,26.5
+1088,4,Indian,14,Sat,Low,25,44.0
+1041,1,Italian,14,Thu,Medium,11,26.0
+1017,6,Indian,23,Fri,Low,11,19.0
+1076,4,Indian,16,Fri,Medium,17,31.5
+1046,4,Indian,18,Thu,Medium,21,33.9
+1032,7,Indian,15,Fri,High,20,48.0
+1079,5,Indian,20,Fri,Medium,15,36.1
+1080,5,South Indian,8,Thu,Low,28,28.6
+1054,6,Italian,11,Mon,Medium,27,44.1
+1086,3,Indian,14,Sat,Low,14,23.2
+1092,3,Indian,18,Tue,Low,24,35.2
+1020,8,Indian,15,Wed,Low,17,31.1
+1033,4,Indian,14,Tue,Medium,15,29.8
+1074,8,Chinese,19,Mon,Low,21,38.1
+1040,2,Chinese,10,Sun,Medium,28,35.9
+1032,2,Fast Food,22,Mon,High,21,28.1
+1097,8,Indian,11,Fri,Medium,21,38.8
+1002,3,Fast Food,19,Tue,Low,18,22.5
+1097,2,South Indian,14,Mon,Low,19,22.0
+1033,7,Fast Food,15,Tue,Medium,26,36.8
+1077,3,Italian,14,Mon,High,27,51.7
+1030,5,Chinese,13,Wed,Low,25,37.7
+1033,4,Chinese,16,Mon,High,13,31.1
+1077,1,Indian,16,Tue,Medium,27,31.0
+1026,4,Indian,18,Fri,Medium,12,26.9
+1022,8,South Indian,20,Tue,High,25,55.8
+1066,3,South Indian,14,Thu,Medium,23,40.7
+1038,8,Italian,15,Tue,High,18,43.0
+1090,7,Indian,13,Wed,Medium,15,40.6
+1046,3,Indian,8,Sat,Medium,13,23.6
+1015,4,South Indian,8,Wed,Medium,11,20.0
+1098,7,South Indian,23,Wed,Medium,19,32.2
+1044,7,South Indian,13,Mon,Medium,20,41.6
+1049,7,Chinese,9,Wed,Low,16,27.0
+1075,6,Fast Food,21,Tue,Low,14,26.9
+1061,3,Fast Food,15,Sat,Medium,13,27.8
+1067,2,Indian,8,Sun,Medium,15,29.5
+1006,2,Chinese,20,Fri,High,11,32.8
+1009,3,South Indian,9,Sun,Medium,11,18.8
+1006,3,Indian,15,Wed,Medium,25,36.1
+1073,6,Chinese,23,Tue,Low,22,33.5
+1095,2,Italian,19,Mon,High,30,48.8
+1032,3,Chinese,13,Mon,Medium,16,35.9
+1041,3,Indian,19,Fri,High,14,33.2
+1076,8,Fast Food,17,Fri,High,26,45.4
+1008,6,South Indian,9,Tue,Low,22,24.5
+1072,6,Italian,9,Fri,Medium,24,41.1
+1050,4,Chinese,18,Fri,High,12,29.7
+1092,6,Indian,21,Mon,Low,13,30.6
+1062,1,Indian,23,Tue,Medium,24,33.0
+1084,2,South Indian,14,Sat,High,27,44.9
+1062,4,Indian,12,Fri,Medium,12,21.5
+1007,1,Indian,12,Tue,High,16,25.8
+1075,3,South Indian,15,Wed,High,17,27.8
+1084,8,Italian,19,Mon,Medium,20,40.5
+1080,8,Fast Food,23,Sat,Low,18,26.4
+1004,3,Fast Food,19,Mon,Medium,29,35.9
+1006,4,Chinese,14,Mon,Low,21,32.1
+1058,6,Italian,19,Thu,High,14,40.2
+1022,7,Chinese,21,Tue,High,10,32.9
+1026,8,Fast Food,16,Wed,Medium,23,33.6
+1003,7,South Indian,11,Fri,Medium,12,25.8
+1041,3,Indian,17,Wed,Low,24,32.7
+1060,7,Fast Food,11,Tue,High,19,32.0
+1014,5,Italian,9,Mon,Medium,19,31.4
+1075,4,Fast Food,10,Thu,High,12,26.1
+1082,1,Italian,8,Tue,Medium,15,19.4
+1012,4,Italian,8,Sat,High,14,30.5
+1087,2,Italian,14,Sat,Medium,28,44.3
+1012,6,Chinese,21,Tue,Medium,23,40.3
+1013,6,South Indian,23,Fri,Medium,26,31.5
+1025,4,Fast Food,21,Wed,High,21,37.8
+1045,3,South Indian,12,Wed,Medium,18,29.0
+1019,3,Indian,10,Fri,Medium,12,23.3
+1055,5,Fast Food,14,Thu,Low,27,39.1
+1100,5,South Indian,21,Mon,Low,13,27.9
+1045,6,South Indian,9,Sun,Medium,23,37.2
+1008,5,Indian,10,Sun,Low,15,35.1
+1093,8,Italian,8,Mon,Low,24,40.4
+1053,8,Fast Food,23,Sat,Medium,26,43.7
+1055,1,Fast Food,15,Thu,Low,14,8.0
+1032,5,Indian,9,Fri,High,15,30.4
+1051,1,Italian,22,Sun,Medium,30,36.5
+1044,5,Fast Food,14,Tue,Medium,14,29.8
+1082,6,Fast Food,18,Wed,Low,28,38.9
+1070,6,Fast Food,16,Tue,Medium,23,33.7
+1018,1,Italian,13,Wed,Medium,13,25.1
+1083,4,Indian,9,Tue,High,14,35.1
+1022,6,Fast Food,9,Fri,High,20,38.9
+1037,4,South Indian,16,Fri,Low,11,12.8
+1096,3,Italian,17,Thu,Medium,11,26.3
+1056,8,Chinese,15,Tue,Low,29,42.3
+1059,1,Indian,21,Tue,High,21,42.1
+1003,7,South Indian,21,Thu,High,25,47.4
+1028,6,Fast Food,21,Thu,Medium,26,43.9
+1074,2,Chinese,16,Fri,Medium,13,16.3
+1035,3,Indian,11,Fri,High,23,42.8
+1061,4,Italian,11,Sat,Medium,16,33.1
+1093,6,Chinese,22,Tue,Medium,24,34.1
+1054,1,Chinese,22,Fri,High,25,39.6
+1063,7,South Indian,23,Sun,Medium,17,32.7
+1079,5,Indian,9,Fri,Medium,11,29.4
+1097,7,South Indian,21,Tue,High,28,54.0
+1007,2,South Indian,17,Thu,Medium,10,12.9
+1076,4,Fast Food,8,Tue,Medium,13,16.2
+1049,3,Italian,17,Sun,Low,30,51.1
+1094,7,Chinese,20,Mon,Medium,20,48.5
+1085,1,Indian,11,Tue,Low,19,22.2
+1031,2,Italian,17,Mon,Medium,27,36.9
+1058,1,Italian,17,Tue,Medium,10,20.4
+1061,6,Indian,18,Sun,High,26,46.9
+1024,5,Italian,15,Mon,Medium,25,41.1
+1020,3,Fast Food,9,Mon,High,21,33.4
+1037,1,Italian,20,Sun,Medium,25,40.9
+1004,4,Fast Food,19,Tue,High,18,38.4
+1092,6,Chinese,18,Sat,Medium,26,44.3
+1020,6,Chinese,15,Fri,Medium,12,30.1
+1060,3,South Indian,8,Wed,Low,27,32.1
+1024,6,Fast Food,22,Fri,Medium,24,29.2
+1050,4,Chinese,8,Mon,Medium,24,38.0
+1049,1,Italian,11,Tue,Medium,25,35.7
+1051,3,Indian,14,Tue,High,29,49.9
+1096,8,Indian,16,Tue,High,10,31.4
+1036,6,Fast Food,23,Tue,High,10,27.4
+1098,6,South Indian,12,Sat,Medium,13,30.7
+1100,4,Italian,9,Wed,High,22,40.1
+1066,5,Fast Food,19,Thu,High,13,31.6
+1079,5,Indian,14,Mon,Low,17,36.0
+1034,7,Fast Food,18,Wed,Medium,22,34.5
+1036,6,Italian,9,Fri,Low,17,27.4
+1006,8,Chinese,16,Thu,Low,23,32.6
+1039,1,Italian,16,Thu,Low,10,11.4
+1042,3,Chinese,10,Tue,Low,18,26.1
+1058,6,Chinese,20,Wed,Medium,10,28.8
+1012,2,Chinese,23,Fri,Medium,16,26.3
+1003,3,Fast Food,15,Tue,Medium,29,29.2
+1018,7,Indian,18,Tue,High,22,42.6
+1040,5,Fast Food,11,Sun,High,24,36.8
+1021,8,Indian,10,Sun,High,18,46.8
+1015,6,Italian,8,Sun,Medium,25,49.2
+1097,4,South Indian,12,Sat,Medium,26,45.9
+1099,2,Italian,20,Mon,Medium,18,34.8
+1026,6,Fast Food,21,Thu,Low,15,19.9
+1008,8,Fast Food,18,Fri,Low,29,36.1
+1100,7,Indian,11,Thu,Medium,21,30.5
+1094,1,Fast Food,8,Wed,High,25,31.3
+1087,2,Chinese,17,Mon,Low,30,38.5
+1042,7,Fast Food,23,Tue,Low,24,34.0
+1044,6,Indian,15,Mon,Low,16,23.5
+1014,1,Indian,15,Tue,Medium,19,31.0
+1078,2,Chinese,20,Sun,Medium,13,32.2
+1002,1,Indian,15,Mon,Medium,12,24.4
+1037,1,South Indian,10,Tue,Low,27,31.1
+1069,2,Italian,13,Thu,Medium,10,22.0
+1038,2,Fast Food,19,Sun,Low,22,23.0
+1041,1,South Indian,19,Sun,Medium,27,43.3
+1062,7,Fast Food,14,Sun,Low,17,34.9
+1060,8,South Indian,23,Thu,High,20,36.5
+1014,5,Fast Food,16,Thu,Medium,19,24.1
+1089,2,Chinese,12,Thu,Medium,13,17.8
+1084,6,Indian,16,Sun,Medium,13,35.0
+1002,3,Indian,23,Mon,Medium,13,24.4
+1070,4,Chinese,13,Tue,Low,21,32.4
+1017,1,South Indian,17,Thu,Medium,17,20.5
+1089,1,Italian,23,Mon,Medium,22,25.4
+1028,4,South Indian,17,Tue,Medium,17,30.1
+1066,5,Indian,17,Sun,Medium,30,45.8
+1035,4,Italian,11,Mon,High,12,32.7
+1005,2,Fast Food,20,Sun,High,21,32.4
+1065,4,Italian,23,Sat,Low,27,36.7
+1040,1,South Indian,8,Thu,Medium,24,34.7
+1076,4,Chinese,8,Wed,Low,23,30.9
+1056,3,Fast Food,21,Mon,Medium,18,25.9
+1036,6,South Indian,17,Thu,Medium,14,25.9
+1045,2,Fast Food,12,Fri,Low,24,20.0
+1023,4,Italian,20,Tue,High,17,40.6
+1047,1,Indian,21,Sat,Medium,12,30.5
+1031,7,South Indian,10,Thu,Medium,21,37.4
+1011,6,Chinese,12,Fri,Low,14,24.6
+1010,2,Italian,12,Mon,Medium,18,28.4
+1067,1,South Indian,8,Mon,High,29,34.6
+1014,5,Chinese,21,Fri,Medium,12,31.1
+1080,3,South Indian,15,Sat,High,17,34.7
+1074,8,Italian,12,Fri,Low,30,46.2
+1093,5,South Indian,12,Tue,Medium,22,32.3
+1010,8,Fast Food,16,Mon,High,17,33.1
+1076,3,Italian,15,Fri,Medium,14,20.5
+1094,4,South Indian,23,Wed,Low,16,26.6
+1001,2,Indian,20,Wed,Medium,14,28.4
+1005,4,South Indian,8,Fri,Medium,18,26.9
+1020,3,Fast Food,10,Tue,Medium,14,16.8
+1008,3,Chinese,19,Mon,High,17,33.5
+1043,3,Chinese,14,Wed,High,21,38.8
+1076,8,Chinese,8,Fri,Medium,13,35.0
+1001,6,Indian,8,Sun,Low,18,35.5
+1057,1,Fast Food,12,Fri,Medium,23,26.3
+1064,2,Italian,16,Thu,High,28,44.5
+1084,4,Chinese,13,Fri,High,22,49.8
+1028,4,Fast Food,17,Tue,Low,12,14.3
+1037,5,South Indian,9,Wed,Medium,13,23.7
+1047,8,Indian,18,Thu,Medium,10,31.7
+1076,3,Fast Food,23,Wed,Low,10,12.3
+1037,7,Fast Food,16,Wed,Medium,20,31.5
+1049,3,Italian,23,Tue,Medium,25,32.7
+1044,3,Fast Food,13,Fri,Low,13,19.0
+1056,7,Italian,12,Tue,High,16,40.2
+1028,4,Indian,12,Fri,High,21,40.2
+1079,5,Indian,22,Thu,High,15,29.5
+1006,1,South Indian,19,Tue,Low,29,30.0
+1061,7,Italian,10,Tue,Medium,18,37.8
+1020,8,Italian,21,Sun,Medium,17,43.3
+1078,6,Chinese,23,Sat,Medium,23,47.5
+1002,2,Chinese,13,Mon,Medium,24,40.6
+1073,8,South Indian,22,Tue,High,30,48.6
+1037,7,Indian,22,Sat,Low,14,34.7
+1020,1,Chinese,20,Mon,High,24,44.6
+1026,4,Fast Food,23,Sun,High,15,27.9
+1029,6,Indian,11,Fri,High,10,31.5
+1001,6,Fast Food,20,Fri,High,29,47.2
+1035,6,Italian,19,Fri,Medium,18,35.4
+1070,3,Indian,17,Sat,High,13,37.1
+1059,2,South Indian,21,Sat,Medium,11,17.8
+1069,4,Italian,22,Mon,High,15,30.2
+1033,4,Italian,9,Fri,Low,11,17.9
+1051,6,Fast Food,23,Wed,Low,12,18.3
+1078,4,Italian,20,Tue,Medium,16,29.5
+1012,2,Chinese,10,Sat,Medium,29,43.7
+1020,2,Indian,16,Sat,Medium,26,33.1
+1053,5,Chinese,18,Sat,Medium,18,28.5
+1088,7,Fast Food,18,Mon,High,18,34.8
+1043,7,Fast Food,16,Fri,Medium,28,35.7
+1098,5,Indian,13,Wed,Medium,14,34.6
+1089,1,Italian,17,Tue,Low,15,15.6
+1050,7,South Indian,17,Tue,Medium,27,45.0
+1029,2,Fast Food,21,Fri,Medium,10,14.8
+1057,2,Indian,16,Wed,Medium,26,39.9
+1039,7,South Indian,11,Mon,Low,23,36.5
+1095,2,Italian,18,Sat,Low,24,29.3
+1056,5,Fast Food,12,Sat,Medium,14,26.9
+1043,6,Indian,17,Sun,Medium,26,46.2
+1050,6,Indian,13,Fri,Medium,30,54.2
+1023,4,Indian,20,Tue,High,30,55.0
+1044,8,Fast Food,22,Sat,Medium,20,37.5
+1038,8,South Indian,16,Sun,Medium,19,39.6
+1084,6,Indian,20,Tue,Medium,26,50.5
+1023,3,Italian,23,Tue,Low,10,19.9
+1045,5,Indian,12,Fri,Medium,14,29.4
+1052,2,South Indian,15,Thu,Medium,25,33.4
+1080,7,Fast Food,18,Sun,Medium,16,33.4
+1050,6,Indian,8,Thu,High,21,47.6
+1008,5,Indian,12,Thu,Low,17,32.3
+1085,6,Italian,17,Sun,High,27,53.9
+1001,1,Italian,8,Wed,Medium,10,15.6
+1008,2,Indian,17,Fri,Medium,29,34.7
+1029,1,Indian,21,Sun,High,21,43.5
+1096,2,Italian,13,Tue,High,13,33.3
+1005,5,South Indian,14,Sun,Medium,21,39.8
+1086,4,Chinese,19,Sat,High,10,30.2
+1047,6,Chinese,21,Sun,Medium,10,37.8
+1034,6,Indian,12,Wed,Medium,12,30.1
+1065,3,Italian,8,Thu,Low,30,32.8
+1055,7,Fast Food,13,Mon,Low,21,33.2
+1090,1,Fast Food,17,Wed,High,30,31.8
+1043,6,Chinese,12,Wed,Low,22,34.8
+1074,5,South Indian,13,Fri,Low,22,40.6
+1030,4,Chinese,23,Sat,High,30,48.6
+1082,7,Indian,23,Wed,Low,18,32.3
+1017,5,South Indian,18,Sun,Low,27,37.2
+1026,1,Fast Food,17,Sat,Medium,10,13.1
+1008,3,Italian,22,Fri,Medium,15,23.1
+1047,6,Italian,14,Sun,High,14,46.9
+1076,5,Indian,14,Mon,Medium,13,33.6
+1091,7,Chinese,9,Tue,Medium,15,31.8
+1072,2,Indian,22,Tue,Medium,12,20.9
+1089,4,Italian,19,Thu,Medium,26,39.4
+1046,7,Fast Food,10,Thu,Medium,20,34.4
+1068,5,Italian,19,Mon,High,13,41.3
+1033,4,South Indian,23,Tue,Medium,29,33.6
+1001,6,Italian,13,Thu,Medium,10,32.9
+1019,2,Italian,10,Sat,Low,13,23.2
+1031,3,South Indian,9,Wed,Medium,12,24.3
+1080,7,Chinese,11,Fri,Low,19,35.2
+1014,3,Italian,12,Sun,Medium,10,31.3
+1053,2,Indian,18,Thu,High,13,28.8
+1048,4,Italian,17,Mon,Medium,28,43.2
+1069,6,Indian,16,Sun,Low,10,25.8
+1090,5,South Indian,10,Tue,High,25,39.6
+1062,2,Italian,10,Mon,Low,28,34.7
+1092,1,South Indian,13,Fri,Medium,29,41.8
+1066,4,South Indian,12,Fri,Medium,30,41.2
+1064,3,Chinese,13,Mon,Low,27,32.4
+1070,7,Italian,14,Thu,High,11,34.3
+1063,2,Indian,18,Thu,Low,15,22.9
+1073,3,Indian,23,Tue,High,30,45.3
+1033,4,Italian,10,Sat,Low,10,22.3
+1041,3,Chinese,22,Tue,Low,28,34.8
+1089,2,Chinese,20,Wed,Low,14,22.3
+1048,4,Chinese,12,Sat,Low,11,20.4
+1013,1,Indian,15,Sun,Medium,10,20.4
+1073,2,South Indian,23,Wed,Medium,25,33.4
+1077,5,Chinese,11,Tue,High,30,49.4
+1031,8,Indian,17,Sat,Low,11,28.0
+1075,6,Indian,9,Sat,Medium,13,32.8
+1068,2,South Indian,11,Wed,Medium,12,15.4
+1098,4,Italian,9,Mon,Medium,26,39.7
+1004,7,Italian,10,Thu,Medium,24,40.2
+1019,6,Chinese,11,Sat,Medium,19,39.0
+1070,2,Chinese,11,Sun,Low,21,26.9
+1098,1,South Indian,17,Sun,High,21,37.2
+1082,7,Chinese,16,Sat,Medium,29,52.6
+1013,1,South Indian,23,Wed,Medium,16,22.1
+1023,5,Indian,17,Sat,Low,19,31.9
+1083,7,Chinese,13,Wed,Low,14,28.8
+1075,3,Indian,16,Mon,Medium,29,43.3
+1001,8,Fast Food,11,Sun,Low,29,41.2
+1088,7,South Indian,16,Sat,Low,20,34.7
+1054,6,Fast Food,18,Fri,High,11,24.6
+1071,7,Chinese,20,Tue,Medium,25,42.5
+1089,4,Indian,16,Sun,Medium,21,40.4
+1085,8,Chinese,13,Mon,Low,25,44.1
+1015,4,Fast Food,12,Fri,High,13,18.6
+1065,3,Chinese,10,Sun,Low,11,19.0
+1076,7,Italian,21,Mon,High,19,42.5
+1071,1,Fast Food,22,Thu,High,22,29.6
+1015,1,Chinese,12,Mon,Medium,28,35.2
+1021,2,Indian,22,Mon,High,24,43.1
+1019,5,Chinese,10,Thu,Medium,10,18.6
+1060,6,Indian,12,Sat,Low,26,46.1
+1093,8,Italian,12,Tue,Low,29,46.0
+1089,5,Chinese,9,Fri,Medium,13,21.9
+1033,7,Italian,21,Sun,Low,29,56.1
+1049,5,Fast Food,23,Wed,Medium,18,25.6
+1096,2,Indian,21,Tue,Low,15,22.0
+1035,5,Fast Food,16,Sun,High,12,31.1
+1044,8,Indian,22,Mon,Medium,11,28.1
+1090,3,Italian,14,Wed,Medium,27,45.9
+1011,2,South Indian,21,Thu,High,28,44.0
+1099,3,Chinese,13,Tue,Low,16,25.4
+1072,7,Italian,12,Sat,Medium,12,28.7
+1078,2,Indian,22,Fri,High,27,38.5
+1074,7,Indian,11,Tue,Low,29,44.1
+1066,7,Indian,15,Tue,Medium,29,42.7
+1046,5,Indian,9,Sat,Medium,28,48.1
+1009,3,Chinese,15,Wed,High,18,30.8
+1003,7,Fast Food,8,Thu,Medium,25,35.4
+1085,3,South Indian,23,Sat,Medium,15,28.1
+1026,3,Chinese,17,Sun,High,30,46.8
+1072,2,Indian,8,Thu,Low,21,30.3
+1048,4,Chinese,10,Sat,High,15,28.0
+1066,5,Italian,12,Tue,High,22,43.4
+1070,7,Indian,21,Thu,High,14,42.7
+1028,3,South Indian,13,Wed,High,22,38.4
+1093,6,Indian,11,Wed,Medium,29,48.6
+1026,4,South Indian,23,Fri,High,16,33.0
+1025,7,South Indian,14,Thu,Medium,21,42.3
+1012,6,Fast Food,14,Fri,Medium,30,44.0
+1005,5,Fast Food,9,Sun,Low,13,17.9
+1098,5,Chinese,9,Sat,High,14,31.8
+1048,3,Chinese,9,Mon,Medium,25,38.5
+1037,3,South Indian,22,Sun,High,13,31.9
+1079,8,Indian,21,Wed,Low,17,40.1
+1044,8,Italian,22,Tue,High,25,48.1
+1100,7,Italian,9,Wed,High,17,45.7
+1015,2,Indian,20,Mon,Medium,26,38.5
+1043,4,Indian,16,Tue,Low,23,31.1
+1048,7,Fast Food,21,Thu,Medium,21,43.0
+1087,4,Italian,12,Thu,Low,12,20.0
+1070,3,South Indian,18,Sun,Medium,29,45.6
+1046,5,Chinese,15,Wed,Low,11,21.1
+1043,3,Fast Food,12,Tue,Medium,22,24.9
+1021,5,Italian,23,Sat,Low,30,42.4
+1023,8,Indian,20,Tue,Low,20,39.2
+1080,7,Italian,18,Fri,Low,21,36.7
+1047,8,South Indian,12,Mon,High,27,53.1
+1015,5,Fast Food,8,Sun,Medium,18,30.4
+1025,3,Indian,13,Thu,Medium,16,33.3
+1036,8,South Indian,23,Wed,Medium,15,29.3
+1075,1,Chinese,11,Tue,Medium,23,32.1
+1051,4,Fast Food,22,Thu,High,27,40.7
+1015,6,South Indian,10,Wed,Low,23,33.6
+1068,5,South Indian,23,Thu,Low,14,21.1
+1021,5,Indian,13,Wed,High,29,54.1
+1013,1,Chinese,9,Thu,Medium,22,25.1
+1086,7,South Indian,15,Sat,Low,10,20.2
+1019,7,Fast Food,8,Fri,Low,21,27.7
+1034,7,South Indian,19,Mon,Low,28,42.0
+1078,6,Italian,16,Thu,High,19,38.3
+1068,2,Fast Food,15,Mon,Low,14,11.1
+1052,1,Fast Food,8,Thu,High,29,34.6
+1027,6,South Indian,17,Sun,High,15,36.4
+1029,8,Indian,19,Tue,Medium,21,37.2
+1028,1,Fast Food,22,Fri,Low,30,27.8
+1035,5,Italian,16,Sun,Low,12,25.4
+1008,4,Indian,9,Sat,Medium,23,42.1
+1016,1,Indian,10,Fri,Medium,30,37.2
+1036,2,Indian,9,Mon,Medium,13,25.9
+1030,3,Fast Food,20,Tue,Medium,26,34.9
+1018,8,Indian,23,Wed,High,26,52.4
+1002,6,South Indian,21,Sun,Medium,23,42.0
+1049,8,Indian,15,Fri,Medium,24,47.8
+1077,8,Italian,23,Sat,High,16,47.3
+1004,1,Chinese,9,Sun,Low,13,23.4
+1090,1,Italian,17,Tue,Low,26,27.2
+1089,2,Fast Food,9,Tue,Low,15,15.2
+1094,4,Indian,23,Mon,Low,20,24.9
+1075,1,Indian,22,Sat,Medium,21,26.1
+1007,1,South Indian,8,Tue,Medium,24,30.5
+1095,4,Indian,14,Tue,Medium,21,38.9
+1074,2,Italian,19,Wed,High,20,34.7
+1039,6,Fast Food,9,Mon,Low,26,32.3
+1013,8,Chinese,17,Mon,Medium,17,38.2
+1031,6,Indian,12,Sat,Low,21,37.0
+1071,1,Chinese,12,Tue,Medium,18,27.5
+1063,4,Indian,10,Wed,Medium,20,31.2
+1056,1,Fast Food,10,Thu,High,12,21.0
+1042,7,Italian,20,Fri,Medium,16,37.4
+1061,3,Fast Food,19,Sun,Low,30,42.1
+1042,6,Chinese,10,Mon,Medium,12,23.0
+1056,7,Indian,13,Wed,Low,30,50.3
+1036,5,Chinese,21,Sat,Low,25,42.7
+1084,3,Italian,11,Wed,Medium,19,30.8
+1068,1,Fast Food,20,Tue,Low,16,16.7
+1007,2,Chinese,10,Fri,Medium,29,37.9
+1054,6,Chinese,9,Mon,Medium,24,38.2
+1001,5,Italian,20,Thu,Medium,30,47.4
+1044,3,Indian,10,Tue,Low,30,41.6
+1045,6,Chinese,11,Mon,High,19,39.0
+1047,4,Italian,13,Sun,Medium,21,36.7
+1013,2,Indian,23,Sat,High,27,42.6
+1022,3,Indian,11,Mon,Medium,18,33.8
+1021,4,Fast Food,15,Wed,Medium,18,21.5
+1086,7,Italian,10,Sun,Medium,13,35.2
+1092,1,Indian,19,Fri,Medium,14,24.7
+1009,4,Fast Food,10,Thu,Low,16,13.9
+1026,3,South Indian,10,Fri,Medium,16,25.8
+1009,8,Italian,15,Wed,High,20,43.4
+1015,3,South Indian,11,Thu,Medium,19,32.2
+1010,8,Indian,8,Thu,Low,20,39.8
+1088,7,Italian,9,Tue,Medium,27,48.4
+1042,1,Fast Food,20,Thu,High,21,35.0
+1072,8,Indian,21,Mon,Medium,25,52.5
+1024,8,Italian,17,Fri,Low,13,24.3
+1080,4,Italian,20,Sat,High,26,50.5
+1049,4,South Indian,20,Sat,Medium,26,46.2
+1026,1,Indian,21,Fri,Medium,30,41.9
+1091,4,Fast Food,9,Tue,Medium,14,20.1
+1037,6,Fast Food,21,Thu,High,22,44.0
+1068,1,Indian,10,Wed,High,12,28.0
+1050,2,Indian,13,Sun,High,26,45.8
+1024,8,Chinese,15,Sun,Low,20,39.4
+1019,3,South Indian,23,Mon,High,10,25.1
+1100,2,Indian,19,Tue,Low,27,34.6
+1060,8,Indian,8,Sun,Low,26,44.2
+1039,6,Chinese,16,Thu,Medium,18,33.2
+1074,8,Chinese,8,Sat,Medium,29,54.6
+1089,8,Italian,17,Wed,Medium,16,34.2
+1018,8,Fast Food,23,Thu,Medium,14,28.7
+1019,7,South Indian,9,Tue,High,25,49.1
+1036,6,Italian,10,Wed,Low,16,33.4
+1074,5,Indian,14,Sun,Low,22,41.7
+1097,5,Chinese,16,Wed,High,22,33.6
+1055,5,Fast Food,10,Wed,Low,24,30.8
+1069,1,Italian,15,Wed,Medium,26,33.4
+1047,4,Fast Food,22,Sun,Medium,26,32.7
+1049,6,Chinese,16,Thu,Medium,28,44.9
+1099,2,Italian,17,Wed,Medium,19,33.2
+1098,7,Italian,14,Thu,Low,11,30.2
+1033,2,Fast Food,11,Wed,High,23,25.7
+1021,2,Chinese,11,Wed,Low,12,19.9
+1081,2,Indian,11,Tue,Medium,16,25.7
+1022,7,Italian,13,Thu,Low,20,40.7
+1048,5,Indian,11,Sat,Medium,26,44.2
+1037,2,Chinese,12,Thu,Medium,24,33.0
+1015,7,Italian,16,Fri,High,28,52.6
+1035,7,Italian,19,Sun,Medium,20,48.0
+1092,4,Indian,14,Sat,Medium,24,45.6
+1071,7,South Indian,15,Tue,High,24,42.3
+1032,5,Indian,12,Thu,Medium,15,30.6
+1011,2,Indian,12,Tue,Medium,24,36.0
+1010,7,South Indian,20,Sat,Medium,18,39.3
+1073,1,Chinese,18,Tue,Medium,14,16.5
+1078,7,Chinese,14,Tue,High,28,58.6
+1077,3,Italian,18,Mon,Low,14,25.5
+1057,3,Fast Food,20,Thu,Medium,22,31.5
+1025,3,Fast Food,21,Tue,Medium,27,38.2
+1002,7,Italian,19,Mon,High,29,57.7
+1064,5,Fast Food,15,Mon,High,26,32.5
+1035,2,Indian,16,Wed,Medium,24,34.2
+1007,6,Indian,22,Wed,Medium,23,44.2
+1085,6,South Indian,21,Sun,Medium,25,43.3
+1018,6,South Indian,9,Sat,Medium,13,26.0
+1067,5,Italian,10,Thu,High,26,42.8
+1042,4,Italian,19,Wed,High,29,49.8
+1039,8,Italian,19,Sat,High,23,57.4
+1041,1,Indian,9,Thu,Low,27,34.8
+1075,1,Fast Food,17,Sat,High,15,27.7
+1024,3,Italian,14,Sun,High,17,42.4
+1060,3,Italian,19,Sun,Medium,18,31.6
+1046,7,Indian,9,Mon,Medium,10,23.8
+1019,6,Indian,19,Mon,High,22,51.0
+1068,7,Indian,21,Thu,Medium,12,30.8
+1090,8,Fast Food,22,Sat,High,15,38.1
+1042,6,Italian,23,Sat,Medium,26,45.6
+1032,3,Chinese,9,Wed,Medium,17,25.0
+1039,2,Chinese,21,Wed,High,15,25.0
+1036,4,Italian,21,Thu,Medium,25,42.8
+1097,7,Italian,9,Fri,High,10,34.1
+1036,4,Italian,22,Wed,Medium,19,29.5
+1003,4,Italian,19,Tue,Medium,27,40.9
+1073,4,Fast Food,23,Wed,Low,23,26.1
+1008,3,Chinese,20,Fri,Medium,14,24.0
+1097,1,South Indian,11,Sat,Medium,26,35.7
+1070,3,Chinese,8,Mon,High,23,40.6
+1041,4,Chinese,9,Mon,Low,27,28.3
+1068,3,Indian,10,Sat,Medium,13,25.8
+1013,4,Italian,14,Mon,Low,29,42.1
+1049,5,Italian,17,Wed,Medium,11,24.9
+1060,6,Italian,8,Sun,High,16,37.2
+1002,1,Indian,13,Mon,Medium,16,24.8
+1060,5,Fast Food,10,Sun,Medium,16,25.6
+1005,2,Fast Food,10,Fri,Medium,22,26.5
+1044,3,South Indian,11,Sun,Low,28,37.1
+1027,2,Fast Food,20,Fri,Medium,15,24.3
+1032,7,Fast Food,11,Wed,Medium,29,44.4
+1021,3,Italian,14,Sat,Medium,26,41.3
+1008,8,Chinese,10,Tue,High,27,49.3
+1072,8,Fast Food,15,Wed,High,10,27.8
+1050,6,Fast Food,15,Mon,High,22,28.2
+1067,5,Indian,18,Wed,High,28,48.7
+1044,6,South Indian,23,Fri,High,25,43.7
+1058,7,Indian,23,Wed,Medium,19,34.2
+1003,4,Italian,20,Wed,Low,22,37.8
+1086,6,Chinese,14,Tue,Medium,19,41.2
+1070,6,South Indian,9,Fri,High,23,43.0
+1002,8,Indian,12,Thu,Low,18,29.3
+1087,4,Fast Food,13,Thu,Low,30,34.3
+1044,8,Fast Food,19,Fri,Low,20,35.3
+1002,3,South Indian,23,Thu,Medium,12,18.8
+1081,4,Fast Food,17,Mon,Medium,17,22.5
+1035,5,Indian,11,Thu,Medium,21,32.7
+1098,6,Indian,23,Mon,Low,12,25.4
+1087,8,Fast Food,20,Fri,Medium,16,38.9
+1030,4,Fast Food,17,Thu,Medium,23,30.2
+1008,7,Italian,12,Thu,Low,16,32.5
+1022,7,Chinese,21,Sat,Medium,16,43.2
+1044,6,South Indian,16,Sun,Medium,23,38.7
+1058,5,Indian,18,Mon,Medium,21,35.4
+1036,2,South Indian,14,Mon,Medium,10,26.0
+1069,8,Italian,9,Wed,Low,14,31.6
+1077,5,Indian,18,Tue,High,20,42.9
+1093,1,Italian,8,Thu,Low,10,13.3
+1031,1,Italian,9,Sat,Low,22,26.6
+1047,1,Fast Food,10,Tue,High,26,31.0
+1055,6,South Indian,18,Sun,Medium,12,32.9
+1080,7,South Indian,9,Sun,Low,19,33.6
+1062,3,Fast Food,18,Sat,Low,28,35.1
+1030,8,South Indian,10,Tue,High,16,42.6
+1055,7,Fast Food,17,Thu,High,29,48.4
+1016,3,Indian,22,Sun,Medium,12,28.8
+1012,3,Italian,18,Sat,Medium,21,39.5
+1017,7,Italian,18,Mon,Low,19,30.1
+1016,8,South Indian,22,Wed,Medium,30,46.2
+1012,6,Chinese,19,Sat,Low,21,36.0
+1008,5,Italian,21,Fri,Medium,24,38.5
+1084,3,Fast Food,19,Sun,Low,15,23.3
+1003,2,Chinese,23,Sun,Medium,28,39.4
+1016,7,Chinese,16,Thu,Medium,14,32.1
+1030,7,Italian,11,Thu,Medium,29,44.5
+1023,1,Italian,19,Fri,Low,11,17.6
+1092,5,Italian,16,Sun,Medium,30,49.5
+1005,1,Fast Food,18,Tue,High,28,29.4
+1084,7,Chinese,10,Wed,Medium,28,44.6
+1065,7,South Indian,19,Tue,Medium,13,37.5
+1030,3,Fast Food,8,Fri,Medium,29,32.6
+1021,5,Indian,18,Fri,Medium,14,27.7
+1084,4,Italian,12,Wed,Medium,16,31.9
+1070,2,Chinese,17,Fri,High,13,21.4
+1022,8,Fast Food,17,Fri,Low,20,27.0
+1082,3,Indian,21,Sun,Low,12,25.1
+1072,7,Fast Food,9,Sat,Medium,14,30.7
+1032,8,Fast Food,11,Sun,High,29,45.6
+1033,3,South Indian,9,Wed,High,24,41.1
+1016,2,South Indian,9,Thu,Medium,30,36.5
+1076,7,Fast Food,20,Tue,Medium,27,46.7
+1038,2,Indian,10,Thu,Medium,25,38.3
+1098,8,Chinese,12,Thu,Medium,25,41.0
+1014,4,Chinese,11,Sat,Medium,19,33.3
+1036,3,Italian,9,Tue,High,10,24.7
+1097,6,Italian,22,Thu,Medium,20,35.6
+1023,3,Chinese,18,Wed,Medium,26,33.7
+1066,1,Fast Food,21,Tue,Medium,24,33.1
+1085,5,Fast Food,21,Mon,Medium,16,28.4
+1002,5,South Indian,23,Sat,Medium,15,29.0
+1091,1,South Indian,23,Thu,Medium,24,32.2
+1073,7,Italian,17,Fri,Low,24,40.1
+1065,5,Chinese,9,Tue,Low,16,25.9
+1075,2,Fast Food,21,Mon,Medium,12,18.4
+1067,8,Chinese,13,Fri,High,23,55.8
+1052,8,Indian,14,Mon,Low,18,36.2
+1062,5,Chinese,19,Thu,Medium,12,33.2
+1023,5,Indian,17,Fri,Medium,15,31.9
+1026,1,South Indian,13,Thu,Low,29,31.0
+1068,7,South Indian,14,Fri,High,18,43.8
+1082,4,Italian,8,Tue,High,10,23.2
+1055,5,Chinese,13,Sun,Low,18,34.0
+1006,6,Chinese,18,Wed,Medium,21,36.6
+1035,5,Indian,10,Sun,Medium,13,28.0
+1022,4,South Indian,8,Wed,High,25,33.2
+1043,1,Indian,15,Sun,Medium,14,24.4
+1015,4,South Indian,11,Mon,Low,26,32.8
+1086,1,Indian,23,Sat,Medium,26,35.7
+1060,2,South Indian,17,Fri,High,15,26.6
+1012,1,Indian,15,Thu,Low,24,27.3
+1049,2,South Indian,17,Sat,Medium,10,16.5
+1042,2,Indian,21,Tue,Low,22,38.4
+1038,1,Chinese,18,Tue,High,25,36.8
+1082,6,Italian,11,Tue,Low,11,21.5
+1045,3,Indian,11,Wed,High,28,41.9
+1035,1,Italian,19,Thu,Medium,11,21.6
+1030,5,Chinese,21,Tue,Medium,30,46.9
+1088,6,Chinese,17,Tue,High,21,40.9
+1030,6,South Indian,11,Sun,High,21,46.2
+1078,5,Italian,13,Mon,Medium,17,33.6
+1006,3,Fast Food,21,Fri,Low,21,26.9
+1067,6,South Indian,16,Fri,Medium,20,36.2
+1080,2,Italian,12,Fri,Medium,11,17.6
+1007,8,Indian,23,Sat,Medium,10,31.4
+1052,3,Indian,19,Sun,Medium,13,27.9
+1014,7,Chinese,20,Sun,Low,18,43.6
+1073,5,Fast Food,17,Mon,Medium,16,25.5
+1015,3,Indian,21,Wed,Medium,19,33.7
+1021,1,Italian,22,Sat,Low,29,33.0
+1035,8,Italian,15,Mon,Medium,23,39.3
+1066,3,Indian,15,Tue,Medium,10,21.9
+1091,2,Italian,11,Thu,Medium,14,21.6
+1002,8,Italian,22,Sat,Low,22,37.6
+1035,1,Chinese,18,Sat,Medium,15,21.5
+1082,4,Fast Food,17,Tue,Low,26,30.4
+1078,5,Chinese,16,Tue,Medium,24,35.9
+1020,8,Fast Food,16,Thu,High,16,30.7
+1082,5,Italian,12,Fri,Medium,17,31.2
+1010,3,Fast Food,13,Sat,Low,30,36.3
+1025,6,Italian,12,Mon,Medium,11,28.7
+1066,1,Italian,10,Wed,High,27,43.3
+1025,4,Chinese,18,Tue,Low,30,31.4
+1054,1,Chinese,15,Tue,High,16,24.7
+1033,5,South Indian,16,Wed,Medium,29,41.4
+1036,1,Indian,22,Mon,High,25,37.6
+1095,4,South Indian,11,Tue,Low,28,38.0
+1014,6,South Indian,16,Wed,Low,18,27.7
+1065,3,Fast Food,16,Sun,High,21,34.0
+1080,2,Italian,14,Tue,Medium,23,37.9
+1054,1,Italian,23,Fri,Low,16,16.8
+1052,8,Italian,15,Fri,Medium,11,31.9
+1003,2,Indian,22,Tue,Low,26,32.8
+1099,5,Fast Food,10,Sun,High,20,36.3
+1041,3,Fast Food,22,Tue,Medium,27,25.6
+1006,7,Italian,12,Fri,High,21,41.3
+1025,3,South Indian,10,Sun,High,12,29.0
+1013,1,Indian,14,Tue,Low,30,38.5
+1098,8,South Indian,13,Sun,Medium,23,50.6
+1008,6,Chinese,18,Mon,High,24,46.1
+1021,3,Fast Food,10,Mon,Medium,28,33.4
+1098,1,Fast Food,16,Thu,High,19,27.1
+1068,1,South Indian,19,Mon,Medium,18,29.3
+1025,2,Indian,8,Sat,Low,19,26.0
+1079,3,Fast Food,17,Sun,High,29,41.4
+1068,1,South Indian,10,Sat,Low,13,13.5
+1045,2,Indian,22,Sat,Low,28,41.1
+1060,8,South Indian,22,Tue,Medium,19,32.6
+1012,4,Indian,22,Tue,High,26,37.9
+1032,8,Italian,18,Wed,Medium,21,46.8
+1096,7,Indian,22,Sun,Low,10,27.3
+1092,2,Chinese,17,Sat,Medium,20,33.3
+1013,2,Italian,18,Sat,Medium,22,35.8
+1031,1,South Indian,14,Mon,Medium,10,22.9
+1078,5,Italian,10,Fri,Low,10,21.8
+1020,5,Italian,21,Sun,Medium,30,53.8
+1018,6,South Indian,10,Fri,High,25,36.8
+1093,5,South Indian,9,Sun,Medium,16,28.1
+1060,2,Chinese,16,Sun,Low,19,17.7
+1063,6,South Indian,18,Thu,High,25,41.3
+1006,8,Fast Food,11,Wed,Medium,10,21.8
+1032,1,Fast Food,17,Fri,High,18,23.5
+1093,8,Chinese,20,Thu,Low,15,31.6
+1043,3,Indian,13,Mon,Low,24,35.3
+1002,7,Indian,9,Wed,Medium,13,30.0
+1060,7,Fast Food,16,Wed,Medium,24,36.6
+1023,2,South Indian,22,Sat,Medium,19,30.9
+1083,2,Chinese,14,Sun,Medium,25,41.2
+1031,6,Indian,17,Sun,Low,22,39.7
+1005,1,Indian,12,Tue,Medium,28,36.4
+1083,4,Italian,14,Sun,Medium,29,52.8
+1034,2,Fast Food,21,Sun,Medium,13,29.2
+1010,4,South Indian,11,Sun,Medium,29,34.9
+1089,8,Chinese,20,Sat,Medium,25,54.8
+1002,4,Indian,23,Mon,Medium,20,29.3
+1011,5,Italian,23,Sun,Medium,24,41.6
+1050,1,Fast Food,17,Sat,Medium,20,24.6
+1031,7,Fast Food,20,Wed,Low,20,34.4
+1056,7,Chinese,22,Sat,Medium,12,31.4
+1079,4,Indian,14,Sun,High,26,52.2
+1073,7,Chinese,9,Thu,Medium,14,31.6
+1087,8,Chinese,14,Sat,Low,22,43.4
+1083,1,Italian,22,Fri,High,19,25.1
+1009,5,Fast Food,11,Mon,Low,14,18.0
+1099,1,South Indian,11,Mon,Low,21,19.6
+1021,2,Fast Food,8,Wed,Medium,17,17.1
+1073,4,Fast Food,19,Sat,Medium,21,32.4
+1028,1,Italian,10,Wed,Low,25,21.9
+1062,8,South Indian,12,Wed,Medium,11,27.2
+1007,7,Indian,12,Thu,Medium,12,30.6
+1080,3,South Indian,9,Tue,Low,27,33.7
+1016,1,Indian,11,Wed,Medium,26,32.0
+1097,4,South Indian,8,Tue,Medium,11,25.9
+1004,5,Chinese,22,Tue,Medium,21,35.8
+1004,7,South Indian,16,Mon,Low,26,34.2
+1040,5,Italian,8,Fri,Low,15,23.5
+1017,4,Indian,13,Fri,Medium,26,50.3
+1052,7,Fast Food,14,Sat,High,11,37.9
+1093,2,Italian,10,Thu,Medium,17,24.0
+1052,7,Indian,19,Thu,Medium,23,49.3
+1036,2,Indian,22,Fri,Low,15,16.8
+1038,5,Fast Food,8,Sat,Medium,18,27.3
+1050,5,Chinese,14,Sun,Low,10,20.0
+1063,4,Italian,10,Fri,High,14,33.0
+1063,2,Fast Food,20,Sat,Medium,16,23.1
+1062,5,Fast Food,17,Sat,High,18,33.8
+1099,2,Chinese,19,Sat,Medium,23,34.0
+1007,5,Italian,19,Sat,High,18,45.6
+1027,7,Fast Food,13,Mon,Low,13,25.4
+1092,1,Chinese,20,Mon,Low,29,31.4
+1086,8,Italian,19,Fri,High,24,52.0
+1014,3,South Indian,21,Sat,Medium,13,29.8
+1071,8,Indian,13,Wed,High,12,43.7
+1086,7,Chinese,21,Sat,Low,30,55.3
+1005,6,Indian,23,Wed,Medium,23,43.5
+1055,8,South Indian,19,Mon,Medium,18,38.3
+1002,1,Fast Food,11,Sat,Low,28,25.7
+1062,6,Fast Food,19,Tue,Medium,15,25.5
+1091,5,Italian,18,Fri,Medium,12,23.0
+1021,3,Chinese,13,Sat,Low,27,43.0
+1079,3,Chinese,18,Thu,Low,25,25.6
+1021,5,Italian,17,Wed,Low,12,21.5
+1010,5,Indian,11,Sun,Low,11,24.1
+1087,2,Fast Food,23,Sun,Medium,11,14.3
+1058,5,Fast Food,22,Sat,Low,19,22.1
+1039,4,Chinese,20,Tue,Low,24,30.5
+1005,8,Chinese,15,Wed,High,12,31.5
+1065,5,Italian,16,Tue,Medium,17,30.8
+1013,4,South Indian,9,Sun,Medium,27,42.0
+1085,5,Indian,14,Fri,Medium,20,44.8
+1090,2,South Indian,16,Sun,High,16,31.6
+1085,4,South Indian,16,Fri,Low,28,36.0
+1053,8,Chinese,19,Fri,Medium,16,44.2
+1082,1,Chinese,12,Mon,Medium,11,17.8
+1045,4,Chinese,8,Sun,Medium,15,32.1
+1032,7,South Indian,13,Sun,High,14,41.5
+1036,2,Indian,22,Tue,High,23,39.8
+1081,6,Chinese,23,Sat,High,27,50.4
+1099,8,Fast Food,15,Thu,Low,13,21.7
+1060,4,Indian,8,Thu,Low,13,26.8
+1011,7,Fast Food,9,Fri,High,22,35.0
+1063,7,Indian,20,Thu,Medium,30,51.0
+1021,8,Chinese,20,Wed,Low,10,32.9
+1052,8,Italian,23,Tue,Medium,29,51.3
+1055,7,Chinese,8,Tue,Low,14,26.6
+1026,5,South Indian,12,Tue,Low,12,21.0
+1068,7,South Indian,9,Wed,High,30,52.2
+1034,5,Indian,23,Sat,Low,28,43.1
+1052,6,South Indian,22,Mon,Low,22,32.5
+1082,2,Chinese,17,Wed,Low,16,17.1
+1099,3,Fast Food,17,Tue,Medium,19,27.1
+1093,5,Chinese,21,Tue,Low,12,25.4
+1052,7,Indian,11,Sun,Medium,11,29.6
+1029,7,South Indian,8,Tue,Medium,16,32.0
+1038,1,Fast Food,14,Sat,High,18,32.8
+1042,7,Italian,15,Thu,Low,30,44.8
+1021,2,Fast Food,12,Mon,High,21,31.5
+1042,4,Fast Food,9,Wed,Low,19,20.1
+1013,4,Chinese,15,Tue,Medium,28,39.0
+1064,7,Italian,8,Sun,Medium,22,40.1
+1017,1,Indian,22,Sun,Low,19,26.5
+1009,5,Indian,14,Fri,Medium,14,31.4
+1041,2,Fast Food,8,Mon,Low,24,20.8
+1001,1,Fast Food,19,Sun,Low,30,37.8
+1002,5,South Indian,13,Fri,Medium,12,29.4
+1060,2,Italian,20,Mon,Medium,17,34.9
+1048,7,Fast Food,13,Tue,Low,15,31.1
+1029,4,South Indian,22,Mon,Low,28,34.8
+1097,2,Italian,12,Mon,Low,26,31.7
+1010,7,Indian,22,Tue,Medium,19,36.9
+1058,6,South Indian,9,Sat,Medium,10,29.9
+1060,3,Italian,9,Sun,Low,22,32.5
+1021,2,South Indian,16,Fri,Low,19,24.3
+1028,3,Fast Food,12,Sat,Medium,21,26.5
+1075,2,Chinese,12,Fri,High,11,19.5
+1034,3,Indian,14,Thu,Medium,19,36.9
+1008,6,Fast Food,13,Sun,High,30,54.9
+1059,4,Fast Food,9,Fri,Low,10,12.4
+1086,8,Italian,18,Fri,High,10,36.1
+1072,5,South Indian,8,Mon,Medium,29,38.4
+1049,3,Indian,23,Thu,High,24,43.2
+1079,6,Fast Food,12,Tue,Low,10,19.3
+1017,3,Italian,11,Tue,Medium,30,43.5
+1060,4,Indian,19,Wed,Medium,18,36.6
+1087,3,South Indian,10,Thu,Medium,16,28.0
+1088,6,Fast Food,9,Mon,High,25,36.4
+1045,7,Fast Food,17,Wed,Medium,25,38.3
+1083,6,Fast Food,9,Wed,High,22,38.9
+1069,8,Indian,21,Tue,Medium,19,45.9
+1032,8,Indian,22,Fri,Medium,27,44.6
+1044,8,Indian,11,Mon,Low,18,35.1
+1065,1,Indian,9,Thu,High,21,33.0
+1087,4,Italian,11,Wed,Medium,22,28.3
+1008,7,Chinese,10,Mon,Medium,20,33.1
+1077,1,Italian,16,Tue,Medium,24,34.3
+1072,4,Fast Food,14,Wed,Medium,19,29.0
+1087,7,Italian,21,Wed,High,19,49.8
+1043,3,South Indian,20,Sat,Low,18,33.8
+1001,7,Indian,18,Tue,Low,12,28.2
+1051,6,South Indian,22,Sat,Low,25,36.0
+1024,1,South Indian,19,Tue,High,21,38.6
+1099,3,Fast Food,10,Tue,Low,26,27.0
+1024,6,Indian,20,Sat,Low,24,44.9
+1017,4,South Indian,22,Sun,Low,12,18.5
+1005,7,Fast Food,21,Mon,Medium,14,29.1
+1020,6,Indian,15,Mon,Medium,22,36.1
+1021,3,Chinese,16,Sun,Low,15,26.3
+1058,1,Fast Food,20,Mon,High,18,33.4
+1031,1,Italian,14,Fri,High,28,47.6
+1100,8,Indian,13,Wed,Low,16,38.0
+1011,7,South Indian,11,Mon,Medium,22,36.7
+1052,6,South Indian,12,Fri,Medium,14,29.2
+1015,8,Italian,15,Wed,Low,25,39.1
+1083,3,Italian,10,Mon,Low,13,19.3
+1007,8,South Indian,9,Tue,Medium,14,28.9
+1028,2,Indian,10,Sun,Medium,29,43.6
+1051,4,Fast Food,19,Thu,Low,28,37.3
+1058,8,Italian,14,Mon,High,15,47.1
+1005,4,Italian,15,Thu,Medium,13,26.9
+1005,3,Italian,8,Mon,Medium,10,21.9
+1094,2,Chinese,20,Tue,Low,26,31.5
+1096,1,Indian,14,Sun,Medium,18,30.5
+1008,7,Indian,16,Sun,Medium,25,47.6
+1064,5,Indian,19,Thu,Medium,11,34.3
+1010,5,Indian,20,Fri,High,20,44.2
+1038,7,Indian,21,Tue,High,14,42.6
+1096,3,South Indian,21,Thu,Medium,22,35.4
+1092,2,Italian,22,Thu,Medium,29,32.1
+1081,2,South Indian,10,Sat,High,26,41.3
+1095,4,Chinese,22,Sat,Medium,24,36.6
+1008,1,Fast Food,10,Tue,Low,21,19.6
+1025,6,Italian,15,Tue,Medium,15,30.7
+1073,8,Chinese,11,Tue,Low,29,42.9
+1066,2,South Indian,21,Wed,High,22,38.1
+1079,7,Fast Food,15,Fri,Medium,27,37.6
+1050,6,Chinese,12,Mon,Medium,24,34.7
+1067,5,Fast Food,21,Sat,Low,24,38.9
+1049,6,Chinese,10,Sun,Medium,17,32.9
+1036,1,South Indian,22,Sun,High,28,39.4
+1068,7,Fast Food,11,Thu,Low,23,30.8
+1078,1,Chinese,21,Sat,Medium,16,26.5
+1041,6,South Indian,23,Mon,High,23,40.3
+1089,8,Italian,11,Tue,Medium,14,39.1
+1062,3,South Indian,15,Sun,Medium,24,36.4
+1010,2,South Indian,13,Sat,Medium,30,42.0
+1021,7,Italian,14,Fri,Medium,24,40.4
+1036,3,South Indian,16,Fri,Low,13,20.4
+1012,6,Italian,22,Wed,Low,10,18.8
+1091,2,Italian,13,Sat,Medium,26,41.0
+1002,4,Italian,10,Tue,High,29,45.0
+1013,3,Chinese,22,Thu,Low,10,12.7
+1053,3,Fast Food,20,Wed,Low,25,30.2
+1032,6,Chinese,10,Tue,Medium,22,35.1
+1095,5,Italian,18,Wed,High,27,47.8
+1016,6,Fast Food,10,Sat,Low,19,28.2
+1032,3,Fast Food,19,Mon,High,27,45.7
+1032,2,Italian,17,Sun,Low,26,38.0
+1098,8,Fast Food,9,Sat,High,18,36.5
+1011,5,Fast Food,8,Tue,Medium,23,30.0
+1010,6,Chinese,23,Thu,Medium,30,51.3
+1015,8,Fast Food,23,Thu,Medium,22,31.9
+1017,7,Italian,18,Tue,High,29,54.0
+1040,6,Indian,17,Wed,Low,29,43.4
+1018,3,Indian,8,Fri,Low,23,27.9
+1055,8,Indian,11,Tue,Medium,20,38.0
+1073,3,Italian,10,Sun,High,22,45.9
+1025,4,Indian,12,Sat,High,26,52.7
+1059,8,Chinese,19,Thu,Medium,12,36.7
+1078,8,Italian,16,Mon,Medium,10,25.2
+1089,6,Italian,19,Thu,Low,30,50.6
+1022,3,Italian,20,Fri,High,14,30.2
+1030,7,Fast Food,15,Thu,High,22,40.7
+1084,1,Fast Food,19,Fri,Medium,14,14.9
+1085,5,Fast Food,16,Sun,Medium,14,25.0
+1044,1,South Indian,23,Tue,High,21,33.5
+1032,5,Chinese,23,Thu,High,11,20.5
+1051,7,Italian,23,Wed,Medium,25,41.0
+1046,8,Italian,20,Sat,Medium,26,53.9
+1021,8,Fast Food,12,Wed,Medium,14,26.4
+1099,6,Italian,15,Sat,Medium,21,37.8
+1032,4,Italian,11,Thu,Medium,24,35.8
+1094,3,Indian,12,Sun,Medium,15,32.5
+1039,3,Italian,22,Thu,Medium,22,36.5
+1012,3,South Indian,19,Sat,Medium,20,38.5
+1047,6,Fast Food,10,Sun,Medium,26,43.5
+1018,5,Chinese,12,Mon,Low,18,25.4
+1021,8,Chinese,19,Sun,High,25,58.2
+1013,7,Indian,10,Thu,Medium,26,41.5
+1021,3,Chinese,12,Mon,Low,29,43.2
+1008,1,Chinese,18,Mon,Medium,27,33.1
+1046,3,Fast Food,21,Sat,High,22,41.8
+1007,8,Fast Food,12,Mon,High,20,33.1
+1023,6,South Indian,13,Mon,Medium,22,43.1
+1096,7,Indian,16,Tue,High,22,45.9
+1075,4,Chinese,8,Sun,Low,21,32.6
+1086,7,South Indian,19,Wed,High,23,48.6
+1022,1,Indian,17,Mon,Low,22,25.4
+1089,3,Chinese,21,Wed,Low,18,27.5
+1022,3,Chinese,13,Mon,Medium,23,37.1
+1092,2,Fast Food,8,Wed,Medium,10,17.0
+1029,5,Italian,13,Thu,Medium,18,35.9
+1013,1,Indian,9,Thu,High,13,32.6
+1082,2,Chinese,15,Wed,High,21,33.8
+1002,7,Indian,18,Sun,Medium,23,48.8
+1029,4,South Indian,10,Mon,Medium,18,31.6
+1085,5,South Indian,17,Tue,Low,12,15.3
+1079,1,Italian,21,Sun,Low,15,21.7
+1052,3,Chinese,13,Wed,Medium,12,24.4
+1027,7,Fast Food,13,Sun,Low,10,21.0
+1050,1,Chinese,22,Fri,Medium,30,34.6
+1095,3,Indian,11,Tue,Medium,12,23.5
+1079,8,South Indian,12,Fri,Low,23,38.3
+1023,5,Indian,9,Wed,Medium,29,44.5
+1088,8,Italian,17,Mon,Low,11,26.4
+1044,8,South Indian,22,Sun,Medium,21,44.5
+1077,3,Fast Food,17,Sun,High,19,34.1
+1022,4,South Indian,15,Fri,Medium,22,37.9
+1043,7,Chinese,23,Sun,Low,29,45.2
+1037,6,Chinese,17,Wed,Medium,13,20.6
+1061,3,South Indian,14,Tue,Low,28,38.7
+1097,4,Italian,17,Mon,Medium,10,29.0
+1056,6,Chinese,13,Fri,Medium,20,42.9
+1003,7,Chinese,14,Sun,Medium,25,53.4
+1063,8,Fast Food,19,Wed,High,28,51.7
+1019,5,South Indian,8,Mon,Medium,28,42.7
+1023,5,Chinese,21,Mon,Low,21,38.9
+1029,7,Italian,23,Thu,Low,12,24.6
+1030,7,Indian,21,Mon,High,27,54.1
+1039,1,South Indian,12,Wed,Low,26,28.2
+1025,4,Fast Food,14,Tue,Medium,14,28.1
+1008,8,Chinese,23,Sat,Medium,25,38.1
+1058,4,Italian,8,Thu,Medium,23,34.6
+1016,7,South Indian,9,Wed,High,28,42.7
+1072,2,Italian,16,Wed,Medium,15,23.2
+1001,2,Italian,19,Wed,Medium,12,30.7
+1005,6,Fast Food,10,Fri,High,15,27.9
+1003,6,South Indian,13,Sun,Medium,21,41.9
+1065,2,Chinese,22,Fri,Medium,29,38.6
+1004,7,Fast Food,14,Tue,Medium,20,39.6
+1099,7,Chinese,16,Wed,Medium,16,35.5
+1096,6,Indian,12,Sun,High,10,34.9
+1064,3,Italian,23,Fri,Low,25,33.1
+1098,7,Indian,11,Fri,Medium,25,45.2
+1089,2,Italian,18,Fri,High,26,37.5
+1010,4,Fast Food,19,Tue,Medium,24,29.9
+1021,7,Chinese,22,Tue,Low,30,39.9
+1046,8,Chinese,9,Wed,Medium,18,40.7
+1091,7,Fast Food,10,Thu,High,14,37.2
+1027,3,South Indian,23,Wed,High,29,42.1
+1066,6,Indian,23,Fri,Medium,17,38.0
+1041,7,Indian,22,Sat,Low,30,46.7
+1013,5,Chinese,12,Sun,High,10,32.0
+1009,1,Chinese,18,Fri,Medium,16,20.0
+1036,2,Chinese,22,Mon,High,20,35.6
+1086,8,Fast Food,20,Sat,Medium,29,48.5
+1090,8,South Indian,9,Sat,Low,30,43.7
+1058,8,Indian,20,Sun,Medium,22,50.5
+1054,5,Italian,11,Wed,Low,22,34.5
+1012,8,Fast Food,8,Fri,Medium,16,29.9
+1081,8,Indian,11,Fri,High,20,44.0
+1078,6,South Indian,23,Thu,Medium,27,38.1
+1014,4,Fast Food,14,Mon,High,10,21.1
+1034,1,Indian,22,Wed,Medium,21,27.4
+1053,5,Fast Food,21,Tue,High,12,29.5
+1020,1,Indian,19,Wed,High,10,29.5
+1075,2,Indian,10,Sat,Medium,13,22.1
+1016,6,South Indian,23,Wed,Medium,15,30.8
+1095,7,Italian,17,Thu,Medium,14,29.8
+1070,4,South Indian,15,Wed,Medium,20,28.7
+1056,6,Indian,13,Thu,Low,29,50.5
+1083,1,Fast Food,13,Sat,High,22,28.4
+1058,5,South Indian,21,Thu,High,20,38.3
+1004,2,Italian,22,Sun,Medium,15,26.7
+1004,2,Indian,8,Sun,Medium,28,40.6
+1020,6,South Indian,12,Fri,Medium,24,32.7
+1010,7,South Indian,10,Tue,Medium,30,44.1
+1024,5,South Indian,23,Sat,Medium,22,39.9
+1099,7,South Indian,22,Thu,High,19,36.1
+1026,7,Fast Food,23,Mon,Medium,10,24.8
+1037,8,Italian,17,Sat,Low,22,38.3
+1085,5,Italian,22,Mon,High,15,28.4
+1054,1,Indian,8,Tue,Medium,30,40.3
+1021,6,Chinese,15,Thu,High,29,49.6
+1074,6,Fast Food,14,Sat,Low,21,30.4
+1038,8,Indian,14,Sat,Low,26,48.8
+1046,3,Indian,19,Tue,High,27,53.6
+1004,6,South Indian,17,Fri,Low,17,28.8
+1060,2,Chinese,21,Mon,High,23,43.9
+1057,1,Chinese,17,Sat,High,14,24.4
+1045,5,Fast Food,17,Wed,Medium,11,22.7
+1020,6,Chinese,11,Mon,Low,20,26.5
+1017,1,Indian,20,Thu,Medium,12,20.6
+1071,8,Chinese,22,Tue,High,25,50.9
+1004,6,Chinese,18,Mon,Medium,30,40.8
+1093,5,Italian,13,Wed,Medium,25,48.6
+1014,4,Indian,23,Sun,Medium,18,30.4
+1003,5,Chinese,20,Wed,Low,22,33.1
+1088,5,Chinese,16,Tue,High,19,40.5
+1080,5,South Indian,22,Tue,High,26,41.1
+1058,6,Chinese,21,Sun,High,30,60.2
+1055,3,Chinese,10,Mon,Medium,26,32.1
+1004,5,Italian,22,Thu,High,19,37.2
+1024,8,Indian,16,Fri,Low,17,35.6
+1034,2,Fast Food,11,Wed,Medium,16,16.1
+1030,2,Indian,12,Tue,Medium,23,35.7
+1082,8,South Indian,14,Fri,High,27,53.3
+1019,1,Indian,13,Fri,High,30,48.2
+1031,3,Chinese,17,Fri,High,28,39.4
+1060,1,South Indian,15,Thu,High,27,34.5
+1060,8,Indian,15,Tue,High,23,45.9
+1019,2,South Indian,15,Wed,Low,19,19.8
+1049,7,Fast Food,10,Tue,High,10,31.2
+1063,2,Indian,22,Mon,Medium,18,31.0
+1083,4,Chinese,23,Wed,Medium,27,39.6
+1022,5,South Indian,21,Tue,Low,22,33.0
+1024,7,Italian,17,Wed,Medium,26,41.1
+1076,2,South Indian,13,Mon,Medium,25,33.7
+1030,6,Italian,14,Sat,Medium,20,42.9
+1058,6,Chinese,16,Wed,Medium,18,33.6
+1031,1,Fast Food,17,Sat,High,16,26.6
+1100,7,Italian,17,Fri,High,10,32.6
+1064,1,Fast Food,21,Sun,Medium,18,28.5
+1019,5,South Indian,19,Thu,Medium,19,38.8
+1048,5,Chinese,22,Mon,Low,25,32.9
+1045,4,Italian,23,Wed,Medium,30,45.5
+1100,8,South Indian,11,Mon,Low,27,37.4
+1094,8,Indian,12,Fri,High,23,50.2
+1055,3,South Indian,15,Sat,Medium,20,31.5
+1055,1,Fast Food,8,Thu,Low,13,10.3
+1097,5,Chinese,19,Mon,Medium,28,44.9
+1018,8,Chinese,13,Sat,Medium,22,52.1
+1063,1,South Indian,22,Fri,Medium,10,13.0
+1092,5,Indian,11,Fri,Low,30,45.2
+1047,2,Fast Food,12,Fri,High,28,39.8
+1075,1,South Indian,18,Sun,Low,24,29.2
+1057,2,South Indian,12,Sat,Low,29,33.7
+1045,1,Chinese,9,Wed,Low,24,23.3
+1033,3,Fast Food,15,Tue,Medium,20,18.4
+1017,4,Indian,22,Mon,Low,14,24.8
+1070,6,Chinese,9,Sun,Low,19,29.5
+1004,8,South Indian,11,Tue,Medium,27,41.5
+1020,6,Chinese,19,Fri,Medium,16,37.5
+1047,6,Chinese,20,Tue,Low,10,24.5
+1091,2,Italian,12,Sat,Medium,12,24.3
+1015,7,Chinese,21,Fri,Medium,10,33.0
+1070,5,Chinese,8,Sun,Low,26,42.8
+1047,6,Fast Food,13,Fri,Medium,24,39.4
+1078,3,Chinese,9,Thu,Low,14,17.8
+1075,6,Indian,21,Thu,Low,25,42.6
+1009,1,South Indian,12,Sun,Medium,21,27.1
+1090,2,Fast Food,22,Sat,Low,28,35.2
+1016,7,Chinese,13,Sat,Low,23,44.7
+1069,1,Indian,18,Tue,Medium,12,21.6
+1061,7,South Indian,15,Sun,High,28,55.7
+1010,1,Fast Food,16,Mon,Medium,10,8.3
+1050,1,Indian,20,Sun,High,30,46.5
+1003,8,Chinese,22,Tue,High,10,33.3
+1077,4,Italian,19,Sat,High,19,39.9
+1094,4,Italian,23,Mon,High,12,28.0
+1070,5,Fast Food,13,Sun,Medium,22,31.5
+1081,2,Indian,12,Tue,Medium,15,20.5
+1051,3,South Indian,19,Wed,Low,20,33.1
+1019,3,Indian,11,Wed,Medium,15,27.6
+1042,3,Italian,9,Mon,High,12,32.8
+1035,8,Fast Food,9,Thu,Medium,25,38.3
+1046,1,Chinese,14,Mon,Medium,18,28.6
+1026,4,Indian,12,Tue,Medium,17,30.8
+1069,2,Italian,23,Fri,Medium,12,31.4
+1093,1,South Indian,14,Wed,Medium,14,27.0
+1064,7,Fast Food,20,Fri,Medium,30,44.1
+1037,4,Chinese,18,Wed,Medium,23,35.4
+1084,4,Indian,8,Tue,Medium,14,27.7
+1049,6,South Indian,8,Wed,High,28,49.0
+1021,6,Chinese,23,Mon,High,14,39.4
+1074,8,Italian,12,Fri,Low,30,47.2
+1064,2,Italian,9,Sat,High,29,44.5
+1005,7,South Indian,15,Fri,Medium,29,50.2
+1100,2,Italian,21,Tue,Medium,11,20.7
+1070,2,Fast Food,22,Sat,Medium,16,20.8
+1090,8,South Indian,10,Fri,Medium,10,30.1
+1004,8,Italian,8,Sun,Low,30,46.0
+1039,1,Indian,20,Tue,Medium,27,39.6
+1035,5,Italian,9,Sun,Medium,19,33.9
+1001,8,Fast Food,17,Thu,Medium,15,28.3
+1024,2,Chinese,17,Mon,Medium,16,21.5
+1057,6,Chinese,14,Wed,Medium,21,41.0
+1100,5,Italian,13,Sun,Medium,27,48.0
+1070,1,Chinese,19,Wed,High,20,39.8
+1041,5,Italian,15,Wed,Medium,28,43.2
+1054,3,Fast Food,14,Thu,Low,13,20.6
+1046,7,Chinese,21,Mon,Medium,28,50.0
+1060,5,Indian,17,Fri,Medium,22,35.7
+1060,2,Italian,20,Sun,Medium,28,45.6
+1057,1,Chinese,15,Fri,Low,11,13.4
+1031,7,Fast Food,10,Mon,Medium,18,22.3
+1084,2,Fast Food,13,Sat,High,17,32.7
+1024,7,Indian,20,Mon,Medium,30,55.6
+1089,6,Fast Food,14,Wed,Medium,23,35.7
+1036,3,Fast Food,22,Fri,High,18,30.0
+1085,6,Chinese,23,Mon,High,22,42.9
+1030,2,Italian,17,Fri,Medium,27,34.4
+1024,2,South Indian,18,Mon,Medium,15,23.2
+1030,2,Fast Food,8,Tue,High,12,18.5
+1086,4,Fast Food,8,Sun,Medium,19,29.0
+1092,3,South Indian,14,Wed,Low,19,27.6
+1007,7,Fast Food,20,Mon,Low,19,33.2
+1035,8,Chinese,18,Thu,Medium,18,40.4
+1055,2,Chinese,20,Mon,High,21,37.3
+1092,2,South Indian,10,Tue,Low,17,22.3
+1014,7,Fast Food,10,Thu,Low,18,24.7
+1010,8,Fast Food,22,Thu,High,26,43.5
+1080,6,Italian,12,Mon,High,17,36.6
+1016,6,Fast Food,22,Tue,Low,27,27.7
+1054,2,Chinese,23,Thu,Medium,29,38.1
+1095,1,Indian,18,Sun,Medium,26,37.7
+1089,4,Indian,13,Wed,Medium,15,33.7
+1077,6,Indian,9,Sat,High,19,48.5
+1070,1,Indian,23,Wed,Low,10,18.8
+1044,4,Fast Food,10,Fri,Low,30,36.1
+1073,2,Fast Food,13,Fri,Low,10,12.9
+1045,3,Italian,10,Tue,Low,18,23.5
+1100,5,Fast Food,21,Thu,Low,29,34.9
+1056,5,Indian,12,Wed,Low,12,23.2
+1084,2,South Indian,16,Wed,High,15,26.6
+1082,6,South Indian,19,Sat,Low,16,35.4
+1057,1,Chinese,23,Tue,High,18,25.6
+1021,3,Chinese,10,Sun,Medium,14,25.3
+1068,7,Fast Food,19,Thu,Medium,25,36.5
+1050,4,South Indian,18,Tue,Low,11,15.1
+1033,2,Indian,20,Mon,Low,12,25.3
+1091,3,Indian,20,Wed,Medium,12,25.1
+1007,8,Indian,13,Tue,Medium,29,59.6
+1070,3,Fast Food,18,Tue,High,19,31.4
+1015,6,Fast Food,12,Sat,High,12,31.3
+1082,8,Italian,12,Sun,Medium,24,50.4
+1032,4,Indian,18,Mon,Medium,23,35.8
+1075,8,Indian,21,Fri,High,13,41.2
+1020,3,Fast Food,21,Wed,Medium,19,28.1
+1088,6,Fast Food,13,Sat,High,20,37.6
+1015,8,Italian,13,Sun,High,20,56.0
+1048,1,Italian,8,Sun,Low,17,21.8
+1071,6,Chinese,18,Tue,Medium,18,30.5
+1021,1,South Indian,22,Wed,Medium,17,19.9
+1042,1,Indian,16,Fri,Medium,21,28.8
+1026,8,Indian,12,Sun,Medium,26,49.8
+1014,8,Italian,8,Tue,High,24,48.0
+1057,7,Italian,15,Sun,Low,28,44.1
+1037,7,Chinese,14,Mon,Low,29,48.2
+1058,3,South Indian,14,Sun,Low,15,24.1
+1021,6,Chinese,22,Wed,Medium,14,29.5
+1082,7,South Indian,21,Sun,Medium,17,39.6
+1069,1,Indian,12,Sun,Medium,27,31.8
+1003,7,Chinese,8,Sat,Medium,30,46.4
+1087,4,Italian,16,Mon,Low,30,35.8
+1090,3,Chinese,23,Fri,Low,24,34.4
+1037,6,Chinese,18,Fri,Medium,12,28.2
+1088,6,Indian,16,Wed,Medium,23,40.6
+1049,5,Italian,15,Fri,Medium,24,36.5
+1019,6,Italian,12,Thu,High,22,41.3
+1089,3,Fast Food,21,Sat,High,30,43.9
+1085,4,Fast Food,10,Wed,Low,29,30.2
+1012,6,Fast Food,15,Sun,Medium,30,46.9
+1061,5,Indian,8,Thu,Medium,18,29.0
+1041,3,Chinese,10,Fri,High,26,38.6
+1033,1,Italian,19,Sun,High,28,50.6
+1050,2,Italian,18,Wed,Low,13,20.4
+1068,2,Chinese,14,Thu,Low,29,35.4
+1071,1,Italian,21,Fri,Medium,19,34.3
+1086,7,Chinese,22,Tue,Medium,12,27.3
+1033,6,Indian,11,Tue,Medium,28,41.4
+1081,8,Indian,14,Mon,Low,18,43.9
+1024,2,Indian,19,Tue,Medium,14,28.9
+1061,7,Chinese,18,Thu,Low,23,35.1
+1061,2,Chinese,20,Sat,Low,16,28.1
+1098,1,South Indian,21,Tue,Low,30,32.9
+1028,6,Italian,12,Wed,Medium,15,29.1
+1058,6,Italian,13,Wed,Medium,17,42.1
+1043,7,South Indian,23,Wed,Medium,11,32.2
+1041,1,South Indian,21,Tue,Low,23,25.5
+1039,7,Indian,14,Sun,Low,16,37.4
+1086,6,South Indian,22,Tue,Low,12,21.8
+1049,8,Chinese,20,Mon,Medium,29,53.0
+1017,6,Fast Food,17,Sat,Low,15,20.9
+1098,3,Chinese,23,Sun,Medium,30,44.4
+1070,8,South Indian,19,Sat,Low,23,46.6
+1070,7,Italian,14,Sun,Low,21,45.2
+1098,3,Chinese,23,Sun,Low,27,37.7
+1065,1,Italian,14,Fri,Low,21,29.0
+1074,4,Chinese,14,Mon,Medium,16,35.2
+1085,2,Italian,18,Thu,Medium,14,24.2
+1005,3,Chinese,20,Wed,High,21,35.9
+1002,2,Italian,20,Tue,Low,18,23.2
+1022,5,Fast Food,14,Fri,Low,20,29.9
+1057,1,Indian,10,Fri,Medium,13,24.7
+1066,4,Chinese,22,Sun,High,23,43.5
+1074,5,Fast Food,19,Tue,Medium,21,35.8
+1098,5,Indian,10,Mon,Medium,27,38.8
+1016,6,Chinese,14,Fri,Medium,16,36.0
+1051,5,Fast Food,21,Sat,Low,10,25.4
+1039,1,Fast Food,9,Mon,High,22,29.1
+1086,3,Fast Food,21,Tue,Medium,25,34.7
+1076,1,South Indian,9,Sun,High,14,28.6
+1088,3,Italian,10,Mon,Medium,28,39.1
+1040,5,Indian,21,Sun,Medium,18,44.5
+1038,5,Italian,11,Sat,Low,18,31.7
+1060,8,Italian,23,Wed,Medium,21,40.3
+1059,4,Italian,13,Sun,Low,27,40.1
+1010,3,Fast Food,20,Sun,Medium,19,35.0
+1099,5,Italian,15,Tue,Medium,26,37.2
+1064,6,South Indian,23,Sat,High,28,50.5
+1063,8,Chinese,17,Tue,Medium,20,40.8
+1049,2,Fast Food,17,Sat,Medium,25,36.0
+1064,8,Indian,14,Sat,Low,17,42.1
+1032,4,Chinese,11,Fri,Medium,24,39.4
+1007,1,Chinese,9,Fri,Low,20,21.9
+1021,4,Chinese,9,Fri,Medium,16,25.5
+1020,2,Italian,22,Wed,High,11,32.9
+1026,8,Italian,11,Wed,Low,28,39.7
+1068,3,Fast Food,13,Sat,Low,18,35.2
+1086,1,Italian,10,Thu,Medium,27,38.7
+1015,1,Italian,13,Tue,High,22,37.1
+1085,3,Italian,12,Fri,Medium,10,22.3
+1079,7,Fast Food,12,Tue,Low,28,31.4
+1086,7,Fast Food,9,Sun,High,22,43.4
+1092,4,South Indian,15,Sat,High,23,42.2
+1014,5,South Indian,12,Mon,Low,26,36.6
+1027,7,South Indian,18,Sat,High,29,51.4
+1040,4,South Indian,9,Wed,Medium,10,20.7
+1058,7,Chinese,14,Thu,Medium,14,37.0
+1028,2,Chinese,20,Mon,Medium,29,40.1
+1026,6,South Indian,23,Tue,High,23,46.0
+1063,5,South Indian,22,Wed,Medium,27,39.4
+1066,4,Indian,16,Fri,Low,22,32.2
+1025,6,Chinese,16,Mon,High,21,38.3
+1003,6,Indian,8,Wed,Low,24,31.8
+1072,8,Indian,14,Tue,Medium,13,34.4
+1044,7,Italian,16,Sat,Medium,18,40.4
+1097,8,Fast Food,13,Tue,Low,12,24.0
+1042,3,Chinese,8,Mon,Low,20,27.6
+1099,2,South Indian,9,Mon,High,24,40.6
+1006,2,South Indian,11,Sat,Medium,25,36.9
+1039,2,Fast Food,21,Mon,Medium,16,24.9
+1052,5,Chinese,23,Thu,Medium,16,31.0
+1023,1,South Indian,11,Fri,Medium,18,26.1
+1089,5,South Indian,9,Wed,Medium,26,38.9
+1050,4,Italian,15,Sat,Low,22,35.2
+1043,6,Indian,9,Tue,Medium,18,33.1
+1019,6,South Indian,10,Tue,High,18,33.9
+1069,8,Chinese,23,Fri,Medium,29,45.9
+1051,1,Fast Food,21,Mon,Low,21,21.8
+1011,4,Italian,11,Mon,High,30,46.1
+1012,1,Chinese,16,Tue,High,28,42.2
+1074,6,Italian,17,Fri,Low,24,27.7
+1008,7,Indian,8,Tue,High,27,50.0
+1024,5,South Indian,15,Mon,Medium,17,31.2
+1092,2,Chinese,19,Sat,Low,15,28.7
+1041,6,Fast Food,22,Wed,Low,15,18.3
+1036,3,Indian,21,Mon,Medium,12,33.6
+1085,2,Indian,12,Sat,High,12,25.4
+1072,6,Italian,14,Wed,Low,11,26.8
+1055,5,Indian,23,Sun,Low,14,27.1
+1009,1,Chinese,15,Thu,Medium,29,33.8
+1047,7,Italian,22,Fri,Medium,21,42.7
+1015,7,Indian,12,Sat,Low,15,32.6
+1048,2,Fast Food,23,Thu,Low,25,24.6
+1082,5,Chinese,15,Mon,Medium,14,29.6
+1042,7,Fast Food,17,Sun,High,15,32.7
+1060,7,Fast Food,18,Fri,Medium,13,24.1
+1084,4,Italian,15,Sat,Medium,23,43.2
+1070,3,South Indian,16,Sun,Medium,12,24.5
+1012,2,Italian,9,Mon,Medium,26,31.3
+1002,1,Chinese,10,Fri,High,14,22.2
+1007,7,Chinese,8,Fri,High,30,54.3
+1080,4,Italian,11,Mon,Low,30,34.8
+1003,5,South Indian,22,Mon,Medium,15,25.6
+1003,7,Italian,22,Sun,Medium,29,50.2
+1027,8,Chinese,12,Sun,Medium,13,34.4
+1040,3,South Indian,18,Sat,Medium,22,37.8
+1033,1,Chinese,8,Fri,High,17,20.4
+1092,5,South Indian,15,Sat,High,20,41.4
+1001,5,South Indian,9,Sun,Medium,28,42.2
+1008,2,Italian,8,Fri,High,14,31.6
+1032,7,Italian,9,Sat,High,14,38.9
+1048,2,Italian,22,Mon,High,12,25.0
+1004,1,South Indian,20,Mon,High,11,25.8
+1094,8,South Indian,23,Tue,Low,12,23.4
+1070,7,Chinese,12,Sun,Low,24,37.8
+1019,6,Fast Food,16,Sat,High,16,33.4
+1032,7,Italian,16,Tue,High,12,39.5
+1009,8,Chinese,9,Tue,High,24,45.9
+1012,6,Chinese,9,Thu,Low,20,28.7
+1011,5,Indian,10,Fri,Medium,25,38.8
+1046,2,Italian,14,Wed,Low,22,31.6
+1016,3,Chinese,18,Thu,Medium,11,25.8
+1001,7,Indian,10,Sun,Low,29,44.3
+1063,3,Italian,8,Fri,Low,21,34.9
+1021,7,South Indian,21,Wed,Low,30,48.0
+1030,5,Indian,21,Tue,Medium,16,33.0
+1013,2,South Indian,21,Wed,Medium,10,20.0
+1034,1,Fast Food,13,Mon,Low,23,19.0
+1004,1,Fast Food,10,Sun,Medium,19,23.1
+1028,1,Fast Food,8,Mon,Low,12,12.0
+1095,7,Fast Food,21,Sat,High,20,44.7
+1059,7,Chinese,23,Fri,Medium,29,48.0
+1027,3,Fast Food,20,Thu,Medium,30,40.7
+1069,2,Chinese,11,Sun,High,24,43.2
+1025,8,Chinese,20,Tue,Medium,15,35.5
+1003,7,Italian,8,Sun,Medium,27,50.2
+1097,2,Chinese,8,Fri,Medium,22,35.3
+1068,3,Chinese,19,Tue,High,24,51.1
+1025,7,Fast Food,9,Mon,Low,12,23.9
+1020,1,Chinese,17,Sun,High,24,38.3
+1034,1,South Indian,15,Thu,High,10,16.9
+1026,5,Fast Food,9,Thu,Medium,19,24.6
+1005,6,Indian,18,Mon,Medium,27,43.3
+1099,4,Fast Food,9,Wed,Medium,17,28.8
+1061,8,Chinese,22,Thu,Low,21,33.8
+1092,6,South Indian,18,Wed,Low,14,24.3
+1093,7,Fast Food,18,Tue,High,10,29.4
+1009,2,South Indian,23,Thu,Medium,17,13.7
+1050,7,Indian,17,Sat,Medium,14,32.4
+1006,2,Indian,17,Mon,High,26,46.5
+1083,2,Italian,15,Sun,Medium,24,38.7
+1060,6,Italian,19,Wed,Low,13,32.9
+1044,4,Fast Food,13,Sat,Medium,22,33.4
+1011,5,Italian,23,Tue,Medium,26,44.4
+1066,6,South Indian,19,Tue,Low,22,34.3
+1047,4,Italian,18,Thu,High,11,28.5
+1073,1,South Indian,11,Thu,Low,13,15.9
+1085,1,Italian,10,Sat,Medium,11,23.3
+1088,2,Italian,8,Fri,Low,21,27.1
+1098,3,Italian,18,Fri,Medium,28,37.8
+1086,7,Chinese,10,Thu,Medium,27,38.1
+1003,7,Chinese,19,Fri,Medium,19,40.8
+1076,2,Italian,21,Mon,High,14,26.1
+1092,3,South Indian,16,Sat,Low,20,29.1
+1030,8,Fast Food,12,Mon,High,10,25.5
+1090,4,Indian,20,Fri,Medium,12,29.7
+1021,8,Chinese,13,Thu,High,26,52.9
+1028,8,Italian,12,Mon,Medium,24,45.1
+1090,1,Indian,8,Tue,Low,23,24.4
+1062,8,Chinese,17,Sun,Low,24,42.2
+1033,7,Fast Food,8,Thu,High,25,42.2
+1085,6,South Indian,11,Sat,High,13,35.0
+1035,3,Italian,23,Wed,Medium,28,39.6
+1052,4,Fast Food,22,Wed,Medium,17,19.6
+1034,1,Chinese,10,Thu,Medium,15,17.3
+1041,8,Italian,18,Fri,High,25,53.7
+1051,6,Indian,15,Mon,High,12,29.2
+1047,3,South Indian,19,Mon,High,17,41.9
+1082,2,Chinese,19,Thu,High,14,31.2
+1058,2,South Indian,14,Tue,High,14,28.0
+1075,2,Italian,22,Sat,Low,21,31.2
+1057,7,Fast Food,18,Fri,High,10,24.9
+1023,4,South Indian,22,Tue,Medium,16,27.2
+1048,2,Indian,14,Thu,High,20,43.3
+1022,7,Chinese,22,Thu,Medium,19,37.7
+1017,5,Indian,15,Tue,Low,12,24.3
+1069,7,South Indian,21,Wed,Medium,17,39.6
+1011,1,Fast Food,17,Thu,Medium,10,10.9
+1094,7,Fast Food,14,Sat,Low,17,35.0
+1015,4,Indian,17,Sun,Medium,29,42.0
+1091,6,Italian,9,Fri,Medium,20,40.2
+1035,8,Italian,11,Tue,Medium,16,34.9
+1033,7,Fast Food,22,Wed,Medium,25,37.1
+1084,2,Indian,18,Tue,Low,16,20.7
+1016,1,Indian,13,Wed,High,22,41.6
+1034,3,Indian,10,Wed,High,19,38.6
+1066,2,South Indian,22,Sat,Low,26,28.6
+1099,1,Italian,10,Fri,High,12,23.6
+1040,5,Italian,22,Thu,Medium,16,30.5
+1028,8,South Indian,13,Wed,Low,20,39.7
+1047,3,Chinese,8,Thu,Medium,22,30.5
+1039,5,South Indian,21,Fri,Medium,14,29.7
+1070,6,Indian,23,Thu,Medium,28,47.5
+1073,1,South Indian,8,Sat,High,24,38.3
+1020,5,Indian,12,Sat,Medium,10,28.6
+1001,8,Fast Food,8,Mon,Low,14,27.1
+1072,8,Indian,17,Sat,High,22,46.4
+1087,6,Italian,15,Wed,Low,19,33.2
+1063,8,South Indian,9,Fri,Medium,14,32.5
+1067,1,Indian,23,Sat,Low,10,12.4
+1004,1,Chinese,13,Tue,Medium,19,33.3
+1058,8,Fast Food,17,Fri,Medium,27,42.2
+1025,5,Chinese,17,Wed,Low,17,28.2
+1047,1,Chinese,12,Fri,Medium,29,33.9
+1038,2,Chinese,17,Sat,Low,12,20.9
+1015,8,Fast Food,19,Tue,Medium,28,44.2
+1063,1,Fast Food,19,Mon,Medium,28,29.8
+1021,4,Fast Food,11,Wed,Low,11,13.2
+1099,6,Fast Food,8,Sun,High,26,45.8
+1057,8,Chinese,21,Wed,Low,25,47.4
+1053,1,Italian,21,Fri,Low,30,38.3
+1046,4,Italian,10,Sun,Medium,19,34.4
+1014,1,Fast Food,20,Sun,Medium,30,41.8
+1100,1,South Indian,19,Thu,Medium,25,33.8
+1076,5,Indian,11,Sun,Low,14,26.3
+1017,2,South Indian,9,Thu,High,29,45.5
+1039,8,South Indian,19,Sun,Medium,12,36.6
+1009,6,South Indian,9,Tue,Low,12,24.5
+1099,8,Italian,9,Mon,Medium,11,34.5
+1077,2,Indian,18,Mon,High,30,45.2
+1079,3,South Indian,8,Sun,Medium,13,25.2
+1082,5,Fast Food,17,Fri,Low,27,36.4
+1097,5,Italian,9,Fri,Medium,11,21.1
+1006,2,Fast Food,13,Thu,Low,15,14.6
+1091,7,Fast Food,10,Sat,Medium,12,29.0
+1023,5,South Indian,17,Mon,High,30,45.8
+1059,8,Fast Food,12,Sat,Medium,12,31.0
+1091,2,Indian,8,Mon,Medium,11,20.4
+1098,5,Fast Food,15,Sat,High,12,30.5
+1046,1,South Indian,20,Sat,Medium,26,36.2
+1038,2,Fast Food,11,Mon,Medium,23,27.4
+1014,2,Italian,16,Tue,Low,16,19.1
+1100,8,Italian,11,Tue,Medium,30,51.6
+1072,4,Italian,21,Fri,Medium,15,39.3
+1062,5,Chinese,22,Sat,Medium,17,30.6
+1035,5,Italian,22,Sat,High,28,48.9
+1019,2,Italian,22,Sat,High,28,44.2
+1030,1,Chinese,9,Sat,Medium,21,30.8
+1078,1,Italian,10,Sat,Medium,14,16.9
+1084,6,South Indian,12,Thu,Medium,14,27.9
+1025,1,Italian,19,Wed,Low,23,30.1
+1040,5,Italian,17,Sat,Medium,26,42.4
+1088,7,Chinese,22,Thu,High,25,47.5
+1014,4,South Indian,20,Tue,Medium,13,29.3
+1026,2,Fast Food,20,Sat,High,17,33.6
+1087,3,Indian,21,Tue,Low,12,21.2
+1022,4,South Indian,13,Fri,Medium,30,44.4
+1048,8,Fast Food,14,Wed,Medium,14,31.5
+1083,8,South Indian,11,Mon,Medium,16,35.0
+1051,7,Fast Food,14,Wed,High,27,45.7
+1003,3,Fast Food,22,Sat,High,17,30.0
+1042,4,South Indian,17,Sat,Low,20,34.0
+1019,1,Chinese,10,Wed,Low,23,16.8
+1073,5,South Indian,14,Wed,Low,27,39.5
+1028,7,South Indian,11,Fri,Medium,22,31.6
+1084,3,Fast Food,20,Sun,Medium,15,27.4
+1045,7,Indian,20,Tue,Medium,22,48.1
+1071,4,Fast Food,15,Mon,Medium,10,14.7
+1078,5,Italian,16,Sun,Medium,20,39.8
+1063,7,South Indian,14,Wed,High,16,45.7
+1073,3,South Indian,15,Mon,Medium,19,28.6
+1019,2,Chinese,15,Wed,Medium,11,17.1
+1047,4,Fast Food,9,Tue,Low,25,28.8
+1014,2,Chinese,16,Mon,Medium,14,26.6
+1038,1,South Indian,13,Sun,Medium,25,33.8
+1053,2,Fast Food,18,Thu,Medium,25,30.9
+1061,2,Fast Food,11,Tue,High,24,27.7
+1036,6,Italian,22,Sun,High,18,37.2
+1040,4,Italian,12,Mon,High,10,23.5
+1081,1,Indian,17,Wed,Medium,18,25.7
+1030,2,Italian,12,Sun,Medium,20,35.4
+1009,8,Fast Food,14,Wed,Medium,14,26.4
+1064,5,Italian,21,Tue,Low,15,33.0
+1033,3,Indian,16,Tue,Medium,17,27.9
+1052,2,South Indian,14,Sun,Low,24,31.3
+1089,1,Italian,16,Wed,Medium,25,33.6
+1014,2,Fast Food,11,Mon,Medium,27,28.2
+1075,3,South Indian,17,Sun,High,21,44.2
+1053,1,Fast Food,21,Thu,Medium,13,20.3
+1099,4,South Indian,17,Fri,High,25,40.4
+1059,1,Fast Food,11,Tue,Low,20,18.7
+1078,4,Italian,13,Wed,Low,16,33.2
+1094,1,Italian,15,Mon,Medium,24,35.1
+1041,8,Indian,21,Tue,Medium,26,54.2
+1068,7,South Indian,16,Mon,Low,24,39.7
+1068,3,Indian,8,Tue,Low,19,30.0
+1092,3,Chinese,8,Wed,Medium,13,25.1
+1008,1,Italian,20,Mon,Medium,26,36.6
+1002,7,South Indian,15,Wed,Medium,13,32.4
+1086,2,Indian,18,Mon,Medium,20,28.3
+1041,3,Indian,14,Tue,Low,13,26.2
+1055,8,Chinese,16,Fri,High,21,43.3
+1016,4,Indian,18,Fri,Low,19,30.2
+1093,4,Fast Food,10,Sun,Medium,23,36.0
+1062,5,Italian,17,Thu,High,27,44.8
+1048,6,Indian,19,Thu,High,15,37.6
+1030,7,Indian,12,Sun,Medium,14,38.6
+1012,6,Chinese,10,Sun,Medium,11,31.9
+1035,6,Fast Food,22,Sat,Medium,22,39.5
+1011,4,Indian,12,Wed,Medium,23,38.9
+1064,8,Italian,17,Mon,Medium,12,34.2
+1050,8,Italian,8,Thu,Medium,20,37.2
+1085,5,Indian,21,Tue,High,13,40.2
+1021,6,Fast Food,18,Sun,Low,22,37.2
+1069,6,Italian,11,Fri,High,17,36.1
+1048,1,Italian,13,Mon,High,17,30.1
+1020,1,Fast Food,9,Sat,Medium,22,26.2
+1067,1,Fast Food,20,Fri,Medium,19,27.6
+1044,2,Indian,14,Sun,Medium,22,40.2
+1033,6,South Indian,15,Mon,High,22,46.2
+1073,8,Chinese,8,Sun,Low,26,40.8
+1061,8,South Indian,20,Thu,Medium,15,32.9
+1009,2,South Indian,11,Thu,Medium,11,21.9
+1068,8,Italian,18,Wed,High,26,46.2
+1035,5,Fast Food,11,Sat,High,21,38.0
+1081,7,Italian,20,Mon,Medium,15,41.8
+1098,4,Chinese,12,Sat,Low,14,24.8
+1088,6,Indian,21,Tue,Medium,14,33.7
+1096,8,Chinese,19,Sat,Low,18,44.2
+1065,4,Italian,19,Sun,High,12,37.7
+1008,8,Italian,11,Sun,Medium,29,50.7
+1045,7,Italian,16,Thu,High,14,41.5
+1087,1,Italian,14,Wed,Medium,16,26.7
+1047,6,South Indian,20,Sun,Medium,21,41.0
+1040,3,Indian,9,Thu,Low,16,20.7
+1076,2,South Indian,8,Fri,Medium,19,29.2
+1054,2,Italian,16,Thu,Low,17,22.9
+1076,6,Fast Food,8,Mon,Medium,26,34.3
+1046,7,South Indian,13,Wed,Low,14,26.3
+1047,1,Italian,23,Sun,Medium,24,38.0
+1015,2,Italian,22,Mon,Medium,18,25.2
+1019,1,Indian,22,Tue,Medium,20,22.3
+1026,5,Chinese,9,Tue,Low,22,31.3
+1052,4,South Indian,23,Thu,Medium,27,40.3
+1093,7,South Indian,11,Wed,Medium,26,43.8
+1022,3,South Indian,13,Sat,Medium,18,34.6
+1021,4,Italian,12,Wed,Low,19,25.9
+1051,4,Indian,23,Wed,High,14,30.5
+1038,5,Italian,18,Wed,High,20,42.8
+1020,2,Italian,13,Thu,Low,24,27.7
+1029,3,Fast Food,10,Mon,Medium,11,12.6
+1051,2,Indian,12,Thu,Medium,30,39.3
+1004,6,South Indian,9,Sat,Medium,29,39.8
+1055,4,Chinese,14,Mon,Low,23,34.5
+1071,6,South Indian,10,Sat,Low,14,23.1
+1092,1,Italian,8,Fri,Low,15,19.2
+1028,4,Indian,21,Fri,Medium,24,40.5
+1004,2,Indian,15,Sun,High,13,29.4
+1022,4,Indian,15,Sun,Medium,19,33.3
+1076,1,Fast Food,10,Mon,High,28,35.8
+1045,5,South Indian,20,Thu,Low,18,30.8
+1067,6,Fast Food,14,Sat,Low,30,46.6
+1086,8,Chinese,16,Sat,Medium,19,44.0
+1066,6,Italian,15,Sun,Low,13,26.9
+1088,2,Fast Food,10,Sun,Medium,13,16.5
+1034,4,Fast Food,22,Tue,Medium,15,19.9
+1091,2,Italian,20,Sat,Low,17,37.6
+1055,5,Indian,9,Thu,Medium,25,38.1
+1001,4,Italian,20,Tue,Medium,17,33.7
+1072,8,South Indian,17,Thu,Medium,25,43.0
+1087,4,Italian,23,Wed,High,15,33.8
+1038,8,Indian,14,Sat,Low,26,50.7
+1006,2,Italian,14,Wed,High,10,33.9
+1086,2,Fast Food,16,Fri,Medium,28,31.3
+1025,1,Chinese,12,Fri,High,27,37.4
+1082,7,Fast Food,11,Mon,Low,26,36.5
+1017,7,Chinese,15,Sat,Medium,26,42.9
+1061,5,Italian,21,Sun,Medium,21,44.6
+1012,7,South Indian,11,Tue,High,21,40.5
+1006,1,Italian,23,Wed,Medium,15,25.7
+1090,6,Indian,11,Thu,Medium,16,36.9
+1027,8,Italian,19,Sat,High,17,48.9
+1008,4,Chinese,21,Mon,Medium,12,25.6
+1083,2,Fast Food,19,Thu,Low,26,24.0
+1065,4,South Indian,9,Wed,Medium,30,40.9
+1057,4,Italian,20,Sat,Medium,17,30.8
+1093,3,Italian,22,Sun,Medium,20,33.1
+1099,6,Fast Food,8,Wed,Medium,29,37.1
+1040,3,South Indian,11,Sat,High,27,45.1
+1014,7,Italian,14,Sat,Medium,25,50.6
+1035,4,Italian,19,Wed,Low,22,33.5
+1048,8,Chinese,23,Wed,Low,18,34.9
+1084,2,Chinese,16,Thu,High,28,37.3
+1056,8,Indian,23,Mon,Medium,16,38.1
+1049,4,Fast Food,16,Wed,High,26,43.4
+1013,6,South Indian,19,Fri,Medium,17,38.7
+1061,8,Italian,17,Mon,Medium,17,35.2
+1049,3,Italian,22,Fri,Medium,12,19.3
+1046,2,Indian,8,Thu,Low,25,33.4
+1062,4,Italian,12,Wed,Medium,21,29.5
+1008,5,Fast Food,14,Mon,Medium,24,37.0
+1043,6,Indian,20,Sun,Medium,30,57.0
+1020,6,Fast Food,14,Wed,High,13,29.8
+1097,5,Indian,17,Sat,High,16,35.8
+1090,8,Italian,23,Wed,High,20,40.4
+1039,4,Indian,13,Sun,High,14,45.0
+1085,6,Chinese,23,Mon,Medium,22,41.9
+1049,2,South Indian,18,Wed,Medium,20,31.7
+1064,4,Italian,17,Wed,High,14,36.7
+1062,4,South Indian,11,Tue,Medium,17,25.3
+1054,3,Italian,10,Tue,Low,30,31.0
+1009,6,South Indian,19,Mon,Medium,26,49.9
+1088,6,Chinese,20,Mon,Low,20,38.6
+1037,5,South Indian,16,Sat,Medium,28,45.5
+1049,3,Indian,22,Sat,Medium,27,38.3
+1041,8,South Indian,19,Wed,Low,19,37.7
+1017,7,Italian,20,Fri,High,14,42.1
+1088,8,Fast Food,17,Mon,High,10,28.2
+1021,8,South Indian,11,Sun,High,26,48.8
+1051,3,South Indian,15,Wed,Medium,26,28.7
+1059,6,South Indian,20,Fri,High,10,31.5
+1039,4,Italian,8,Tue,High,10,18.6
+1055,3,South Indian,14,Sat,Medium,18,33.2
+1041,5,Italian,19,Sun,High,13,38.2
+1039,3,Italian,13,Mon,Low,18,25.9
+1013,5,Fast Food,20,Wed,High,23,42.2
+1064,8,Indian,19,Tue,Medium,24,48.4
+1011,7,Italian,8,Thu,Medium,25,41.8
+1019,3,Chinese,22,Tue,Low,25,34.6
+1011,5,South Indian,11,Wed,Medium,22,33.0
+1077,3,Chinese,19,Sat,Medium,23,41.8
+1046,7,South Indian,22,Fri,High,30,47.4
+1045,8,Fast Food,21,Sun,High,18,45.2
+1001,3,Italian,12,Sun,High,18,36.1
+1040,2,Indian,18,Thu,Medium,30,39.9
+1019,5,Italian,15,Sun,High,13,31.3
+1076,7,South Indian,22,Thu,Medium,19,31.2
+1072,5,Indian,11,Sat,High,12,34.0
+1072,5,Italian,10,Thu,Low,30,44.0
+1061,1,Indian,9,Mon,Medium,18,21.5
+1012,7,South Indian,11,Wed,High,28,53.6
+1061,3,Fast Food,18,Sun,High,25,35.3
+1033,5,Fast Food,17,Thu,Medium,25,33.2
+1045,6,Italian,21,Tue,High,26,54.8
+1090,1,Chinese,20,Fri,Low,27,32.7
+1092,2,South Indian,11,Wed,Medium,19,24.9
+1069,5,Italian,20,Sat,Medium,30,56.3
+1008,8,Italian,17,Sun,Low,28,49.7
+1025,5,Fast Food,12,Tue,Low,24,30.1
+1091,1,Indian,20,Mon,Low,24,32.4
+1046,3,South Indian,14,Thu,Medium,20,33.2
+1087,6,Indian,16,Tue,Low,17,26.6
+1030,8,South Indian,9,Wed,Medium,25,41.5
+1047,2,Chinese,12,Sun,Medium,19,29.8
+1087,8,Fast Food,23,Tue,Medium,18,31.3
+1049,5,Chinese,18,Mon,Medium,24,37.9
+1047,3,Italian,17,Fri,Medium,14,27.7
+1084,7,Fast Food,16,Thu,Medium,29,36.1
+1082,6,Italian,19,Wed,Medium,11,29.9
+1018,7,Chinese,21,Sun,Medium,25,53.0
+1066,6,South Indian,20,Thu,High,27,58.2
+1068,2,Italian,10,Thu,Medium,25,30.4
+1094,4,Indian,8,Sat,Low,14,24.3
+1033,6,South Indian,9,Thu,Medium,10,19.9
+1036,4,South Indian,21,Tue,Medium,28,37.1
+1082,7,Chinese,13,Tue,High,19,46.4
+1019,6,Chinese,23,Fri,Medium,30,46.6
+1028,2,Fast Food,12,Mon,Medium,22,23.7
+1040,1,Fast Food,8,Sun,Low,20,18.9
+1084,2,Indian,8,Sun,Medium,24,36.3
+1097,2,South Indian,18,Wed,Medium,11,15.9
+1076,1,Indian,11,Tue,High,15,27.7
+1015,1,Indian,19,Thu,High,30,52.0
+1041,3,Chinese,22,Mon,Medium,20,26.9
+1039,6,Indian,11,Wed,High,24,45.0
+1002,7,Indian,22,Sun,Medium,18,39.2
+1063,3,Italian,13,Wed,High,21,39.7
+1029,1,Fast Food,13,Wed,High,13,24.0
+1074,4,Fast Food,23,Sun,Low,23,20.7
+1066,7,South Indian,17,Wed,Medium,12,29.3
+1051,4,Fast Food,21,Fri,Medium,30,38.3
+1075,2,South Indian,13,Wed,Low,26,31.1
+1077,5,Italian,8,Mon,Low,22,31.5
+1010,2,Fast Food,17,Tue,High,17,20.4
+1014,2,Italian,16,Mon,High,21,38.6
+1082,5,Fast Food,18,Thu,High,21,31.5
+1051,6,Fast Food,14,Sat,High,21,51.7
+1073,1,Italian,14,Fri,High,11,29.7
+1039,4,Indian,18,Fri,Low,19,26.5
+1028,2,Indian,14,Thu,Low,18,27.7
+1003,5,Indian,9,Sun,Low,10,24.4
+1084,3,Indian,9,Mon,Low,13,25.5
+1070,2,Fast Food,13,Mon,Low,23,29.5
+1027,4,Chinese,14,Thu,Medium,25,43.8
+1002,1,Italian,10,Sun,High,27,40.9
+1093,2,Chinese,20,Sat,High,11,29.9
+1038,2,Chinese,11,Wed,Medium,15,24.5
+1003,6,South Indian,21,Sun,High,12,42.8
+1016,8,Indian,19,Wed,Medium,29,54.0
+1094,5,Fast Food,10,Tue,High,28,38.9
+1040,3,Indian,14,Mon,Medium,22,35.3
+1002,3,Indian,14,Mon,Low,26,33.4
+1081,7,Chinese,11,Thu,High,23,43.3
+1041,1,South Indian,20,Thu,Medium,20,29.0
+1012,7,Indian,14,Wed,Medium,25,48.5
+1035,4,Italian,12,Sun,Medium,20,36.8
+1065,1,Italian,8,Mon,Medium,27,32.4
+1055,2,Indian,17,Mon,High,11,31.0
+1045,8,Chinese,11,Fri,Low,30,41.0
+1079,2,Chinese,14,Tue,High,17,36.6
+1090,3,Fast Food,20,Tue,Low,23,24.7
+1085,4,South Indian,23,Wed,Medium,11,18.6
+1062,5,Chinese,23,Sat,Low,22,34.8
+1049,4,Fast Food,22,Sun,High,19,36.3
+1095,2,Italian,9,Mon,Low,17,20.8
+1025,5,Italian,9,Fri,Medium,16,30.3
+1023,4,Italian,8,Sun,Low,22,37.0
+1024,8,Indian,9,Mon,Low,28,40.7
+1038,8,South Indian,17,Thu,High,24,48.7
+1028,4,Fast Food,21,Sun,Low,11,19.1
+1021,5,South Indian,15,Wed,Low,14,22.7
+1054,2,Indian,18,Sun,Low,28,38.2
+1018,4,Fast Food,15,Sat,Medium,10,15.7
+1036,5,Fast Food,15,Sun,Medium,16,24.8
+1099,6,Chinese,22,Sun,Low,27,42.8
+1045,8,South Indian,23,Sun,Low,10,25.6
+1073,6,South Indian,8,Tue,Medium,10,21.7
+1053,2,Chinese,8,Mon,Medium,16,24.2
+1030,5,Italian,19,Sat,High,26,49.8
+1060,6,Indian,17,Wed,High,15,33.3
+1098,5,South Indian,11,Tue,Medium,29,33.8
+1032,4,Chinese,13,Mon,Medium,21,38.3
+1067,2,Fast Food,15,Fri,Medium,29,31.7
+1067,6,Chinese,20,Wed,High,24,50.4
+1028,7,Italian,9,Mon,Medium,22,43.3
+1044,4,Indian,20,Tue,High,21,43.5
+1079,8,Italian,23,Tue,Medium,30,49.2
+1041,7,Fast Food,10,Fri,Medium,11,23.6
+1063,7,Fast Food,13,Wed,Medium,30,44.9
+1023,1,Fast Food,17,Wed,Medium,27,23.4
+1075,1,Fast Food,11,Sat,Low,13,9.3
+1048,2,Chinese,19,Mon,High,19,36.5
+1032,6,Fast Food,9,Sat,High,20,40.8
+1057,6,Fast Food,14,Tue,High,30,54.5
+1100,6,Chinese,11,Tue,Medium,15,28.9
+1033,5,Fast Food,15,Sun,Low,15,22.5
+1024,4,Italian,15,Fri,Low,18,31.8
+1039,6,Italian,14,Fri,Medium,29,51.4
+1034,4,South Indian,17,Wed,High,22,37.6
+1056,2,Italian,16,Sat,Medium,14,26.2
+1028,7,Indian,11,Tue,Low,15,31.3
+1037,6,Indian,14,Sun,High,13,39.1
+1007,2,Indian,17,Mon,High,15,31.9
+1068,6,Chinese,17,Sun,Medium,27,46.1
+1037,1,Italian,22,Thu,Medium,22,32.1
+1056,3,Indian,19,Mon,High,12,34.9
+1065,2,South Indian,8,Fri,Medium,19,28.7
+1065,6,Chinese,11,Mon,High,13,30.0
+1047,8,South Indian,9,Tue,Low,24,35.6
+1020,3,Italian,16,Sat,Medium,21,34.9
+1019,2,Fast Food,23,Sun,Medium,24,27.3
+1029,8,South Indian,12,Wed,High,30,55.0
+1074,8,Fast Food,10,Sat,High,19,36.2
+1060,5,Chinese,11,Thu,High,21,38.5
+1018,8,South Indian,13,Wed,Medium,17,37.7
+1092,6,South Indian,17,Thu,High,30,46.6
+1035,5,Chinese,8,Thu,Medium,30,38.9
+1043,1,Chinese,14,Tue,Medium,12,22.9
+1095,6,Indian,15,Tue,Low,16,28.6
+1091,7,Italian,14,Fri,High,27,60.3
+1011,8,South Indian,14,Fri,High,12,46.9
+1049,1,South Indian,16,Thu,Low,24,21.6
+1038,3,Chinese,20,Sat,Low,11,18.7
+1064,2,Chinese,11,Fri,High,24,33.0
+1069,8,Italian,21,Tue,Medium,22,46.2
+1008,4,Chinese,23,Fri,High,29,48.6
+1034,1,Fast Food,14,Thu,Low,19,19.4
+1048,4,Fast Food,16,Sun,Low,17,23.9
+1056,8,Fast Food,22,Wed,Medium,25,36.0
+1076,4,Fast Food,12,Sat,Low,25,28.7
+1065,8,Italian,9,Sat,Low,11,29.9
+1031,2,South Indian,22,Mon,Low,18,20.6
+1004,3,Fast Food,12,Fri,Low,17,17.3
+1050,2,Chinese,11,Sat,Low,20,23.4
+1069,6,Fast Food,15,Sun,High,10,31.5
+1030,1,Italian,23,Sun,Low,30,39.5
+1088,4,Chinese,22,Tue,Medium,20,34.9
+1059,2,Fast Food,12,Wed,High,27,32.6
+1067,8,South Indian,16,Tue,Medium,30,47.8
+1075,2,Chinese,16,Fri,Medium,24,30.0
+1045,2,Chinese,10,Thu,Medium,18,22.7
+1004,1,South Indian,20,Sun,High,18,36.7
+1026,3,Chinese,17,Sun,High,10,21.0
+1027,7,Fast Food,22,Mon,Medium,16,30.1
+1046,2,Chinese,13,Mon,High,21,35.1
+1064,1,Fast Food,13,Sun,Medium,19,26.9
+1091,4,South Indian,11,Wed,Low,28,27.4
+1051,8,Indian,18,Sat,High,25,58.8
+1050,6,South Indian,20,Sat,Medium,15,38.8
+1006,7,Fast Food,17,Sun,High,20,39.9
+1059,5,Italian,10,Sat,Low,28,38.9
+1015,7,South Indian,8,Mon,Medium,28,40.4
+1030,8,Italian,19,Thu,High,27,55.8
+1042,7,Italian,14,Sat,Low,24,46.5
+1037,8,Fast Food,22,Tue,High,25,42.7
+1042,1,Fast Food,22,Sun,High,23,33.4
+1035,5,Indian,12,Sat,High,17,45.6
+1087,2,Chinese,21,Thu,Medium,17,26.4
+1006,2,South Indian,17,Sun,Medium,11,21.3
+1068,7,Fast Food,22,Wed,High,15,36.8
+1018,1,South Indian,14,Wed,High,22,35.9
+1073,5,Italian,8,Mon,Medium,22,35.6
+1029,2,Chinese,15,Thu,High,30,44.0
+1077,4,Indian,10,Tue,Medium,21,36.2
+1059,3,South Indian,14,Thu,High,11,32.5
+1047,3,Chinese,19,Tue,Low,30,40.7
+1017,2,Indian,10,Tue,Low,29,32.2
+1096,5,South Indian,21,Thu,Medium,21,39.7
+1022,6,Chinese,10,Sun,Medium,26,40.9
+1068,2,Fast Food,17,Fri,High,15,23.6
+1069,6,South Indian,16,Thu,Low,16,26.0
+1037,6,Chinese,20,Sun,High,15,43.0
+1049,8,Indian,9,Tue,Medium,30,50.2
+1013,8,Chinese,21,Sun,Medium,13,42.4
+1034,5,Fast Food,11,Sun,Low,30,38.9
+1086,6,South Indian,13,Sat,Medium,18,41.9
+1053,4,South Indian,21,Wed,Low,14,23.8
+1087,5,South Indian,10,Wed,Low,19,22.1
+1051,2,Fast Food,19,Mon,Medium,24,30.4
+1003,7,Indian,17,Wed,Low,17,32.9
+1042,4,South Indian,21,Fri,Low,13,24.3
+1098,1,Indian,17,Tue,High,14,25.5
+1032,3,Chinese,14,Thu,Low,16,27.1
+1051,2,Indian,14,Thu,Medium,15,28.8
+1085,2,Indian,22,Fri,Low,22,27.7
+1046,2,South Indian,12,Wed,Medium,28,28.6
+1021,4,Italian,10,Tue,Medium,19,33.5
+1044,1,Italian,9,Wed,Low,24,28.6
+1011,7,Fast Food,22,Sun,High,12,37.9
+1068,5,Fast Food,22,Mon,High,27,37.9
+1001,8,Italian,11,Wed,Low,23,36.9
+1092,1,Chinese,21,Mon,High,12,28.3
+1063,4,South Indian,22,Thu,Low,20,26.1
+1024,2,South Indian,20,Tue,Low,19,31.3
+1099,3,Chinese,11,Sat,Low,26,33.2
+1013,2,Chinese,18,Sun,Medium,22,32.1
+1098,5,Italian,15,Mon,Medium,11,23.3
+1011,6,Fast Food,15,Wed,Medium,22,36.4
+1100,3,Chinese,20,Sun,High,28,51.9
+1051,2,Fast Food,12,Wed,Medium,14,21.3
+1017,7,Indian,20,Sun,Medium,25,60.3
+1099,3,South Indian,13,Thu,Medium,19,30.1
+1082,6,Italian,15,Fri,High,21,45.0
+1086,8,South Indian,22,Sun,Low,29,44.6
+1024,1,Italian,8,Sat,Medium,22,29.7
+1019,4,Indian,12,Fri,Medium,30,38.8
+1037,8,South Indian,11,Wed,Medium,25,48.8
+1085,2,Indian,23,Fri,Medium,30,42.6
+1008,5,Italian,11,Sun,Medium,10,26.3
+1028,1,Chinese,18,Sat,Medium,18,28.7
+1005,8,South Indian,9,Sat,Medium,25,40.0
+1017,2,Indian,17,Tue,Medium,28,37.3
+1036,1,South Indian,8,Fri,Low,24,22.5
+1019,8,South Indian,21,Tue,Medium,27,53.7
+1064,5,South Indian,22,Wed,Medium,21,37.5
+1091,2,Fast Food,13,Wed,Medium,23,33.3
+1098,6,Indian,14,Wed,High,12,41.6
+1011,6,Indian,12,Thu,Medium,13,27.9
+1054,5,South Indian,23,Fri,Low,15,25.2
+1045,3,Chinese,22,Mon,Medium,25,30.3
+1047,5,South Indian,15,Sat,High,22,37.5
+1012,3,Fast Food,16,Mon,High,21,30.1
+1021,2,Italian,18,Wed,Medium,21,31.2
+1011,8,Fast Food,18,Sun,Low,11,25.2
+1092,3,Chinese,9,Sun,Medium,22,30.6
+1005,2,South Indian,18,Fri,Medium,12,13.9
+1081,2,Indian,20,Sun,High,22,43.2
+1056,7,South Indian,11,Tue,Medium,11,24.0
+1020,4,Chinese,18,Mon,Medium,28,41.0
+1041,2,Indian,16,Sun,Medium,18,27.6
+1046,3,Fast Food,12,Wed,Medium,29,39.2
+1012,4,Italian,10,Mon,High,10,28.3
+1070,4,Italian,13,Mon,Medium,22,38.8
+1017,2,South Indian,22,Sat,High,11,22.2
+1019,5,Fast Food,10,Mon,Medium,24,28.0
+1026,5,Chinese,21,Wed,Low,28,41.0
+1048,6,Italian,12,Sat,Medium,25,42.1
+1052,4,Fast Food,10,Wed,Low,20,17.0
+1096,2,South Indian,13,Thu,Low,24,35.7
+1070,7,Indian,19,Sun,Medium,15,38.3
+1055,5,South Indian,23,Thu,Medium,23,36.1
+1100,7,South Indian,17,Sun,Medium,15,34.9
+1075,2,Fast Food,12,Thu,Low,28,21.7
+1033,2,Italian,21,Mon,Medium,14,26.4
+1062,8,Fast Food,16,Fri,Medium,20,29.2
+1088,4,Indian,23,Wed,High,13,32.4
+1023,8,Fast Food,10,Thu,Medium,18,31.6
+1015,7,Chinese,13,Fri,Medium,18,39.4
+1027,8,South Indian,15,Thu,Low,26,36.9
+1075,6,Italian,14,Sun,High,17,49.3
+1064,4,Indian,23,Thu,Medium,24,36.1
+1081,1,South Indian,13,Fri,High,18,28.4
+1051,8,Fast Food,21,Thu,Low,14,25.6
+1053,7,Chinese,22,Mon,Medium,13,23.6
+1078,5,Fast Food,9,Mon,Medium,29,35.0
+1091,5,South Indian,23,Sat,Low,27,35.3
+1082,5,Indian,22,Mon,Medium,18,35.1
+1092,3,Italian,14,Tue,High,30,52.1
+1051,2,South Indian,15,Sat,Medium,12,22.2
+1047,4,Indian,8,Thu,High,18,39.0
+1004,5,South Indian,22,Tue,Low,18,22.5
+1007,1,Chinese,16,Wed,Medium,30,36.8
+1035,5,Fast Food,11,Fri,Medium,13,16.7
+1048,6,Italian,15,Wed,Medium,30,44.4
+1073,2,Indian,22,Tue,High,16,31.6
+1072,7,Italian,17,Mon,Low,16,28.0
+1045,2,Italian,14,Sun,High,17,43.5
+1081,8,Italian,21,Thu,Medium,30,53.4
+1081,7,Indian,20,Sat,Low,10,35.0
+1097,7,Indian,17,Sun,High,18,43.8
+1096,8,Italian,14,Sun,Medium,21,48.8
+1072,4,Fast Food,9,Thu,High,15,25.1
+1019,8,South Indian,23,Mon,Medium,22,39.9
+1063,3,Italian,8,Thu,High,14,34.6
+1038,7,Chinese,11,Fri,Medium,30,51.2
+1067,7,Italian,19,Sun,Low,28,48.1
+1059,8,Indian,23,Fri,Medium,10,29.7
+1069,4,South Indian,23,Fri,Low,27,33.4
+1013,5,Chinese,9,Wed,Medium,17,31.9
+1047,6,South Indian,15,Mon,Low,17,32.4
+1061,1,South Indian,17,Fri,Low,24,28.7
+1031,4,Chinese,23,Tue,Low,28,34.4
+1080,3,Italian,14,Fri,Medium,19,35.6
+1096,4,Italian,15,Sat,Medium,25,40.9
+1022,2,Italian,18,Wed,Medium,20,26.8
+1093,5,Fast Food,13,Tue,Low,21,33.0
+1086,5,Italian,8,Sun,Medium,25,34.5
+1043,7,Chinese,21,Mon,Medium,25,49.6
+1067,5,Fast Food,20,Mon,Medium,29,43.2
+1054,5,Italian,20,Sat,High,12,33.6
+1010,8,Fast Food,19,Sun,Medium,18,36.3
+1042,5,Chinese,16,Fri,Medium,17,23.8
+1064,5,Italian,13,Tue,Low,19,39.1
+1021,1,Indian,19,Sat,Low,22,30.8
+1080,3,Chinese,20,Tue,High,27,49.1
+1076,7,South Indian,17,Fri,High,22,45.4
+1066,8,South Indian,8,Sun,Low,22,38.0
+1041,5,Chinese,8,Fri,Medium,24,35.0
+1024,7,South Indian,23,Thu,Medium,22,39.1
+1035,3,Chinese,15,Thu,Medium,25,35.0
+1056,8,Indian,13,Fri,High,17,50.2
+1030,6,Chinese,15,Wed,Low,28,35.3
+1057,5,Italian,15,Sat,Medium,19,39.1
+1094,7,Italian,22,Thu,Low,21,38.6
+1047,4,Fast Food,18,Fri,Medium,23,28.4
+1035,8,South Indian,21,Tue,Low,15,30.5
+1019,8,South Indian,15,Sat,High,30,54.0
+1008,7,Chinese,17,Sun,Medium,18,35.7
+1026,5,South Indian,22,Thu,High,16,32.5
+1071,2,Italian,14,Sun,Low,15,25.4
+1030,1,Indian,14,Wed,Low,10,20.2
+1007,4,Chinese,17,Sat,Low,30,42.1
+1067,4,South Indian,11,Sat,Medium,23,35.1
+1065,2,Italian,16,Mon,High,15,22.7
+1036,5,Fast Food,19,Tue,Medium,21,35.3
+1025,8,South Indian,9,Wed,Low,26,35.0
+1037,8,Indian,18,Wed,Low,14,31.1
+1001,1,Indian,16,Sun,Low,20,27.0
+1015,4,South Indian,17,Wed,High,14,28.2
+1037,1,South Indian,10,Tue,Medium,21,27.7
+1013,4,Italian,21,Wed,Medium,12,30.3
+1008,5,South Indian,20,Mon,Medium,18,36.2
+1005,6,Fast Food,22,Thu,Low,15,23.3
+1060,4,Italian,23,Tue,Low,11,18.0
+1073,6,Chinese,9,Wed,High,11,29.5
+1001,4,Fast Food,20,Fri,Medium,21,35.4
+1036,8,Italian,11,Thu,Medium,17,38.3
+1035,3,Italian,12,Sun,Low,11,19.0
+1066,5,Indian,9,Sat,Low,18,26.0
+1063,2,Italian,20,Tue,Low,25,35.8
+1023,6,Fast Food,22,Fri,Low,24,31.3
+1009,2,South Indian,8,Sat,Low,23,25.0
+1034,5,Fast Food,17,Fri,Medium,29,34.5
+1046,7,Chinese,18,Wed,Low,13,24.4
+1078,2,Italian,12,Tue,Low,13,19.0
+1004,5,Italian,16,Sun,High,20,49.5
+1030,8,Italian,22,Wed,Medium,30,52.8
+1095,2,Italian,19,Sat,High,27,44.1
+1075,6,Indian,19,Sun,Medium,14,37.5
+1099,3,Indian,22,Mon,Medium,11,22.1
+1072,2,South Indian,12,Fri,Low,24,28.1
+1003,6,Italian,19,Mon,Medium,20,38.4
+1014,4,Chinese,18,Sat,Low,26,38.0
+1060,5,South Indian,17,Wed,Low,25,31.5
+1077,1,Italian,16,Sun,High,24,40.5
+1045,7,Indian,21,Sun,Medium,12,38.8
+1096,8,Chinese,20,Sun,High,29,66.5
+1034,1,South Indian,19,Thu,Medium,24,36.7
+1045,8,Chinese,17,Fri,Medium,28,50.3
+1061,5,Italian,13,Thu,Medium,22,37.8
+1083,8,Fast Food,10,Tue,Medium,25,36.8
+1016,3,Chinese,11,Fri,Medium,21,31.4
+1066,2,Chinese,11,Mon,High,26,34.9
+1040,3,Indian,8,Thu,Low,25,35.5
+1017,1,Italian,10,Sat,Medium,18,28.2
+1034,7,Chinese,10,Tue,Medium,15,34.9
+1016,6,Italian,20,Fri,Low,28,46.2
+1060,7,Indian,21,Sun,Medium,22,48.7
+1066,5,Italian,8,Sat,Medium,30,46.6
+1066,5,Indian,20,Tue,Low,17,30.7
+1090,3,Indian,16,Mon,Low,21,25.9
+1013,6,South Indian,18,Sun,Medium,18,37.5
+1056,3,Italian,8,Sat,Medium,13,28.4
+1031,2,Fast Food,16,Fri,Medium,22,28.3
+1034,4,South Indian,8,Tue,Low,11,15.6
+1039,6,Indian,23,Wed,Low,12,28.2
+1067,4,Fast Food,9,Fri,High,14,24.7
+1008,7,Chinese,9,Fri,High,27,50.3
+1087,2,Chinese,21,Sun,Medium,30,49.5
+1078,8,South Indian,13,Fri,High,23,56.6
+1055,8,Fast Food,14,Sun,Medium,11,35.6
+1027,4,Italian,18,Fri,Low,24,32.8
+1093,1,Fast Food,8,Wed,Low,17,15.5
+1053,7,South Indian,10,Sat,High,25,52.3
+1039,4,Italian,9,Sat,Medium,12,29.3
+1065,2,Italian,15,Sat,High,29,44.4
+1017,4,Chinese,16,Mon,High,29,47.0
+1030,5,Fast Food,20,Wed,Medium,14,30.9
+1053,3,Italian,9,Wed,Low,13,24.8
+1013,1,South Indian,9,Tue,Low,21,22.0
+1021,5,Chinese,17,Thu,Low,28,33.6
+1019,5,Italian,22,Sat,Low,24,31.7
+1053,2,Fast Food,16,Thu,Medium,22,27.0
+1019,3,Chinese,21,Tue,Low,14,19.8
+1057,3,Fast Food,11,Wed,Low,21,22.4
+1025,6,Fast Food,12,Tue,Medium,28,41.0
+1086,7,Fast Food,20,Fri,Medium,11,27.1
+1031,1,Chinese,18,Tue,Medium,16,17.3
+1081,7,Italian,16,Tue,Medium,14,27.8
+1055,2,Indian,13,Sun,Medium,29,43.8
+1023,1,Italian,17,Fri,High,20,31.4
+1032,6,Chinese,19,Sun,Low,27,49.4
+1062,4,Indian,16,Thu,Low,27,36.2
+1074,5,Indian,16,Fri,High,16,42.5
+1010,1,Indian,14,Mon,Medium,19,34.9
+1100,7,South Indian,21,Tue,High,29,55.5
+1072,5,Chinese,19,Tue,Low,23,36.8
+1054,2,South Indian,17,Sun,High,29,42.1
+1052,7,Indian,16,Thu,High,29,53.0
+1020,4,South Indian,12,Sun,Medium,20,34.8
+1032,2,South Indian,23,Wed,Low,11,14.6
+1014,8,Chinese,12,Fri,High,22,43.9
+1050,4,Fast Food,19,Wed,High,22,35.1
+1028,4,South Indian,15,Mon,High,18,38.8
+1053,5,South Indian,17,Fri,Low,26,35.9
+1024,2,Indian,11,Mon,High,24,39.7
+1079,2,Indian,16,Mon,Low,30,37.1
+1022,1,Indian,14,Mon,Low,25,37.1
+1030,7,Italian,14,Sat,Medium,19,43.2
+1063,8,South Indian,20,Fri,Low,29,47.0
+1004,2,Indian,22,Fri,Medium,21,28.3
+1077,1,Chinese,10,Sat,Medium,14,22.8
+1059,8,Italian,11,Thu,Low,29,42.4
+1087,3,Fast Food,14,Sat,Medium,26,35.4
+1008,3,South Indian,18,Tue,High,19,27.5
+1082,8,South Indian,18,Wed,Low,15,33.4
+1012,3,Chinese,21,Wed,Medium,30,43.4
+1031,6,Fast Food,12,Mon,Medium,29,40.3
+1078,2,Fast Food,19,Fri,Medium,15,22.9
+1034,6,Italian,10,Fri,Low,21,34.3
+1082,7,South Indian,8,Mon,Medium,30,39.6
+1098,2,Indian,14,Tue,Low,28,37.2
+1075,1,Chinese,13,Wed,High,11,30.3
+1076,6,Chinese,17,Sat,Medium,22,45.6
+1049,6,Chinese,22,Thu,Medium,29,42.7
+1079,7,Chinese,14,Sun,Medium,20,43.9
+1057,6,Indian,22,Tue,Medium,24,44.0
+1095,4,Indian,21,Fri,Medium,22,41.5
+1093,1,Italian,9,Sun,Medium,12,21.9
+1026,3,South Indian,20,Mon,Medium,23,36.2
+1018,1,Indian,19,Wed,Low,17,24.1
+1096,4,Italian,11,Sun,Low,18,27.4
+1086,7,Fast Food,9,Mon,Medium,24,36.0
+1038,7,South Indian,15,Fri,High,27,48.5
+1081,2,Indian,14,Mon,Low,17,28.7
+1087,1,Fast Food,8,Sat,Low,20,17.7
+1088,8,Italian,9,Sun,Low,14,36.4
+1050,8,Indian,9,Sun,High,24,47.5
+1008,7,Indian,11,Wed,High,24,49.2
+1041,6,Fast Food,10,Mon,Medium,16,24.2
+1006,7,Indian,8,Wed,High,30,51.0
+1069,7,Chinese,19,Sun,Medium,27,50.6
+1044,7,Indian,21,Mon,High,21,44.8
+1064,7,South Indian,9,Mon,Low,21,33.7
+1029,8,Fast Food,23,Wed,Low,13,27.2
+1028,8,South Indian,18,Sat,Medium,20,38.5
+1011,3,Italian,16,Mon,Medium,30,47.5
+1065,3,South Indian,20,Sat,Medium,15,28.8
+1019,2,Chinese,8,Tue,Medium,30,36.3
+1009,7,Chinese,16,Thu,Medium,19,39.7
+1027,8,South Indian,14,Tue,Low,24,38.8
+1034,1,Italian,9,Thu,Low,10,12.1
+1044,4,Indian,9,Tue,High,26,49.4
+1068,2,Chinese,12,Thu,High,12,21.1
+1100,8,South Indian,20,Mon,High,20,49.2
+1082,1,South Indian,12,Wed,Medium,27,33.3
+1015,7,South Indian,11,Wed,Medium,19,28.8
+1051,5,Indian,19,Fri,Medium,30,48.2
+1013,7,Fast Food,17,Thu,Low,18,32.7
+1083,3,Italian,17,Fri,Low,16,23.1
+1049,4,Fast Food,20,Sat,Low,20,31.4
+1070,8,Italian,19,Sat,High,17,50.1
+1056,8,Italian,10,Fri,Low,11,32.5
+1076,6,South Indian,11,Thu,High,14,29.9
+1051,4,Chinese,17,Wed,Medium,18,27.2
+1037,6,South Indian,11,Thu,Medium,10,23.5
+1017,4,Indian,9,Sat,Low,26,39.9
+1058,3,Italian,12,Mon,Low,19,25.9
+1087,6,Chinese,22,Fri,High,17,37.3
+1090,1,Italian,12,Fri,Low,27,28.1
+1029,6,Italian,12,Sat,Low,19,35.6
+1033,2,South Indian,18,Thu,Low,18,14.9
+1060,1,Chinese,22,Fri,Low,13,13.2
+1091,2,Chinese,18,Wed,Low,11,12.1
+1089,7,Italian,17,Fri,Medium,28,42.3
+1055,4,Chinese,8,Thu,Medium,19,24.9
+1010,1,Chinese,13,Sat,Medium,26,40.5
+1047,4,South Indian,18,Wed,Low,12,19.5
+1023,7,Fast Food,9,Wed,High,30,47.9
+1085,5,Indian,14,Fri,High,28,55.8
+1021,8,Fast Food,11,Thu,Low,28,40.7
+1013,4,Chinese,22,Fri,Medium,28,33.1
+1033,7,Italian,12,Sun,Low,28,46.5
+1024,4,Indian,12,Mon,High,24,42.7
+1011,7,Indian,12,Sat,Medium,27,49.1
+1017,2,Italian,9,Sun,High,26,42.2
+1068,7,Indian,12,Mon,Low,19,31.9
+1047,6,Italian,10,Wed,Medium,23,40.4
+1025,5,Indian,11,Fri,Low,28,36.1
+1094,4,Fast Food,20,Mon,Medium,27,41.5
+1073,7,Indian,9,Tue,Medium,20,37.1
+1021,7,South Indian,11,Mon,Low,20,25.5
+1084,4,Italian,20,Fri,Medium,21,38.5
+1083,8,Indian,16,Fri,Medium,17,33.9
+1083,5,Italian,15,Sat,High,25,43.4
+1012,5,South Indian,20,Mon,Low,17,32.1
+1037,7,Indian,21,Fri,High,23,54.4
+1042,1,Indian,22,Fri,High,27,39.5
+1017,2,South Indian,18,Sun,High,30,38.6
+1048,5,South Indian,19,Sat,High,13,39.6
+1028,5,South Indian,10,Sun,High,26,45.0
+1041,3,Italian,8,Sat,Medium,22,39.5
+1099,6,South Indian,8,Sat,Low,14,32.7
+1047,5,Italian,13,Sun,Medium,12,29.5
+1018,2,Fast Food,10,Sat,Medium,18,31.0
+1078,6,Indian,11,Tue,High,29,46.1
+1099,6,Indian,8,Wed,Medium,27,42.2
+1071,4,Chinese,15,Fri,Low,29,39.3
+1013,4,Fast Food,8,Thu,Medium,28,32.0
+1082,4,South Indian,12,Sat,High,28,43.8
+1013,4,South Indian,13,Wed,Low,30,36.1
+1100,3,Fast Food,22,Sat,Medium,25,28.4
+1031,5,South Indian,9,Wed,Medium,10,19.6
+1002,4,Chinese,14,Thu,Low,14,28.5
+1016,7,Italian,23,Mon,Low,24,42.6
+1009,1,Indian,14,Tue,Medium,21,31.5
+1073,4,Fast Food,23,Fri,High,10,20.0
+1038,5,Indian,8,Mon,Low,23,31.0
+1075,4,Italian,11,Sun,Medium,27,37.6
+1054,3,Fast Food,19,Thu,High,27,36.8
+1056,2,Italian,20,Tue,High,15,29.8
+1086,2,South Indian,23,Tue,High,10,21.4
+1097,5,South Indian,11,Tue,Medium,26,36.1
+1100,7,South Indian,12,Thu,High,27,46.5
+1087,2,Italian,8,Sat,Low,24,32.8
+1045,8,Italian,8,Sat,Medium,21,43.1
+1034,2,Italian,14,Sun,Medium,22,35.1
+1009,1,Indian,16,Sat,Low,29,38.7
+1088,5,Italian,8,Mon,Medium,11,18.9
+1008,7,South Indian,23,Fri,Low,13,22.3
+1007,5,Chinese,9,Tue,High,12,35.2
+1036,2,Italian,13,Sun,Medium,28,45.6
+1018,2,Chinese,22,Sun,Medium,17,22.2
+1003,2,South Indian,22,Tue,Low,21,18.9
+1028,6,Italian,13,Mon,Low,21,36.8
+1070,3,Indian,9,Sat,High,19,36.9
+1044,4,Indian,16,Tue,High,10,30.3
+1021,8,Chinese,11,Tue,High,14,40.8
+1028,3,Indian,20,Thu,Low,29,39.9
+1054,5,Indian,14,Wed,Low,20,35.7
+1054,8,Indian,13,Sun,Medium,18,43.3
+1065,1,South Indian,18,Mon,Medium,23,27.3
+1100,4,Indian,20,Mon,Low,12,23.1
+1021,1,Fast Food,18,Sat,Medium,14,17.9
+1099,7,Italian,10,Mon,Medium,30,45.7
+1013,6,Indian,15,Sat,Low,18,35.7
+1057,5,Indian,14,Thu,Medium,27,50.1
+1049,6,Indian,16,Thu,Medium,15,35.7
+1054,5,Fast Food,23,Fri,Medium,30,38.1
+1010,1,Indian,10,Sat,Medium,16,28.6
+1053,1,Indian,8,Sun,Medium,25,34.3
+1044,1,Italian,9,Thu,Low,17,17.3
+1047,5,Fast Food,19,Sat,High,19,35.9
+1053,2,Fast Food,18,Sun,High,14,25.7
+1074,1,Indian,22,Sun,Medium,20,24.6
+1046,6,Fast Food,19,Mon,Low,30,43.4
+1013,7,Chinese,8,Fri,Medium,22,37.5
+1037,4,Fast Food,18,Wed,Medium,29,34.3
+1024,5,Fast Food,12,Tue,High,11,26.0
+1002,8,Fast Food,23,Tue,High,23,35.9
+1086,6,South Indian,22,Fri,High,18,36.1
+1081,3,South Indian,17,Sat,Low,19,31.1
+1100,7,South Indian,21,Sat,High,19,46.7
+1014,3,Fast Food,9,Sat,Medium,19,22.4
+1010,4,Chinese,23,Wed,High,28,43.2
+1035,2,Fast Food,10,Sun,Medium,20,29.5
+1025,1,Indian,15,Tue,Medium,20,25.5
+1003,5,Chinese,22,Fri,Medium,12,20.4
+1017,6,South Indian,17,Sat,Low,28,39.4
+1012,8,Italian,21,Thu,Medium,10,30.2
+1054,1,Chinese,12,Mon,High,21,25.0
+1024,6,South Indian,11,Wed,Low,24,36.1
+1029,5,Chinese,23,Sat,Low,23,38.1
+1043,3,Chinese,12,Tue,Low,12,18.7
+1025,1,Fast Food,17,Mon,Medium,29,32.5
+1100,4,Indian,13,Fri,High,22,44.0
+1060,2,Italian,19,Sat,Low,27,43.7
+1090,4,South Indian,14,Tue,Low,25,34.3
+1065,2,Chinese,21,Mon,High,15,32.6
+1084,7,Italian,20,Thu,High,19,44.1
+1028,6,Chinese,16,Wed,Low,26,32.6
+1016,1,Indian,8,Fri,High,26,36.9
+1047,1,Italian,11,Tue,Medium,17,30.5
+1081,7,South Indian,23,Sun,High,13,41.2
+1092,2,Chinese,19,Thu,Medium,24,38.9
+1058,3,Indian,19,Wed,High,10,30.1
+1076,5,Italian,16,Wed,Low,16,24.6
+1027,4,Chinese,12,Sun,Low,19,34.3
+1053,7,Chinese,15,Thu,Medium,16,32.7
+1042,8,South Indian,19,Tue,Medium,10,34.8
+1059,8,Indian,8,Wed,High,26,49.7
+1047,6,Fast Food,11,Fri,Medium,21,29.9
+1094,7,Chinese,19,Mon,Low,26,45.9
+1034,4,Italian,23,Fri,Medium,24,34.0
+1037,4,South Indian,23,Sat,Medium,25,39.2
+1006,6,South Indian,21,Wed,High,23,44.7
+1007,6,Chinese,19,Mon,Medium,12,33.3
+1096,1,Chinese,16,Thu,Medium,28,31.6
+1096,4,Chinese,20,Mon,Medium,21,42.5
+1025,5,Fast Food,8,Mon,High,28,40.8
+1033,8,Chinese,8,Sun,Medium,27,50.7
+1055,5,Indian,11,Mon,Low,23,33.9
+1058,2,Italian,21,Wed,High,29,46.1
+1007,7,Chinese,10,Sun,Medium,18,39.3
+1057,6,Fast Food,14,Sun,Medium,12,33.3
+1012,1,Italian,18,Sat,High,21,31.5
+1016,5,South Indian,10,Sat,High,29,49.4
+1080,3,Chinese,8,Sun,High,26,43.1
+1043,8,Italian,19,Sun,High,14,47.0
+1100,1,South Indian,23,Tue,Low,17,21.9
+1077,1,Fast Food,22,Sat,Medium,28,34.2
+1007,5,Indian,18,Wed,Medium,13,31.5
+1100,3,Chinese,17,Tue,Medium,24,34.2
+1051,2,Indian,9,Thu,High,28,41.3
+1073,5,Fast Food,17,Thu,High,24,29.7
+1032,3,Italian,20,Thu,Medium,23,42.6
+1075,1,Italian,11,Thu,High,25,29.3
+1008,8,Fast Food,8,Thu,Low,19,33.2
+1097,3,Fast Food,8,Fri,Medium,23,29.6
+1087,1,Chinese,19,Sun,Medium,29,48.7
+1089,7,South Indian,21,Wed,Medium,20,41.4
+1072,5,Indian,15,Tue,Low,11,23.5
+1045,6,Indian,14,Thu,High,28,54.2
+1086,5,Italian,21,Fri,Medium,12,31.2
+1059,7,Italian,15,Sat,High,13,36.4
+1004,4,Chinese,20,Fri,Medium,20,35.8
+1067,4,Fast Food,11,Fri,Low,22,21.7
+1029,4,Indian,13,Wed,Medium,27,45.3
+1029,5,Chinese,22,Thu,Medium,27,39.9
+1098,2,Italian,20,Fri,High,28,46.5
+1098,5,Italian,10,Sun,Low,21,33.7
+1028,8,Indian,18,Fri,High,10,33.5
+1077,7,Italian,20,Thu,High,15,44.3
+1079,8,Italian,15,Wed,High,12,37.3
+1087,7,South Indian,11,Fri,Medium,26,42.4
+1044,6,Fast Food,10,Tue,High,12,24.0
+1090,3,Italian,11,Mon,Medium,10,22.4
+1004,5,South Indian,13,Sat,Low,12,25.7
+1090,5,Chinese,18,Mon,Low,13,20.4
+1009,1,Italian,14,Mon,High,15,32.1
+1005,7,Chinese,14,Wed,Low,16,37.1
+1056,1,Italian,21,Fri,Medium,17,25.2
+1096,1,Indian,22,Mon,Low,22,22.8
+1084,5,South Indian,19,Mon,Low,13,20.1
+1050,2,South Indian,23,Sat,Low,15,22.1
+1075,3,Indian,11,Thu,High,20,35.4
+1015,3,Fast Food,15,Sun,Medium,10,18.7
+1032,8,South Indian,14,Sun,High,17,48.4
+1028,7,Chinese,9,Fri,Medium,11,30.0
+1022,6,South Indian,20,Fri,High,17,40.8
+1017,7,Fast Food,15,Sat,Medium,29,41.5
+1059,2,Chinese,16,Thu,Medium,18,26.3
+1090,2,Chinese,12,Fri,Medium,13,21.8
+1071,3,Indian,22,Sun,Medium,26,39.4
+1057,4,Italian,11,Sun,High,16,36.5
+1026,1,Indian,23,Tue,Medium,19,22.8
+1025,1,Italian,11,Sat,High,14,25.0
+1010,3,Indian,20,Wed,High,19,35.4
+1045,7,Italian,23,Thu,Low,21,35.5
+1083,2,South Indian,11,Sat,Medium,30,41.8
+1011,7,Chinese,13,Mon,Low,29,42.3
+1077,6,Italian,18,Fri,Medium,15,31.3
+1053,4,South Indian,11,Tue,Medium,10,21.5
+1072,3,Fast Food,23,Sun,High,12,23.2
+1068,1,Indian,14,Tue,Low,16,29.6
+1095,5,Fast Food,14,Wed,Low,20,24.6
+1028,7,South Indian,12,Sat,Low,21,34.5
+1075,2,Fast Food,20,Tue,Medium,18,16.9
+1065,5,Fast Food,12,Sat,High,10,27.0
+1049,6,South Indian,22,Fri,High,13,29.6
+1047,3,Chinese,17,Fri,Medium,11,14.5
+1052,7,Italian,15,Sun,High,11,38.4
+1088,1,Indian,14,Tue,Medium,26,38.3
+1054,7,Italian,21,Fri,Low,30,47.7
+1060,4,Indian,14,Sat,Low,11,31.6
+1057,8,Italian,13,Sun,High,13,43.1
+1047,5,Fast Food,14,Fri,Medium,20,34.9
+1031,4,Chinese,14,Sun,Medium,28,49.6
+1046,6,Fast Food,17,Mon,Medium,22,30.1
+1026,1,Chinese,21,Sat,Medium,30,43.8
+1005,5,South Indian,9,Sun,High,27,52.0
+1084,6,Indian,21,Thu,Low,28,42.8
+1052,4,Indian,17,Fri,High,24,43.9
+1075,4,South Indian,9,Fri,Medium,21,31.4
+1054,8,Italian,21,Sat,Low,20,47.2
+1033,5,South Indian,17,Wed,Medium,10,21.9
+1050,1,South Indian,14,Thu,Medium,25,36.9
+1038,4,Chinese,21,Sun,Medium,22,36.4
+1027,3,South Indian,17,Thu,Medium,15,17.0
+1098,8,Indian,14,Sun,Medium,15,40.3
+1015,6,Fast Food,14,Thu,High,19,37.5
+1096,5,Chinese,12,Tue,Medium,11,22.9
+1061,2,Chinese,8,Mon,Low,12,18.9
+1021,2,Italian,21,Mon,Medium,15,27.4
+1046,1,Fast Food,9,Wed,Medium,25,25.9
+1069,3,Chinese,20,Thu,Low,15,25.8
+1006,4,South Indian,16,Thu,High,22,35.3
+1038,2,Chinese,15,Fri,Medium,13,20.5
+1062,1,Chinese,15,Sun,High,24,41.0
+1086,6,Chinese,17,Sat,High,15,38.7
+1062,8,Italian,23,Tue,Medium,10,31.2
+1082,3,Chinese,8,Tue,Medium,18,28.4
+1078,3,Chinese,13,Wed,Medium,21,40.3
+1074,7,Italian,22,Mon,Medium,20,34.4
+1046,1,Fast Food,22,Thu,High,22,35.3
+1013,1,Indian,16,Sat,High,10,28.8
+1095,7,Italian,23,Wed,Low,28,45.1
+1094,8,Italian,22,Sun,Medium,30,56.3
+1003,4,Chinese,15,Tue,High,13,32.3
+1094,1,Chinese,10,Tue,Medium,14,15.9
+1006,7,Indian,11,Tue,High,26,46.2
+1093,4,Chinese,22,Thu,High,14,32.3
+1008,8,South Indian,10,Thu,Medium,28,47.1
+1044,4,Chinese,13,Thu,Medium,12,30.9
+1033,5,Chinese,21,Fri,Medium,20,38.1
+1081,3,South Indian,16,Mon,Medium,11,15.4
+1075,6,Indian,22,Sun,Medium,23,42.5
+1077,3,South Indian,15,Tue,Medium,15,25.6
+1050,3,Italian,22,Tue,High,28,42.6
+1011,5,South Indian,23,Fri,Low,10,18.0
+1095,4,Fast Food,23,Tue,Low,16,18.3
+1028,4,Italian,22,Sun,Low,11,20.6
+1070,1,Chinese,23,Tue,Medium,28,31.4
+1041,5,Italian,20,Thu,Medium,10,35.3
+1016,1,Indian,17,Thu,Medium,18,30.5
+1068,5,Indian,11,Mon,Low,30,44.2
+1099,1,South Indian,22,Sun,Medium,26,35.0
+1048,2,Italian,9,Sun,Medium,19,27.6
+1056,7,Chinese,20,Tue,Medium,15,39.3
+1064,3,Indian,15,Wed,Medium,12,26.7
+1059,3,Chinese,15,Tue,Low,29,33.4
+1090,8,Fast Food,21,Tue,High,24,44.2
+1062,6,Indian,19,Mon,Low,30,49.1
+1076,7,South Indian,18,Wed,Medium,29,47.8
+1011,4,Fast Food,13,Tue,High,15,29.3
+1089,6,Italian,21,Sat,Medium,12,37.4
+1018,2,Chinese,15,Sat,High,19,31.9
+1019,8,Indian,16,Sun,Low,21,37.0
+1087,6,Fast Food,20,Sun,Medium,10,28.4
+1055,8,Fast Food,8,Wed,Medium,25,36.0
+1082,3,Indian,16,Sat,Low,26,37.7
+1026,4,Italian,9,Thu,Medium,19,26.4
+1006,2,Italian,21,Thu,Medium,21,32.0
+1004,3,South Indian,23,Wed,Medium,28,39.5
+1029,7,Italian,20,Tue,High,17,46.7
+1059,1,South Indian,8,Sun,Low,17,22.1
+1098,5,Fast Food,23,Wed,Medium,19,25.7
+1017,2,Indian,15,Sat,Medium,19,31.6
+1043,4,Italian,15,Wed,Medium,27,38.5
+1080,8,South Indian,18,Sat,High,19,51.4
+1066,6,Fast Food,11,Sun,Medium,16,29.7
+1034,7,Italian,15,Thu,Low,13,24.3
+1008,6,Chinese,14,Wed,Medium,10,29.6
+1013,2,Fast Food,20,Sun,High,20,30.6
+1008,7,Italian,9,Sun,Medium,28,42.9
+1094,4,Fast Food,12,Fri,Medium,14,24.6
+1096,2,Indian,21,Sat,Low,17,31.4
+1100,4,Indian,17,Fri,Low,11,18.8
+1094,6,Indian,11,Thu,Low,11,23.7
+1065,3,Chinese,23,Sun,Medium,23,35.1
+1043,7,Indian,10,Sun,High,18,44.8
+1039,1,Chinese,8,Tue,Medium,19,28.2
+1081,3,Indian,12,Sat,Low,22,34.0
+1059,1,Fast Food,17,Tue,Low,10,8.0
+1084,6,Italian,15,Thu,Medium,23,33.6
+1088,8,Italian,19,Tue,Medium,11,32.4
+1086,7,Indian,16,Sun,Medium,13,36.9
+1093,3,Italian,14,Sat,Medium,28,51.1
+1086,3,Indian,19,Mon,Medium,10,23.8
+1044,2,Indian,18,Sat,Low,13,18.5
+1009,5,South Indian,8,Sat,Low,20,29.7
+1037,6,South Indian,8,Fri,Low,22,37.2
+1074,4,South Indian,22,Mon,Low,27,33.6
+1036,6,Chinese,23,Mon,Low,19,27.5
+1092,4,South Indian,8,Mon,Medium,14,23.1
+1028,7,Indian,9,Sat,High,10,35.0
+1042,4,Fast Food,8,Thu,Medium,23,31.3
+1043,8,South Indian,11,Mon,Medium,25,48.3
+1085,1,South Indian,17,Wed,High,27,37.2
+1088,4,Fast Food,16,Tue,Low,12,17.5
+1042,4,Indian,19,Thu,High,12,31.2
+1066,2,Chinese,11,Wed,Medium,13,27.6
+1055,3,South Indian,20,Sat,Medium,16,28.4
+1072,6,Fast Food,11,Sat,Medium,22,38.4
+1048,6,Indian,14,Wed,Low,18,36.8
+1091,7,Italian,21,Fri,High,12,35.8
+1022,7,Chinese,18,Fri,Low,26,41.1
+1027,8,Fast Food,16,Wed,Medium,24,37.3
+1093,4,Fast Food,14,Fri,Medium,19,27.5
+1067,5,Fast Food,8,Tue,Low,24,28.0
+1013,6,South Indian,8,Tue,Low,10,14.9
+1045,7,Italian,11,Sat,Low,30,45.2
+1010,4,Chinese,11,Fri,Low,19,23.3
+1100,7,Indian,8,Mon,High,16,39.1
+1009,8,Indian,13,Wed,Medium,16,36.2
+1054,1,Italian,17,Tue,Low,12,9.4
+1027,1,Fast Food,9,Sun,Medium,16,17.3
+1034,7,Fast Food,18,Fri,High,18,34.5
+1001,1,Fast Food,12,Sun,Low,17,13.9
+1032,7,Fast Food,15,Fri,Low,12,21.0
+1089,4,Fast Food,22,Tue,High,14,27.3
+1093,2,Italian,10,Tue,Low,22,24.1
+1071,5,South Indian,23,Mon,Medium,22,38.2
+1067,4,Chinese,16,Fri,Low,17,23.3
+1084,2,Fast Food,14,Fri,High,27,45.1
+1020,2,South Indian,16,Thu,High,16,26.8
+1094,6,Indian,8,Sat,High,19,40.4
+1035,4,Italian,12,Mon,Medium,19,34.9
+1099,4,South Indian,19,Tue,Medium,20,32.1
+1091,7,Fast Food,20,Sun,Low,21,40.0
+1090,2,Fast Food,10,Tue,High,22,30.0
+1078,2,Fast Food,11,Wed,High,17,22.9
+1017,2,South Indian,11,Sat,Medium,26,33.3
+1018,7,Fast Food,18,Tue,Medium,23,34.3
+1045,6,South Indian,19,Fri,Low,26,42.8
+1093,4,Fast Food,14,Tue,Medium,28,39.1
+1084,2,Indian,17,Fri,Medium,25,39.0
+1053,1,Indian,18,Fri,Medium,18,22.3
+1091,4,Chinese,15,Mon,Medium,29,39.9
+1082,7,Fast Food,18,Tue,Low,19,29.9
+1068,6,Fast Food,17,Mon,High,18,29.2
+1065,1,South Indian,12,Sun,High,10,25.9
+1001,7,South Indian,20,Sun,High,12,40.7
+1058,3,Fast Food,20,Sat,Medium,20,32.7
+1026,4,Chinese,19,Fri,Medium,16,31.2
+1020,3,Fast Food,17,Sun,Low,27,26.8
+1087,7,South Indian,14,Sat,High,22,50.4
+1010,7,Fast Food,10,Tue,Medium,27,36.9
+1059,7,South Indian,10,Sat,Medium,25,48.2
+1075,2,Fast Food,10,Sat,Medium,25,32.1
+1041,6,Italian,19,Tue,High,30,55.9
+1005,2,South Indian,11,Mon,Low,19,25.6
+1065,6,Chinese,13,Mon,Low,18,33.6
+1017,5,Italian,22,Fri,Medium,17,33.1
+1022,2,Fast Food,12,Fri,High,28,39.1
+1098,3,South Indian,15,Tue,Medium,12,19.6
+1041,6,Italian,21,Tue,Medium,18,40.1
+1093,2,Chinese,21,Thu,Medium,11,22.3
+1068,4,South Indian,19,Thu,Medium,28,46.6
+1069,7,Italian,20,Wed,Medium,17,39.5
+1011,6,Italian,12,Sun,Medium,27,49.9
+1056,6,Italian,18,Fri,Low,17,29.4
+1051,2,Indian,19,Sat,High,14,44.2
+1021,5,Fast Food,12,Sun,Medium,15,23.9
+1099,2,South Indian,23,Wed,High,19,33.2
+1076,8,South Indian,21,Sun,Low,24,45.3
+1026,3,South Indian,17,Wed,Medium,13,20.7
+1019,3,Italian,9,Mon,High,12,21.7
+1060,6,Fast Food,19,Sat,Low,18,32.0
+1071,6,Chinese,18,Mon,Medium,25,36.9
+1047,2,South Indian,18,Thu,Medium,25,30.7
+1071,3,Fast Food,12,Wed,High,24,30.6
+1026,3,Fast Food,23,Sun,Low,18,19.0
+1040,5,Indian,22,Thu,Low,26,33.8
+1005,4,South Indian,19,Sat,High,30,50.0
+1021,5,Italian,14,Sat,Medium,21,38.2
+1078,8,Fast Food,9,Fri,Low,17,27.5
+1004,1,Fast Food,21,Tue,Low,23,24.9
+1023,7,Chinese,20,Mon,High,27,55.7
+1084,5,Indian,13,Fri,Low,21,35.8
+1015,8,Fast Food,14,Sun,Medium,23,42.4
+1093,2,Fast Food,12,Fri,Medium,29,31.3
+1008,4,Italian,16,Sun,High,14,36.3
+1041,2,Italian,21,Mon,High,10,29.5
+1019,7,Chinese,11,Mon,Medium,22,38.6
+1046,8,Chinese,21,Sat,Low,23,47.4
+1028,1,Chinese,21,Sat,High,11,29.8
+1091,4,Italian,20,Wed,Medium,25,40.4
+1068,6,Italian,17,Thu,High,14,37.5
+1015,3,Indian,22,Sat,Medium,10,20.7
+1099,5,South Indian,8,Fri,Medium,21,28.7
+1037,8,South Indian,21,Wed,Low,28,46.3
+1001,2,Indian,15,Sun,Medium,19,31.9
+1067,1,South Indian,22,Wed,Medium,21,26.5
+1024,3,Italian,15,Fri,Medium,28,37.4
+1027,5,South Indian,14,Sat,Low,25,45.1
+1040,3,Italian,15,Sun,Low,26,30.9
+1063,5,Indian,9,Fri,Low,22,33.4
+1061,8,Chinese,10,Tue,Medium,16,36.7
+1036,6,Indian,16,Sat,High,12,41.0
+1098,4,South Indian,8,Thu,Medium,14,28.2
+1093,8,Italian,23,Sun,Medium,13,32.1
+1024,3,South Indian,15,Fri,Low,24,29.5
+1024,3,South Indian,15,Sat,Medium,26,36.8
+1004,3,Chinese,14,Mon,Medium,21,35.3
+1067,4,South Indian,20,Tue,High,23,46.6
+1034,1,Chinese,21,Sun,High,13,37.5
+1057,5,Italian,18,Sun,Medium,26,43.8
+1049,8,Italian,23,Thu,High,20,38.4
+1087,8,Chinese,12,Sat,Low,15,27.4
+1053,6,Indian,11,Mon,Medium,13,29.7
+1023,3,Italian,17,Sat,Low,22,34.4
+1069,7,Indian,17,Mon,Medium,29,45.2
+1095,8,Italian,20,Thu,Low,24,43.8
+1053,4,Italian,22,Tue,Medium,27,44.1
+1062,1,Fast Food,17,Sun,Medium,26,28.6
+1041,8,South Indian,21,Mon,High,28,60.7
+1057,5,South Indian,17,Wed,Medium,19,29.7
+1060,4,Indian,13,Thu,Low,14,30.9
+1054,6,South Indian,19,Thu,Medium,21,40.0
+1070,6,Indian,23,Fri,High,24,48.1
+1057,5,Italian,18,Tue,High,13,38.0
+1010,3,Fast Food,8,Wed,Medium,17,22.7
+1040,6,Fast Food,20,Wed,High,29,52.6
+1007,1,Italian,12,Fri,High,26,35.1
+1038,4,Chinese,21,Mon,Low,15,24.4
+1085,8,Chinese,11,Mon,Low,25,34.5
+1061,1,South Indian,11,Wed,Low,14,11.6
+1084,3,Indian,14,Tue,Medium,23,44.0
+1003,1,Fast Food,16,Mon,Medium,11,12.8
+1051,1,South Indian,15,Thu,High,26,35.0
+1086,2,Italian,18,Sat,Medium,15,27.2
+1047,1,Fast Food,20,Fri,Medium,20,27.8
+1068,5,Indian,21,Tue,Medium,11,33.3
+1092,4,Indian,19,Mon,Low,10,24.9
+1076,2,Chinese,15,Sat,Low,14,24.7
+1038,4,South Indian,12,Wed,Medium,17,24.3
+1036,4,Italian,13,Fri,Medium,13,29.1
+1041,3,Fast Food,9,Mon,High,28,40.9
+1069,3,Indian,23,Wed,Medium,14,28.3
+1013,2,Fast Food,20,Mon,High,14,27.7
+1087,6,Italian,18,Fri,Medium,25,39.2
+1058,7,Fast Food,23,Thu,Medium,27,41.0
+1050,3,South Indian,21,Sun,Medium,20,33.7
+1030,7,Chinese,10,Thu,Low,26,42.1
+1062,3,Fast Food,12,Sun,Low,12,20.0
+1025,3,Chinese,9,Sat,Low,27,33.7
+1027,4,Italian,10,Wed,Medium,13,33.0
+1051,2,Chinese,11,Sun,Medium,28,35.6
+1078,4,Fast Food,13,Thu,Low,18,24.6
+1057,8,Fast Food,12,Fri,Medium,14,26.8
+1047,5,Indian,17,Wed,Low,13,23.7
+1100,4,Fast Food,11,Mon,High,25,40.5
+1039,7,Chinese,20,Sun,High,19,49.9
+1016,7,Indian,23,Sun,High,18,42.1
+1022,5,Fast Food,22,Tue,Medium,25,33.3
+1085,1,Fast Food,9,Sun,Low,29,30.8
+1054,1,Italian,19,Sun,High,26,47.4
+1021,5,Indian,18,Mon,Low,27,41.7
+1072,5,Italian,12,Fri,Low,24,34.3
+1016,4,Italian,12,Sat,Low,29,42.6
+1059,5,Italian,18,Wed,Medium,18,31.6
+1031,8,South Indian,14,Mon,Medium,15,35.5
+1042,2,Italian,8,Wed,Medium,15,20.2
+1074,1,Chinese,11,Thu,Medium,20,30.5
+1032,1,Fast Food,18,Tue,Low,29,21.3
+1059,8,South Indian,23,Fri,High,12,35.2
+1034,6,Italian,12,Mon,Medium,21,38.0
+1009,8,Fast Food,15,Tue,Medium,24,34.5
+1081,8,Indian,19,Sun,Medium,16,47.1
+1011,5,Indian,22,Fri,Low,27,33.9
+1096,3,Fast Food,19,Fri,Low,24,27.7
+1010,3,Chinese,23,Sat,Medium,17,32.3
+1086,8,Fast Food,15,Thu,Low,18,23.5
+1017,5,Fast Food,8,Sat,Low,24,33.5
+1068,2,South Indian,12,Sat,High,25,42.9
+1048,3,Indian,17,Wed,Medium,29,43.6
+1052,6,Indian,8,Wed,Medium,12,29.9
+1025,7,Italian,8,Sun,Medium,14,32.1
+1021,5,Fast Food,9,Tue,High,12,22.0
+1065,8,Fast Food,9,Thu,Low,11,18.9
+1063,2,Chinese,22,Fri,High,11,14.4
+1089,2,Indian,22,Sun,Medium,13,25.7
+1051,4,Chinese,16,Thu,Low,12,18.9
+1036,2,South Indian,11,Thu,Low,18,20.8
+1081,3,Italian,10,Tue,Medium,21,30.7
+1088,8,Chinese,18,Wed,Medium,18,36.9
+1066,7,Indian,8,Thu,Low,28,42.8
+1015,3,South Indian,19,Thu,Medium,21,30.0
+1096,5,Fast Food,9,Thu,Medium,25,33.8
+1039,7,South Indian,13,Mon,Medium,10,30.5
+1070,5,Chinese,16,Thu,High,19,31.8
+1001,2,Indian,12,Thu,High,19,36.3
+1023,6,Chinese,11,Fri,Medium,13,26.9
+1039,1,Fast Food,20,Sat,High,20,35.7
+1057,7,Fast Food,12,Mon,Low,20,27.5
+1081,8,Indian,16,Thu,Low,20,31.1
+1034,4,Italian,19,Sat,Medium,15,36.0
+1041,1,South Indian,20,Thu,Medium,24,35.3
+1093,2,South Indian,14,Tue,Medium,11,26.1
+1073,2,Fast Food,15,Tue,Medium,30,35.4
+1013,8,Chinese,22,Sat,Low,12,33.0
+1070,1,Chinese,11,Mon,Low,14,18.0
+1006,4,Italian,18,Fri,High,20,35.7
+1084,7,Chinese,15,Mon,High,30,50.2
+1052,7,South Indian,13,Mon,Medium,21,44.6
+1003,1,Chinese,12,Tue,Medium,12,16.6
+1081,5,Italian,20,Tue,Medium,18,38.6
+1063,3,South Indian,19,Fri,Low,12,26.5
+1049,6,Chinese,14,Sun,Medium,11,31.9
+1076,5,South Indian,13,Sun,Medium,15,37.2
+1047,7,Fast Food,10,Sun,Medium,15,27.2
+1055,3,Fast Food,12,Thu,Low,26,28.2
+1064,6,Fast Food,16,Fri,High,17,36.6
+1065,6,Chinese,14,Thu,High,10,38.8
+1081,6,Italian,19,Sat,Low,17,35.6
+1067,2,South Indian,11,Sat,Medium,24,38.3
+1090,8,Indian,14,Wed,High,27,56.7
+1015,6,Fast Food,12,Sun,Low,22,37.7
+1100,4,Fast Food,18,Tue,Medium,17,23.3
+1032,1,Indian,20,Wed,Medium,29,43.8
+1096,7,Indian,22,Wed,Medium,27,47.5
+1068,4,Chinese,23,Tue,High,22,34.9
+1018,1,South Indian,9,Wed,Medium,23,31.9
+1083,5,Fast Food,20,Sun,Low,24,36.7
+1043,8,Italian,13,Mon,Low,15,33.7
+1035,5,Chinese,23,Thu,Low,10,16.7
+1078,1,Chinese,14,Sun,Medium,16,28.0
+1058,4,Italian,15,Fri,Medium,10,22.0
+1033,1,Italian,13,Tue,Low,24,28.6
+1014,6,Italian,15,Mon,Medium,15,28.4
+1034,2,Indian,23,Sat,Medium,14,21.4
+1061,7,Fast Food,14,Fri,Low,21,31.2
+1004,5,Indian,9,Fri,Medium,12,31.1
+1088,7,Fast Food,21,Fri,Medium,29,49.2
+1059,2,Indian,13,Wed,Medium,23,38.4
+1029,6,South Indian,16,Wed,Medium,15,35.1
+1083,6,Fast Food,19,Wed,Medium,13,31.4
+1006,5,Chinese,13,Sun,High,24,51.3
+1097,5,Fast Food,11,Wed,Medium,26,35.6
+1049,6,Fast Food,14,Mon,Medium,14,29.1
+1040,3,Fast Food,10,Wed,Medium,15,15.6
+1083,7,South Indian,12,Tue,Low,19,29.8
+1065,8,Indian,8,Fri,Medium,18,30.6
+1069,2,Chinese,22,Mon,Medium,13,17.3
+1027,7,Indian,17,Sat,Low,18,39.8
+1080,2,Indian,10,Wed,Medium,17,26.8
+1006,3,Italian,15,Sat,Low,12,18.2
+1013,8,South Indian,16,Fri,Medium,29,48.0
+1064,4,Italian,16,Mon,Low,10,20.0
+1062,2,South Indian,22,Fri,Low,29,36.2
+1099,7,Indian,17,Sat,High,14,45.9
+1019,1,Indian,9,Sun,High,12,30.1
+1076,8,South Indian,11,Mon,Low,13,21.9
+1080,6,Indian,12,Thu,Medium,28,51.6
+1043,6,Indian,22,Sun,Low,24,43.9
+1074,3,Chinese,10,Mon,Medium,28,39.9
+1089,2,Italian,20,Wed,Medium,25,38.5
+1020,4,Italian,18,Sat,Low,17,23.6
+1095,2,Italian,8,Fri,Medium,23,29.9
+1068,6,Fast Food,13,Fri,Low,14,24.6
+1044,5,Chinese,21,Fri,Low,10,22.8
+1023,1,Italian,22,Tue,High,28,43.1
+1002,8,Italian,17,Tue,Medium,14,33.2
+1022,3,Chinese,9,Wed,Medium,12,19.1
+1057,5,Indian,23,Thu,Medium,26,42.5
+1072,7,Italian,16,Tue,Medium,16,31.1
+1007,4,Indian,8,Mon,Medium,26,34.3
+1078,5,Italian,18,Sun,Medium,22,40.5
+1056,7,South Indian,16,Sat,Medium,23,41.4
+1067,5,Fast Food,23,Wed,Medium,21,29.5
+1016,4,Italian,14,Sun,Medium,20,44.3
+1083,8,South Indian,18,Thu,Medium,10,28.2
+1051,5,Chinese,20,Sun,Medium,12,34.7
+1082,3,South Indian,17,Mon,Medium,21,29.5
+1080,6,Chinese,9,Fri,Medium,18,35.2
+1072,2,Italian,21,Tue,Medium,11,18.2
+1097,5,Chinese,13,Mon,Medium,23,38.7
+1012,3,South Indian,15,Thu,High,14,26.2
+1053,2,Fast Food,22,Wed,Medium,12,13.2
+1075,8,Indian,9,Sun,High,21,47.0
+1005,7,Indian,23,Mon,Medium,21,39.4
+1027,2,Fast Food,22,Wed,High,30,37.2
+1012,7,Indian,12,Fri,Medium,16,34.4
+1017,5,Italian,20,Thu,High,10,34.6
+1006,3,Italian,19,Thu,Low,12,24.9
+1097,6,South Indian,18,Sun,Low,20,30.5
+1005,5,South Indian,13,Tue,Medium,22,37.4
+1057,7,Chinese,10,Sat,High,19,46.4
+1028,4,South Indian,21,Thu,Medium,28,40.4
+1078,2,Italian,19,Mon,Low,13,20.2
+1069,5,South Indian,9,Mon,Medium,14,23.7
+1059,7,Indian,23,Mon,Medium,20,38.0
+1033,8,Chinese,22,Fri,Medium,18,39.4
+1062,2,Chinese,18,Thu,Medium,22,31.2
+1050,8,Italian,13,Thu,High,26,52.8
+1019,7,South Indian,10,Mon,High,24,50.0
+1086,3,Indian,9,Sun,Low,22,30.3
+1069,1,South Indian,22,Tue,Medium,30,29.9
+1066,8,Fast Food,8,Sun,Medium,20,41.9
+1094,5,South Indian,21,Tue,Medium,10,24.5
+1047,6,Italian,15,Thu,Low,17,28.5
+1039,5,South Indian,8,Sun,High,14,33.6
+1068,2,Chinese,19,Thu,Medium,25,39.3
+1033,3,Indian,22,Wed,High,13,23.9
+1013,7,Italian,12,Thu,High,28,49.7
+1084,4,Fast Food,18,Sun,Low,27,31.1
+1054,6,Indian,13,Mon,High,11,42.0
+1007,3,Indian,23,Sat,Medium,22,34.8
+1079,8,Chinese,18,Fri,Medium,25,42.4
+1087,8,Chinese,19,Thu,Medium,17,42.7
+1014,5,Chinese,19,Thu,Medium,28,47.5
+1087,4,Italian,10,Mon,Medium,12,22.0
+1019,3,South Indian,21,Wed,Medium,28,42.7
+1054,1,Indian,23,Sat,Low,26,30.6
+1093,6,South Indian,14,Thu,Medium,18,39.2
+1020,2,South Indian,9,Tue,Low,30,32.1
+1029,3,Chinese,14,Tue,Low,30,36.6
+1024,3,South Indian,9,Tue,Medium,26,28.0
+1082,1,Indian,23,Fri,Medium,10,16.7
+1063,5,Indian,12,Fri,Medium,13,25.6
+1074,7,Fast Food,14,Sat,Low,24,38.9
+1057,7,Italian,23,Thu,High,21,43.5
+1008,6,South Indian,18,Thu,Medium,26,34.1
+1090,6,Italian,18,Thu,Low,21,30.6
+1062,2,Italian,21,Fri,Medium,25,38.2
+1029,3,Italian,10,Sat,Medium,22,35.7
+1074,4,Italian,21,Thu,Low,20,35.6
+1017,3,Indian,23,Mon,Medium,24,38.3
+1066,7,South Indian,18,Wed,High,25,44.9
+1006,2,Fast Food,11,Sun,Medium,15,20.2
+1058,3,Italian,8,Tue,Low,20,25.0
+1069,1,Fast Food,23,Tue,High,24,31.8
+1028,7,Indian,10,Mon,Medium,14,31.4
+1062,3,Indian,16,Thu,High,12,25.5
+1041,3,Chinese,17,Sat,Low,11,14.4
+1069,7,Italian,12,Sat,Medium,10,27.8
+1082,4,Chinese,22,Fri,Medium,24,34.4
+1090,7,Fast Food,22,Thu,Low,11,21.5
+1084,1,South Indian,15,Sat,High,29,41.9
+1041,1,Chinese,9,Thu,Medium,15,21.1
+1049,3,Indian,10,Tue,Low,21,28.4
+1091,6,Italian,14,Sun,Medium,30,57.6
+1049,4,Fast Food,21,Sun,Medium,25,40.7
+1076,3,Indian,17,Sun,Low,23,33.4
+1071,7,South Indian,11,Tue,High,13,31.8
+1003,3,Italian,16,Fri,High,17,28.6
+1010,2,South Indian,21,Sun,Low,21,36.6
+1098,2,South Indian,14,Tue,Medium,23,37.0
+1089,6,Italian,21,Thu,Medium,29,49.2
+1035,4,Italian,18,Sun,High,22,47.6
+1080,5,South Indian,19,Mon,High,14,36.0
+1002,8,Fast Food,8,Fri,Medium,21,31.9
+1024,2,Italian,11,Mon,High,19,36.3
+1074,5,Indian,17,Thu,Medium,30,41.2
+1038,1,Chinese,18,Fri,Medium,28,32.6
+1022,2,Fast Food,13,Mon,High,22,31.0
+1026,2,Italian,13,Fri,Medium,18,29.2
+1043,4,Italian,17,Thu,Medium,20,32.8
+1055,6,Fast Food,13,Sat,Medium,14,32.8
+1039,5,Chinese,12,Sun,Low,22,30.7
+1091,7,South Indian,10,Fri,Medium,19,40.0
+1029,2,Indian,9,Sun,High,27,38.3
+1020,2,Italian,10,Sun,Medium,24,36.0
+1091,4,Chinese,16,Sat,High,29,48.7
+1041,4,Indian,10,Thu,Low,21,31.0
+1054,6,Fast Food,10,Fri,Medium,13,25.4
+1020,5,Italian,8,Fri,High,14,23.9
+1019,1,South Indian,9,Sat,Medium,17,22.5
+1084,7,Fast Food,18,Tue,Low,14,22.1
+1099,6,Italian,19,Sat,Medium,10,38.9
+1066,8,Chinese,10,Sat,Medium,27,46.7
+1030,1,Indian,9,Sat,Low,28,34.2
+1053,3,Indian,15,Thu,High,28,46.6
+1034,2,Italian,13,Wed,High,19,34.0
+1022,5,Fast Food,14,Sat,Medium,18,34.1
+1067,6,South Indian,8,Fri,High,10,28.5
+1006,2,Chinese,13,Mon,High,29,44.8
+1079,5,Italian,9,Tue,Medium,12,27.5
+1027,5,Chinese,20,Sat,Low,22,45.5
+1010,5,Indian,22,Sat,Low,15,29.5
+1073,2,South Indian,13,Tue,Low,15,15.9
+1097,6,Chinese,10,Sat,Low,27,38.2
+1096,7,Italian,14,Fri,Medium,14,41.0
+1048,4,South Indian,10,Wed,Medium,26,35.5
+1070,2,Fast Food,16,Sat,Low,12,10.1
+1059,8,Italian,10,Tue,Low,14,31.7
+1100,5,Chinese,14,Sat,Medium,12,31.1
+1059,6,South Indian,19,Thu,Low,22,36.9
+1002,7,Italian,11,Fri,High,24,43.2
+1029,3,South Indian,15,Fri,Low,26,29.1
+1068,8,South Indian,21,Wed,High,24,51.3
+1065,1,South Indian,9,Thu,High,14,23.5
+1083,8,Chinese,15,Thu,Medium,23,42.5
+1026,5,Italian,16,Wed,Medium,20,34.6
+1089,3,Indian,20,Sun,High,23,44.3
+1010,4,Indian,15,Sun,Low,16,33.3
+1053,7,Chinese,13,Mon,High,12,38.1
+1079,7,Chinese,17,Sun,High,29,49.5
+1059,5,South Indian,8,Sat,Medium,19,27.3
+1022,8,Italian,14,Thu,Medium,20,44.6
+1051,8,Italian,8,Mon,Medium,15,31.6
+1048,7,Fast Food,14,Mon,Medium,14,32.3
+1021,3,Fast Food,21,Fri,Medium,29,38.5
+1022,5,Indian,9,Sat,Medium,22,51.8
+1100,2,Fast Food,15,Fri,Low,21,15.8
+1098,6,Fast Food,9,Tue,Medium,28,41.0
+1030,3,Indian,10,Sun,Medium,28,39.1
+1025,6,Indian,20,Fri,Low,30,50.3
+1028,2,Fast Food,19,Thu,Low,14,21.9
+1065,2,Italian,10,Thu,Low,29,32.6
+1045,6,Fast Food,8,Sat,Medium,30,40.6
+1068,3,South Indian,12,Mon,Medium,18,25.9
+1007,6,South Indian,12,Thu,Low,13,20.6
+1049,6,South Indian,17,Sun,High,24,50.6
+1009,1,Chinese,12,Fri,High,12,22.2
+1036,3,South Indian,21,Sun,Medium,16,33.7
+1083,8,Italian,20,Fri,Low,29,50.8
+1001,8,Chinese,16,Sat,Medium,29,53.1
+1010,1,Chinese,13,Sun,Medium,23,35.4
+1036,5,South Indian,13,Fri,High,23,47.3
+1073,7,Fast Food,10,Sun,Medium,18,36.5
+1046,8,Indian,12,Wed,Medium,12,31.9
+1032,6,Fast Food,17,Sat,High,18,31.8
+1032,5,Fast Food,14,Sat,Low,30,46.1
+1006,8,Chinese,10,Thu,Low,13,27.9
+1048,3,Chinese,9,Sat,Medium,26,38.4
+1038,6,Chinese,12,Tue,Low,15,27.8
+1017,7,Italian,10,Thu,Low,25,42.9
+1074,5,Italian,12,Thu,Medium,27,40.3
+1027,8,Indian,16,Sun,Low,22,45.2
+1054,8,Chinese,18,Wed,Medium,16,34.6
+1050,4,South Indian,17,Thu,High,12,29.1
+1035,8,Chinese,8,Mon,Medium,15,31.6
+1085,2,Italian,11,Fri,Low,12,15.8
+1025,6,Chinese,17,Fri,Low,21,35.1
+1028,7,Italian,22,Sat,Low,14,24.7
+1015,2,Chinese,23,Sun,Low,26,34.7
+1004,1,South Indian,12,Wed,Low,19,20.9
+1093,5,Indian,9,Fri,Medium,16,36.0
+1073,8,South Indian,19,Mon,Medium,13,38.4
+1027,1,Italian,9,Wed,Medium,19,26.3
+1026,7,Fast Food,8,Tue,High,16,28.8
+1019,6,South Indian,21,Fri,High,20,42.1
+1092,2,Chinese,15,Thu,Medium,30,36.9
+1017,2,Indian,9,Mon,Low,17,27.1
+1043,5,Chinese,10,Sun,Medium,17,35.4
+1041,6,Chinese,22,Sun,Medium,14,29.4
+1042,8,South Indian,19,Mon,Low,14,33.6
+1050,4,Indian,9,Fri,High,16,32.8
+1084,4,Fast Food,11,Sat,Medium,13,20.3
+1040,5,Chinese,21,Tue,Low,11,26.9
+1039,6,Indian,8,Thu,High,28,49.4
+1023,5,Fast Food,10,Tue,High,11,20.5
+1096,6,Chinese,12,Tue,Medium,25,42.3
+1052,7,Indian,17,Fri,Medium,21,40.1
+1047,7,South Indian,8,Thu,Medium,24,38.5
+1063,1,Chinese,23,Fri,Medium,19,29.3
+1097,8,Chinese,11,Fri,Low,15,32.6
+1069,5,Indian,13,Sat,Medium,22,45.4
+1043,8,Chinese,22,Mon,High,15,33.3
+1048,6,Fast Food,11,Sun,Low,11,23.1
+1034,4,Chinese,14,Sat,High,23,45.7
+1040,8,Italian,21,Sun,High,27,58.9
+1075,6,Fast Food,14,Sat,Low,15,27.9
+1061,7,Indian,13,Fri,High,28,52.7
+1050,6,Fast Food,16,Sat,Low,23,33.2
+1067,5,Italian,9,Sun,Medium,22,36.5
+1062,1,Italian,20,Sat,High,17,38.0
+1058,1,Chinese,17,Wed,Low,14,13.0
+1033,1,Chinese,15,Thu,Medium,22,26.4
+1075,1,South Indian,15,Mon,High,15,25.9
+1016,7,Fast Food,18,Sun,Medium,28,43.0
+1082,3,South Indian,17,Thu,Low,20,26.3
+1094,8,Italian,21,Mon,Low,25,47.5
+1048,5,Chinese,21,Wed,Medium,14,36.0
+1010,2,Chinese,18,Fri,High,21,33.6
+1082,5,Chinese,11,Sun,High,26,50.6
+1038,3,Indian,13,Mon,Medium,11,26.4
+1019,1,Italian,18,Mon,Medium,19,28.1
+1036,3,Chinese,13,Mon,Low,24,37.8
+1059,4,Italian,12,Wed,Low,28,39.6
+1063,4,Chinese,21,Thu,Medium,29,40.8
+1077,8,Fast Food,8,Wed,Medium,26,30.0
+1046,7,Italian,10,Mon,Medium,28,47.3
+1003,5,South Indian,14,Sat,High,28,53.0
+1074,5,Indian,15,Mon,Medium,22,37.8
+1065,2,South Indian,9,Sat,Medium,22,31.9
+1091,7,Italian,10,Fri,Low,25,37.6
+1008,2,Chinese,11,Wed,High,30,44.3
+1051,4,Italian,21,Sat,High,12,38.2
+1081,1,Indian,18,Wed,High,13,25.5
+1073,3,Italian,12,Tue,Medium,16,26.5
+1006,2,Chinese,10,Thu,Medium,12,21.5
+1089,6,South Indian,12,Tue,Medium,18,30.0
+1039,2,Fast Food,15,Sat,Low,17,15.3
+1060,1,South Indian,15,Tue,Medium,27,28.4
+1028,1,Chinese,21,Sun,High,30,47.3
+1097,5,Chinese,9,Thu,Low,23,36.5
+1054,3,Indian,13,Sat,Low,29,44.8
+1037,1,Italian,11,Fri,Medium,14,18.8
+1009,7,Italian,16,Fri,Low,12,26.2
+1082,2,South Indian,17,Thu,Medium,19,22.5
+1056,2,Fast Food,9,Thu,Medium,20,22.0
+1059,4,Fast Food,15,Sat,Medium,26,34.0
+1085,1,Indian,8,Wed,High,17,25.8
+1002,6,Chinese,18,Sun,Medium,18,39.1
+1061,5,Indian,13,Sat,High,17,43.9
+1058,3,Italian,18,Wed,High,29,44.3
+1060,6,Chinese,18,Wed,High,11,32.9
+1040,5,Indian,21,Wed,Low,13,30.1
+1036,2,South Indian,19,Sat,Low,25,35.8
+1037,6,Italian,17,Mon,Low,18,29.1
+1079,5,Fast Food,20,Mon,Medium,18,33.2
+1092,2,Indian,8,Fri,High,30,44.6
+1018,2,Italian,9,Mon,Medium,14,23.0
+1098,2,Italian,10,Mon,High,12,28.9
+1063,2,Fast Food,16,Wed,Medium,23,29.1
+1022,7,Fast Food,12,Wed,Medium,24,36.4
+1011,2,Fast Food,17,Thu,High,15,22.9
+1058,4,Indian,17,Wed,Medium,25,40.2
+1057,6,Fast Food,19,Sat,High,19,41.0
+1077,5,South Indian,9,Thu,Low,23,30.3
+1004,4,Italian,17,Sun,High,21,41.0
+1086,7,Fast Food,12,Thu,Medium,18,26.5
+1007,8,Italian,12,Mon,High,28,59.5
+1061,8,Chinese,8,Wed,Low,21,34.2
+1054,4,Chinese,10,Mon,Medium,22,34.6
+1088,1,Fast Food,12,Wed,High,22,27.7
+1068,1,Italian,16,Mon,High,26,39.9
+1092,1,Chinese,17,Sun,Low,11,14.6
+1079,3,Fast Food,23,Mon,Medium,29,34.1
+1001,1,Italian,8,Mon,Medium,18,22.2
+1055,5,Fast Food,15,Sat,Low,30,40.6
+1003,4,Italian,8,Sun,Medium,17,34.2
+1078,5,Chinese,16,Fri,Low,16,20.8
+1038,6,Fast Food,23,Sun,Medium,14,26.8
+1001,1,Chinese,13,Mon,Medium,28,34.6
+1038,7,Fast Food,8,Tue,Medium,12,21.2
+1085,3,Indian,15,Tue,Medium,22,36.2
+1029,6,Chinese,12,Tue,High,15,27.3
+1005,7,Chinese,14,Sat,Low,20,43.7
+1074,3,South Indian,14,Thu,Medium,13,27.5
+1092,8,Chinese,22,Mon,Low,12,26.2
+1021,6,Italian,14,Sun,Medium,13,39.4
+1071,8,Fast Food,13,Tue,Low,12,34.5
+1067,4,Indian,18,Sat,Low,22,30.2
+1047,5,Italian,15,Thu,Medium,24,43.1
+1084,2,Italian,16,Tue,Medium,21,32.5
+1083,5,Italian,19,Wed,High,24,45.9
+1035,1,Italian,22,Fri,Medium,20,28.4
+1068,8,Indian,9,Mon,High,20,42.1
+1069,7,South Indian,14,Fri,Medium,22,41.1
+1001,2,Chinese,22,Fri,Low,21,18.3
+1068,3,Italian,9,Wed,Medium,15,21.4
+1012,8,Chinese,13,Wed,Medium,29,53.5
+1060,4,Chinese,9,Wed,Medium,28,40.6
+1027,4,Italian,17,Thu,Medium,28,41.6
+1056,8,South Indian,13,Tue,Medium,12,36.3
+1023,8,Chinese,9,Sun,Medium,25,46.8
+1025,8,Fast Food,8,Mon,Low,18,29.4
+1021,3,Chinese,14,Wed,Low,23,36.6
+1061,1,Italian,10,Sat,Low,12,18.5
+1063,3,Indian,21,Mon,Low,12,23.1
+1052,6,Chinese,19,Sun,High,29,56.4
+1088,7,South Indian,21,Mon,Low,16,30.1
+1025,8,Fast Food,20,Mon,Medium,28,49.0
+1055,7,Fast Food,11,Wed,Medium,12,18.8
+1046,1,Indian,20,Wed,Low,30,38.3
+1032,2,Indian,23,Tue,High,10,26.3
+1055,3,Chinese,23,Sun,Medium,21,30.3
+1096,1,Italian,13,Wed,Low,30,33.6
+1005,7,South Indian,12,Wed,High,15,28.8
+1036,2,Fast Food,11,Mon,Low,16,13.7
+1049,3,Indian,16,Tue,Low,11,15.0
+1058,4,South Indian,13,Fri,High,27,49.8
+1039,3,Italian,13,Wed,Medium,24,34.7
+1080,5,Fast Food,9,Sat,Low,24,32.6
+1097,3,Fast Food,13,Wed,Low,19,20.5
